@@ -104,8 +104,8 @@ chapter4bba_option_b = print("""
     As the resistance from the scrolls intensifies, you begin to doubt whether this is the right course of action. You may choose to halt the process, believing there might be another way to handle the forbidden knowledge.""")
 
 chapter4bbb_option_a = print("""
-OPTION A
-You fully commit to the research of the forbidden scrolls, determined to harness their power responsibly and for the greater good of the cosmic ninja world.""")
+    OPTION A
+    You fully commit to the research of the forbidden scrolls, determined to harness their power responsibly and for the greater good of the cosmic ninja world.""")
 chapter4bbb_option_b = print("""
-OPTION B
-As the research progresses, you become increasingly concerned about the risks and potential consequences. You may choose to limit the scope of the study or take precautions to prevent misuse.""")
+    OPTION B
+    As the research progresses, you become increasingly concerned about the risks and potential consequences. You may choose to limit the scope of the study or take precautions to prevent misuse.""")
