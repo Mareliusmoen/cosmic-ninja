@@ -3,6 +3,8 @@ import welcome_text
 import os
 import chapter1
 import chapter2
+import chapter3
+
 clear = lambda: os.system('clear') 
 
 answer_a = ["a", "A"]
@@ -33,14 +35,14 @@ while True:
             chapter2.chapter2a_option_b()
             print(new_line)
             chapter2a_answer = input('What would you like to do? ENTER [a / b] >>')
-                if chapter2a_answer in answer_a:
+            if chapter2a_answer in answer_a:
                 clear()
                 chapter3.chapter3aa()
                 chapter3.chapter3aa_option_a()
                 chapter3.chapter3aa_option_b()
                 print(new_line)
                 chapter3aa_answer = input('What would you like to do? ENTER [a / b] >>')
-                elif chapter2a_answer in answer_b:
+            elif chapter2a_answer in answer_b:
                 clear()
                 chapter3.chapter3ab()
                 chapter3.chapter3ab_option_a()
@@ -54,14 +56,14 @@ while True:
             chapter2.chapter2b_option_b()
             print(new_line)
             chapter2b_answer = input('What would you like to do? ENTER [a / b] >>')
-                if chapter2b_answer in answer_a:
+            if chapter2b_answer in answer_a:
                 clear()
                 chapter3.chapter3ba()
                 chapter3.chapter3ba_option_a()
                 chapter3.chapter3ba_option_b()
                 print(new_line)
                 chapter3ba_answer = input('What would you like to do? ENTER [a / b] >>')
-                elif chapter2b_answer in answer_b:
+            elif chapter2b_answer in answer_b:
                 clear()
                 chapter3.chapter3bb()
                 chapter3.chapter3bb_option_a()
