@@ -19,9 +19,11 @@ name = input('ENTER YOUR NINJA NAME >> ')
 clear()
 
 welcome_text.start_message(name)
+print(new_line)
+first_answer = input('Would you like to start your adventure? ENTER [yes / no]: >>')
+
 # game loop
 while True:
-    first_answer = input('Would you like to start your adventure? ENTER [yes / no]: >>')
     if first_answer in answer_yes:
         clear()
         chapter1.chapter1()
