@@ -1,6 +1,19 @@
 def chapter3aa():
     print("""
+                                 .     .     . +.    +  .
+                   . .  +       \|/     . .  +        .       .   . .
+                . .       . .  + V  . .  +         .    * . . .  .  +   .
+           +      .           .   .      +
+          . .  +         . .  +           .       . +  .+. .
+            . .  +         . .  +         .     . + .  . .     .      .
+           .            .    .     . .   . .  + . . .        ! /
+            *    *   .  *  . +..           .    . .        - O -
+          .           .    .  +   . .    *   .  **  .    . / |
+                  . .  +  . + .  .  .  .. +  .    . +..     
+       .  .  .  *   .  *  . +..  .            * .    * . . .
+        .   . .   .   .   . .  +   .    .            +
     Chapter 3: Embrace the Rivalry
+
 Your decision to embrace the rivalry with Hiro has led to a series of intense sparring matches and 
 training sessions. Each encounter pushes both of you to your limits, and you learn valuable lessons 
 from one another. The rivalry between you two has evolved into a mutual respect for each other's 
@@ -9,9 +22,22 @@ compartment in the wall. Inside, you discover a set of encrypted data chips cont
 information about a powerful cosmic artifact known as the "Starshard." The Starshard is said to 
 possess unimaginable energy and is rumored to have the ability to reshape the galaxy itself.""")
 
-def Chapter3ab():
+def chapter3ab():
     print("""
+                                    .     .     . +.    +  .
+                   . .  +       \|/     . .  +        .       .   . .
+                . .       . .  + V  . .  +         .    * . . .  .  +   .
+           +      .           .   .      +
+          . .  +         . .  +           .       . +  .+. .
+            . .  +         . .  +         .     . + .  . .     .      .
+           .            .    .     . .   . .  + . . .        ! /
+            *    *   .  *  . +..           .    . .        - O -
+          .           .    .  +   . .    *   .  **  .    . / |
+                  . .  +  . + .  .  .  .. +  .    . +..     
+       .  .  .  *   .  *  . +..  .            * .    * . . .
+        .   . .   .   .   . .  +   .    .            +
     Chapter 3: Peaceful Resolution
+
 Your decision to seek a peaceful resolution with Hiro has led to a surprising turn of events. 
 Hiro, once your fierce rival, has become your ally in the pursuit of cosmic ninja excellence. 
 Together, you both put aside your differences and focus on collaborative training and missions.
@@ -21,7 +47,20 @@ unimaginable energy and is rumored to have the ability to reshape the galaxy its
 
 def chapter3ba():
     print("""
+                                    .     .     . +.    +  .
+                   . .  +       \|/     . .  +        .       .   . .
+                . .       . .  + V  . .  +         .    * . . .  .  +   .
+           +      .           .   .      +
+          . .  +         . .  +           .       . +  .+. .
+            . .  +         . .  +         .     . + .  . .     .      .
+           .            .    .     . .   . .  + . . .        ! /
+            *    *   .  *  . +..           .    . .        - O -
+          .           .    .  +   . .    *   .  **  .    . / |
+                  . .  +  . + .  .  .  .. +  .    . +..     
+       .  .  .  *   .  *  . +..  .            * .    * . . .
+        .   . .   .   .   . .  +   .    .            +
     Chapter 3: Secrets of the Forbidden Scrolls
+
 With a sense of intrigue and defiance, you decide to delve into the forbidden scrolls, despite the 
 risk. Late at night, you sneak into the archives and carefully unlock the holographic shield guarding
 the ancient knowledge. The scrolls reveal cosmic ninja techniques and insights that were deemed 
@@ -33,7 +72,20 @@ responsibility.""")
 
 def chapter3bb():
     print("""
+                                    .     .     . +.    +  .
+                   . .  +       \|/     . .  +        .       .   . .
+                . .       . .  + V  . .  +         .    * . . .  .  +   .
+           +      .           .   .      +
+          . .  +         . .  +           .       . +  .+. .
+            . .  +         . .  +         .     . + .  . .     .      .
+           .            .    .     . .   . .  + . . .        ! /
+            *    *   .  *  . +..           .    . .        - O -
+          .           .    .  +   . .    *   .  **  .    . / |
+                  . .  +  . + .  .  .  .. +  .    . +..     
+       .  .  .  *   .  *  . +..  .            * .    * . . .
+        .   . .   .   .   . .  +   .    .            +
     Chapter 3: The Academy's Decision
+
 Your sense of responsibility leads you to make a difficult but principled choice. 
 You promptly inform the academy instructor about the discovery of the forbidden scrolls, 
 demonstrating your dedication to the academy's rules and values. 

@@ -4,6 +4,7 @@ def chapter2a():
         |_|_|_|_|_|_|_|_|_|_________________________________________________________/
                           !
     Chapter 2: The Mysterious Rival
+
 You decide to approach Master Shinobi with determination, introducing yourself and expressing your 
 eagerness to embark on your cosmic ninja journey. Master Shinobi, with a wise smile, 
 listens to your aspirations and welcomes you with a nod of approval.
@@ -22,6 +23,7 @@ def chapter2b():
          |_|_|_|_|_|_|_|_|_|_________________________________________________________/
                            !
     Chapter 2: The Forbidden Scrolls
+    
 You decide to blend into the crowd and observe the various training sessions, contemplating how 
 you'll navigate this new world. While wandering through the academy's extensive archives, 
 you stumble upon a section marked "Forbidden Scrolls." The scrolls are encased in a holographic 
