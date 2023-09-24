@@ -36,7 +36,8 @@ while True:
             chapter2.chapter2b_option_a()
             chapter2.chapter2b_option_b()
         else:
-            print("Oops! It seems like you've entered an invalid choice. Please enter 'a' or 'b'.")
+            print("""Uh-oh, it appears your ninja instincts are momentarily eclipsed by the cosmic chaos. 
+            Take a deep breath, focus your energy, and try again with the precision of a laser ninja-star! Please enter 'a' or 'b'.""")
         
         break
     elif first_answer in answer_no:
