@@ -30,6 +30,9 @@ Before we embark on this interstellar odyssey, what is your name, young ninja?
 
 def start_message(name):
     print(f"""
+            .______________________________________________________|_._._._._._._._._._.
+             \_____________________________________________________|_#_#_#_#_#_#_#_#_#_|
+                                                                   l
 Welcome, {name}...
 
 The cosmic currents have whispered your name among the constellations, 
