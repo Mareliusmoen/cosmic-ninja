@@ -9,7 +9,7 @@ answer_a = ["a", "A"]
 answer_b = ["b", "B"]
 answer_yes = ["y", "Y", "YES", "yes"]
 answer_no = ["n", "N", "NO", "no"]
-
+new_line = '\n'
 welcome_text.welcome_logo()
 welcome_text.introduction()
 name = input('ENTER YOUR NINJA NAME >> ')
@@ -24,6 +24,7 @@ while True:
         chapter1.chapter1()
         chapter1.chapter1_option_a()
         chapter1.chapter1_option_b()
+        print(new_line)
         chapter1_answer = input('What would you like to do? ENTER [a / b] >>')
         if chapter1_answer in answer_a:
             clear()
