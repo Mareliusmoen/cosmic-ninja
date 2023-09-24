@@ -33,6 +33,20 @@ while True:
             chapter2.chapter2a_option_b()
             print(new_line)
             chapter2a_answer = input('What would you like to do? ENTER [a / b] >>')
+                if chapter2a_answer in answer_a:
+                clear()
+                chapter3.chapter3aa()
+                chapter3.chapter3aa_option_a()
+                chapter3.chapter3aa_option_b()
+                print(new_line)
+                chapter3aa_answer = input('What would you like to do? ENTER [a / b] >>')
+                elif chapter2a_answer in answer_b:
+                clear()
+                chapter3.chapter3ab()
+                chapter3.chapter3ab_option_a()
+                chapter3.chapter3ab_option_b()
+                print(new_line)
+                chapter3ab_answer = input('What would you like to do? ENTER [a / b] >>')
         elif chapter1_answer in answer_b:
             clear()
             chapter2.chapter2b()
@@ -40,6 +54,20 @@ while True:
             chapter2.chapter2b_option_b()
             print(new_line)
             chapter2b_answer = input('What would you like to do? ENTER [a / b] >>')
+                if chapter2b_answer in answer_a:
+                clear()
+                chapter3.chapter3ba()
+                chapter3.chapter3ba_option_a()
+                chapter3.chapter3ba_option_b()
+                print(new_line)
+                chapter3ba_answer = input('What would you like to do? ENTER [a / b] >>')
+                elif chapter2b_answer in answer_b:
+                clear()
+                chapter3.chapter3bb()
+                chapter3.chapter3bb_option_a()
+                chapter3.chapter3bb_option_b()
+                print(new_line)
+                chapter3bb_answer = input('What would you like to do? ENTER [a / b] >>')
         else:
             print("""Uh-oh, it appears your ninja instincts are momentarily eclipsed by the cosmic chaos. 
             Take a deep breath, focus your energy, and try again with the precision of a laser ninja-star! Please enter 'a' or 'b'.""")
