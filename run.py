@@ -9,8 +9,8 @@ clear = lambda: os.system('clear')
 
 answer_a = ["a", "A"]
 answer_b = ["b", "B"]
-answer_yes = ["y", "Y", "YES", "yes"]
-answer_no = ["n", "N", "NO", "no"]
+answer_yes = ["y", "Y", "YES", "yes", "Yes", "YEs", "yES"]
+answer_no = ["n", "N", "NO", "no", "No", "nO"]
 new_line = '\n'
 welcome_text.welcome_logo()
 welcome_text.introduction()
@@ -99,6 +99,11 @@ while True:
                         chapter2b_answer = input('What would you like to do? ENTER [a / b] >>')
                 break # exit the loop for chapter1
             else:
+                clear()
+                chapter1.chapter1()
+                chapter1.chapter1_option_a()
+                chapter1.chapter1_option_b()
+                print(new_line)
                 print("""Uh-oh, it appears your ninja instincts are momentarily eclipsed by the cosmic chaos. 
                 Take a deep breath, focus your energy, and try again with the precision of a laser ninja-star! Please enter 'a' or 'b'.""")
                 chapter1_answer = input('What would you like to do? ENTER [a / b] >>')
@@ -108,10 +113,9 @@ while True:
         break
     else:
         clear()
-        chapter1.chapter1()
-        chapter1.chapter1_option_a()
-        chapter1.chapter1_option_b()
+        welcome_text.start_message(name)
         print(new_line)
         print("""Oops! It seems like you've entered a cosmic hiccup in the space-time continuum. 
         Give it another shot and remember, even cosmic ninjas make mistakes now and then! 
         Please enter 'yes' or 'no'.""")
+        first_answer = input('Would you like to start your adventure? ENTER [yes / no]: >>')
