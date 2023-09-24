@@ -1,5 +1,8 @@
 def chapter2a():
     print("""
+        ,_._._._._._._._._|__________________________________________________________,
+        |_|_|_|_|_|_|_|_|_|_________________________________________________________/
+                          !
     Chapter 2: The Mysterious Rival
 You decide to approach Master Shinobi with determination, introducing yourself and expressing your 
 eagerness to embark on your cosmic ninja journey. Master Shinobi, with a wise smile, 
@@ -15,6 +18,9 @@ will shape your path as a cosmic ninja.""")
 
 def chapter2b():
     print("""
+         ,_._._._._._._._._|__________________________________________________________,
+         |_|_|_|_|_|_|_|_|_|_________________________________________________________/
+                           !
     Chapter 2: The Forbidden Scrolls
 You decide to blend into the crowd and observe the various training sessions, contemplating how 
 you'll navigate this new world. While wandering through the academy's extensive archives, 
