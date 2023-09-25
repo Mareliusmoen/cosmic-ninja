@@ -4,6 +4,7 @@ import os
 import chapter1
 import chapter2
 import chapter3
+import chapter4
 
 clear = lambda: os.system('clear') 
 
@@ -31,8 +32,7 @@ while True:
         chapter1.chapter1_option_b()
         print(new_line)
         chapter1_answer = input('What would you like to do? ENTER [a / b] >>')
-        # loop for the choice in chapter 1
-        while True:
+        while True: # loop for the choice in chapter 1
             if chapter1_answer in answer_a:
                 clear()
                 chapter2.chapter2a()
@@ -48,6 +48,31 @@ while True:
                         chapter3.chapter3aa_option_b()
                         print(new_line)
                         chapter3aa_answer = input('What would you like to do? ENTER [a / b] >>')
+                        while True: # loop for chapter 3aa
+                            if chapter3aa_answer in answer_a:
+                                clear()
+                                chapter4.chapter4aaa()
+                                chapter4.chapter4aaa_option_a()
+                                chapter4.chapter4aaa_option_b()
+                                print(new_line)
+                                chapter4aaa_answer = input('What would you like to do? ENTER [a / b] >>')
+                                break #exit the loop for chapter 3aa
+                            elif chapter3aa_answer in answer_b:
+                                clear()
+                                chapter4.chapter4aab()
+                                chapter4.chapter4aab_option_a()
+                                chapter4.chapter4aab_option_b()
+                                print(new_line)
+                                chapter4aab_answer = input('What would you like to do? ENTER [a / b] >>')
+                                break #exit the loop for chapter 3aa
+                            else:
+                                clear()
+                                chapter3.chapter3aa()
+                                chapter3.chapter3aa_option_a()
+                                chapter3.chapter3aa_option_b()
+                                print(new_line)
+                                print("""Looks like you've entered the intergalactic labyrinth of choices. Don't worry, even cosmic ninjas sometimes take detours. Try your cosmic navigation skills again!""")
+                                chapter3aa_answer = input('What would you like to do? ENTER [a / b] >>')
                         break # exit the loop for chapter 2a
                     elif chapter2a_answer in answer_b:
                         clear()
@@ -56,6 +81,31 @@ while True:
                         chapter3.chapter3ab_option_b()
                         print(new_line)
                         chapter3ab_answer = input('What would you like to do? ENTER [a / b] >>')
+                        while True: # loop for chapter 3ab
+                            if chapter3aa_answer in answer_a:
+                                clear()
+                                chapter4.chapter4aba()
+                                chapter4.chapter4aba_option_a()
+                                chapter4.chapter4aba_option_b()
+                                print(new_line)
+                                chapter4aba_answer = input('What would you like to do? ENTER [a / b] >>')
+                                break #exit the loop for chapter 3ab
+                            elif chapter3aa_answer in answer_b:
+                                clear()
+                                chapter4.chapter4abb()
+                                chapter4.chapter4abb_option_a()
+                                chapter4.chapter4abb_option_b()
+                                print(new_line)
+                                chapter4abb_answer = input('What would you like to do? ENTER [a / b] >>')
+                                break #exit the loop for chapter 3ab
+                            else:
+                                clear()
+                                chapter3.chapter3ab()
+                                chapter3.chapter3ab_option_a()
+                                chapter3.chapter3ab_option_b()
+                                print(new_line)
+                                print("""Looks like you've entered the intergalactic labyrinth of choices. Don't worry, even cosmic ninjas sometimes take detours. Try your cosmic navigation skills again!""")
+                                chapter3ab_answer = input('What would you like to do? ENTER [a / b] >>')
                         break # exit the loop for chapter 2a
                     else:
                         clear()
