@@ -131,6 +131,31 @@ while True:
                         chapter3.chapter3ba_option_b()
                         print(new_line)
                         chapter3ba_answer = input('What would you like to do? ENTER [a / b] >>')
+                        while True: # loop for chapter 3ba
+                            if chapter3ba_answer in answer_a:
+                                clear()
+                                chapter4.chapter4baa()
+                                chapter4.chapter4baa_option_a()
+                                chapter4.chapter4baa_option_b()
+                                print(new_line)
+                                chapter4baa_answer = input('What would you like to do? ENTER [a / b] >>')
+                                break #exit the loop for chapter 3ba
+                            elif chapter3ba_answer in answer_b:
+                                clear()
+                                chapter4.chapter4bab()
+                                chapter4.chapter4bab_option_a()
+                                chapter4.chapter4bab_option_b()
+                                print(new_line)
+                                chapter4bab_answer = input('What would you like to do? ENTER [a / b] >>')
+                                break #exit the loop for chapter 3ba
+                            else:
+                                clear()
+                                chapter3.chapter3ba()
+                                chapter3.chapter3ba_option_a()
+                                chapter3.chapter3ba_option_b()
+                                print(new_line)
+                                print("""Looks like you've entered the intergalactic labyrinth of choices. Don't worry, even cosmic ninjas sometimes take detours. Try your cosmic navigation skills again!""")
+                                chapter3ba_answer = input('What would you like to do? ENTER [a / b] >>')
                         break # exit the loop for chapter2b
                     elif chapter2b_answer in answer_b:
                         clear()
