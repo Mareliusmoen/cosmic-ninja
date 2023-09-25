@@ -225,7 +225,8 @@ Your life is one of purpose and fulfillment, knowing that you have played a vita
 the cosmic ninja order's traditions and values. Your legacy lives on through the countless cosmic 
 ninjas you have inspired, ensuring that the galaxy will always have defenders who uphold the noble 
 principles of the cosmic ninja code.""")
-chapter5babb = print("""
+def chapter5babb():
+    print("""
     Chapter 5: The Immortal Guardian
 Master Shinobi recognizes the gravity of your proposal to safeguard the forbidden scrolls, 
 knowing the immense power they contain. With great care and wisdom, he helps you develop a plan 
@@ -283,7 +284,8 @@ complexities of handling forbidden knowledge and the consequences of deviating f
 Your future remains uncertain, as you navigate a treacherous existence on the fringes of the cosmic 
 ninja world, forever marked by your decision to defy convention and protect the forbidden scrolls 
 from destruction.""")
-chapter5bbba = print("""
+def chapter5bbba():
+    print("""
     Chapter 5: The Scholar's Legacy
 With unwavering determination, you fully commit to the research of the forbidden scrolls, seeking 
 to harness their power responsibly and for the greater good of the cosmic ninja world. 
