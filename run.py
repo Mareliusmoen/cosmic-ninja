@@ -7,7 +7,9 @@ import chapter3
 import chapter4
 import chapter5
 
-clear = lambda: os.system('clear') 
+# make sure it clears on all operating systems
+def clear():
+    os.system('cls' if os.name == 'nt' else 'clear')
 # to make sure that any way of writing your answer is accepted
 answer_a = ["a", "A"]
 answer_b = ["b", "B"]

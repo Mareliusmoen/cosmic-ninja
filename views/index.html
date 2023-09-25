@@ -11,6 +11,9 @@
         term.writeln('Running startup command: python3 run.py');
         term.writeln('');
 
+        // stop it from automatically scrolling to the bottom of text
+        term.scrollToBottom = function () {};
+
         var ws = new WebSocket(location.protocol.replace('http', 'ws') + '//' + location.hostname + (location.port ? (
             ':' + location.port) : '') + '/');
 
