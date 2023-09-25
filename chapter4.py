@@ -1,5 +1,9 @@
 def chapter4aaa():
     print("""
+            /\ 
+/vvvvvvvvvvvv \--------------------------------------,
+`^^^^^^^^^^^^ /====================================="
+            \/
     Chapter 4: Quest for the Starshard
 With Hiro as your trusted ally, you both embark on a quest to find the mysterious cosmic artifact 
 known as the "Starshard." The information you uncovered in the ancient tome leads you to believe 
@@ -13,6 +17,10 @@ guarding the artifact.""")
 
 def chapter4aab():
     print("""
+            /\ 
+/vvvvvvvvvvvv \--------------------------------------,
+`^^^^^^^^^^^^ /====================================="
+            \/
     Chapter 4: The Council's Decision
 You and Hiro, as allies, swiftly report the existence of the Starshard and the data chips to 
 Master Shinobi and the academy authorities. Your concerns about the potential dangers of this 
@@ -24,6 +32,10 @@ extraordinary artifact.""")
 
 def chapter4aba():
     print("""
+            /\ 
+/vvvvvvvvvvvv \--------------------------------------,
+`^^^^^^^^^^^^ /====================================="
+            \/
     Chapter 4: Quest for the Starshard
 With Hiro as your trusted ally, you both embark on a perilous quest to locate the cosmic artifact 
 known as the "Starshard." The information you gathered from the ancient tome hints at its presence 
@@ -38,6 +50,10 @@ ancient temple that seems to be the artifact's resting place.""")
 
 def chapter4abb():
     print("""
+            /\ 
+/vvvvvvvvvvvv \--------------------------------------,
+`^^^^^^^^^^^^ /====================================="
+            \/
     Chapter 4: Council of the Stars
 Your decision to report the existence of the Starshard and the information in the ancient tome to 
 Master Shinobi and the academy authorities sets a series of events in motion. The academy takes your 
@@ -51,6 +67,10 @@ the Starshard.""")
 
 def chapter4baa():
     print("""
+            /\ 
+/vvvvvvvvvvvv \--------------------------------------,
+`^^^^^^^^^^^^ /====================================="
+            \/
     Chapter 4: The Forbidden Power
 Your decision to persist in studying the forbidden scrolls has led to a significant advancement 
 in your cosmic ninja abilities. As you delve deeper into their teachings, you uncover ancient 
@@ -65,6 +85,10 @@ remarkable progress but expresses concern about the potential dangers of wieldin
 
 def chapter4bab():
     print("""
+            /\ 
+/vvvvvvvvvvvv \--------------------------------------,
+`^^^^^^^^^^^^ /====================================="
+            \/
     Chapter 4: A Noble Decision
 Your sense of responsibility prevails, and you make the difficult but principled choice to halt your 
 exploration of the forbidden scrolls. With caution and determination, you carefully return the 
@@ -78,6 +102,10 @@ requests a meeting with you to discuss your future within the cosmic ninja order
 
 def chapter4bba():
     print("""
+            /\ 
+/vvvvvvvvvvvv \--------------------------------------,
+`^^^^^^^^^^^^ /====================================="
+            \/
     Chapter 4: The Final Act
 Your unwavering commitment to the principles of the academy and your belief that the forbidden 
 scrolls pose a significant risk to the cosmic ninja world lead you to fully support the academy's 
@@ -92,6 +120,10 @@ its own demise, attempting to resist the obliteration.""")
 
 def chapter4bbb():
     print("""
+            /\ 
+/vvvvvvvvvvvv \--------------------------------------,
+`^^^^^^^^^^^^ /====================================="
+            \/
     Chapter 4: The Scholar's Gambit
 Your unwavering belief that the forbidden scrolls hold potential for the greater good leads you to 
 passionately advocate for their preservation and further study. You present a compelling argument 
