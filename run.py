@@ -164,6 +164,31 @@ while True:
                         chapter3.chapter3bb_option_b()
                         print(new_line)
                         chapter3bb_answer = input('What would you like to do? ENTER [a / b] >>')
+                        while True: # loop for chapter 3bb
+                            if chapter3bb_answer in answer_a:
+                                clear()
+                                chapter4.chapter4bba()
+                                chapter4.chapter4bba_option_a()
+                                chapter4.chapter4bba_option_b()
+                                print(new_line)
+                                chapter4bba_answer = input('What would you like to do? ENTER [a / b] >>')
+                                break #exit the loop for chapter 3bb
+                            elif chapter3bb_answer in answer_b:
+                                clear()
+                                chapter4.chapter4bbb()
+                                chapter4.chapter4bbb_option_a()
+                                chapter4.chapter4bbb_option_b()
+                                print(new_line)
+                                chapter4bbb_answer = input('What would you like to do? ENTER [a / b] >>')
+                                break #exit the loop for chapter 3bb
+                            else:
+                                clear()
+                                chapter3.chapter3bb()
+                                chapter3.chapter3bb_option_a()
+                                chapter3.chapter3bb_option_b()
+                                print(new_line)
+                                print("""Hold on a moment, it appears your cosmic ninja keyboard skills need a calibration. Try anew and aim for the accuracy of a laser-guided shuriken!""")
+                                chapter3bb_answer = input('What would you like to do? ENTER [a / b] >>')
                         break # exit the loop for chapter2b
                     else:
                         clear()
