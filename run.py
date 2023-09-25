@@ -19,7 +19,9 @@ new_line = '\n'
 # game start
 welcome_text.welcome_logo()
 print(new_line)
-welcome_answer = input('Would you like to read more about why I made this app ENTER [a], would you instead become the lethal ninja living deep inside you ENTER [b] >> ')
+welcome_answer = input("""
+Would you like to read more about why I made this app ENTER [a], 
+would you instead become the lethal ninja living deep inside you ENTER [b] >> """)
 while True: #welcome page with logo
     if welcome_answer in answer_a:
 
@@ -28,8 +30,13 @@ while True: #welcome page with logo
         clear()
         break # exit welcome page/logo loop
     else:
-        print("Uh-oh, it appears your ninja instincts are momentarily eclipsed by the cosmic chaos. Take a deep breath, focus your energy, and try again with the precision of a laser ninja-star! Please enter 'a' or 'b'.")
-        welcome_answer = input('Would you like to read more about why I made this app ENTER [a], would you instead become the lethal ninja living deep inside you ENTER [b] >> ')
+        print("""
+Uh-oh, it appears your ninja instincts are momentarily eclipsed by the 
+cosmic chaos. Take a deep breath, focus your energy, and try again with the 
+precision of a laser ninja-star! Please enter 'a' or 'b'.""")
+        welcome_answer = input("""
+Would you like to read more about why I made this app ENTER [a], would you 
+instead become the lethal ninja living deep inside you ENTER [b] >> """)
 welcome_text.introduction()
 name = input('ENTER YOUR NINJA NAME >> ')
 clear()
