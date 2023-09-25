@@ -14,12 +14,35 @@
             font-family: Arial;
         }
 
+        p {
+            background-image: url(ninja-background.png);
+        }
+
+        /*center the terminal and button*/
+        #main-container {
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            justify-content: center;
+        }
+
+        /*style background image*/
+        #background {
+            height: 100vh;
+            left: 0;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: -10;
+        }
+
         /**
         * Default styles for xterm.js
         */
 
         .xterm {
-            font-feature-settings: "liga"0;
+            font-feature-settings: "liga" 0;
             position: relative;
             user-select: none;
             -ms-user-select: none;
@@ -158,9 +181,9 @@
         button {
             width: 200px;
             height: 40px;
-            background-color: #E84610;
-            border: 1px solid grey;
-            color: white;
+            background-color: #000000;
+            border: 1px solid #FF10F0;
+            color: #FF10F0;
             text-transform: uppercase;
             margin: 10px;
             border-radius: 8px;
@@ -168,6 +191,6 @@
     </style>
 </head>
 
-@{body}
+<main id="main-container">@{body}</main>
 
 </html>
