@@ -5,6 +5,7 @@ import chapter1
 import chapter2
 import chapter3
 import chapter4
+import chapter5
 
 clear = lambda: os.system('clear') 
 # to make sure that any way of writing your answer is accepted
