@@ -14,10 +14,6 @@
             font-family: Arial;
         }
 
-        body {
-            background-image: url(/ninja-background.png);
-        }
-
         /*center the terminal and button*/
         #main-container {
             align-items: center;
@@ -35,6 +31,9 @@
             top: 0;
             width: 100%;
             z-index: -10;
+            background-image: url("/ninja-background.png");
+            background-size: cover;
+            background-repeat: no-repeat;
         }
 
         /**
@@ -190,7 +189,7 @@
         }
     </style>
 </head>
-<body background="/ninja-background.png"> <br>
+<body>
 <main id="main-container">@{body}</main>
 
 

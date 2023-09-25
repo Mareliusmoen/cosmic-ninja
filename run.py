@@ -18,6 +18,7 @@ new_line = '\n'
 
 # game start
 welcome_text.welcome_logo()
+print(new_line)
 welcome_answer = input('Would you like to read more about why I made this app ENTER [a], would you instead become the lethal ninja living deep inside you ENTER [b] >> ')
 while True: #welcome page with logo
     if welcome_answer in answer_a:
