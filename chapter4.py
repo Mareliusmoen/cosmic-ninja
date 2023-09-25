@@ -5,6 +5,7 @@ def chapter4aaa():
 `^^^^^^^^^^^^ /====================================="
             \/
     Chapter 4: Quest for the Starshard
+
 With Hiro as your trusted ally, you both embark on a quest to find the mysterious cosmic artifact 
 known as the "Starshard." The information you uncovered in the ancient tome leads you to believe 
 that it is hidden on a distant, uncharted planet at the edge of the galaxy.
@@ -22,6 +23,7 @@ def chapter4aab():
 `^^^^^^^^^^^^ /====================================="
             \/
     Chapter 4: The Council's Decision
+
 You and Hiro, as allies, swiftly report the existence of the Starshard and the data chips to 
 Master Shinobi and the academy authorities. Your concerns about the potential dangers of this 
 powerful cosmic artifact echo throughout the council chamber as you present your findings.
@@ -37,6 +39,7 @@ def chapter4aba():
 `^^^^^^^^^^^^ /====================================="
             \/
     Chapter 4: Quest for the Starshard
+
 With Hiro as your trusted ally, you both embark on a perilous quest to locate the cosmic artifact 
 known as the "Starshard." The information you gathered from the ancient tome hints at its presence 
 on a distant, uncharted planet at the fringes of the galaxy.
@@ -55,6 +58,7 @@ def chapter4abb():
 `^^^^^^^^^^^^ /====================================="
             \/
     Chapter 4: Council of the Stars
+
 Your decision to report the existence of the Starshard and the information in the ancient tome to 
 Master Shinobi and the academy authorities sets a series of events in motion. The academy takes your 
 concerns seriously, recognizing the gravity of the situation.
@@ -72,6 +76,7 @@ def chapter4baa():
 `^^^^^^^^^^^^ /====================================="
             \/
     Chapter 4: The Forbidden Power
+
 Your decision to persist in studying the forbidden scrolls has led to a significant advancement 
 in your cosmic ninja abilities. As you delve deeper into their teachings, you uncover ancient 
 techniques that grant you extraordinary powers. Your skills become unparalleled, and you become a 
@@ -107,6 +112,7 @@ def chapter4bba():
 `^^^^^^^^^^^^ /====================================="
             \/
     Chapter 4: The Final Act
+
 Your unwavering commitment to the principles of the academy and your belief that the forbidden 
 scrolls pose a significant risk to the cosmic ninja world lead you to fully support the academy's 
 decision to destroy them. You join the academy authorities and a team of trusted cosmic ninjas as 
@@ -125,6 +131,7 @@ def chapter4bbb():
 `^^^^^^^^^^^^ /====================================="
             \/
     Chapter 4: The Scholar's Gambit
+    
 Your unwavering belief that the forbidden scrolls hold potential for the greater good leads you to 
 passionately advocate for their preservation and further study. You present a compelling argument 
 before the academy council, emphasizing the importance of responsible exploration of the ancient techniques.
