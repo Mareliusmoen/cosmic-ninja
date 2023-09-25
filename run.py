@@ -1,4 +1,4 @@
-#All imports for the app
+# All imports for the app
 import welcome_text
 import os
 import chapter1
@@ -7,18 +7,19 @@ import chapter3
 import chapter4
 
 clear = lambda: os.system('clear') 
-
+# to make sure that any way of writing your answer is accepted
 answer_a = ["a", "A"]
 answer_b = ["b", "B"]
 answer_yes = ["y", "Y", "YES", "yes", "Yes", "YEs", "yES"]
 answer_no = ["n", "N", "NO", "no", "No", "nO"]
+# to style the console output
 new_line = '\n'
+
+# game start
 welcome_text.welcome_logo()
 welcome_text.introduction()
 name = input('ENTER YOUR NINJA NAME >> ')
-
 clear()
-
 welcome_text.start_message(name)
 print(new_line)
 first_answer = input('Would you like to start your adventure? ENTER [yes / no]: >>')
