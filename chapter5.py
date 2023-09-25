@@ -1,6 +1,13 @@
 def chapter5aaaa():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Cosmic Catastrophe
+
 Before you can reach for it, a powerful voice echoes through the chamber. It is the spirit guardian 
 of the Starshard, a cosmic entity tasked with protecting the artifact. The guardian warns you of 
 the immense responsibility and peril that comes with possessing such power.
@@ -20,7 +27,14 @@ The galaxy will never forget the day when two cosmic ninjas succumbed to the all
 
 def chapter5aaab():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Eternal Guardian
+
 Your decision to report the discovery of the Starshard to Master Shinobi and the academy authorities 
 leads to a series of deliberations among the most respected cosmic ninja mentors and leaders. 
 They recognize the gravity of the situation and the potential consequences of wielding such power.
@@ -42,7 +56,14 @@ cosmic ninja ideals.""")
 
 def chapter5aaba():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Cosmic Divide
+
 Your unwavering support for the council's decision to secure and study the Starshard under the 
 academy's guidance sets a series of events into motion that will forever alter the cosmic ninja world.
 In the beginning, the academy's research into the Starshard proceeds cautiously and methodically. 
@@ -64,7 +85,14 @@ both salvation and destruction continues to shape the destiny of all who seek it
 
 def chapter5aabb():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Starshard's Secret
+
 Your impassioned plea for the complete containment and sealing of the Starshard prevails within the 
 academy council. They recognize the potential for untold destruction that the cosmic artifact 
 represents and agree to your proposal.
@@ -83,7 +111,14 @@ cosmic ninja world.""")
 
 def chapter5abaa():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: Betrayal in the Temple
+
 With unwavering determination, you and Hiro enter the temple to confront its guardians and claim the 
 Starshard, united by a common goal. As you venture deeper into the ancient temple, the air becomes 
 charged with anticipation.
@@ -101,7 +136,14 @@ cosmic ninja world.""")
 
 def chapter5abab():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Guardian's Judgment
+
 Overwhelmed by the gravity of your decision, you choose to delay your entry into the temple, 
 seeking clarity on how to proceed with the Starshard. As you stand outside the ancient temple, 
 contemplating the artifact's immense power, the air around you crackles with cosmic energy.
@@ -122,7 +164,14 @@ be judged and defeated by its guardian. Your story serves as a warning of the co
 ultimate power without understanding the responsibilities it entails.""")
 def chapter5abba():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Sword of Eternity
+
 Decades pass as the academy diligently studies the Starshard, unlocking its secrets and harnessing 
 its cosmic power. You have devoted your life to this pursuit, understanding the potential for the 
 greater good that lies within the artifact.
@@ -143,7 +192,14 @@ of the cosmic ninja ideals, ensuring that the legacy of the Starshard serves as 
 hope and protection for all.""")
 def chapter5abbb():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Vault of Eternity
+
 Your persuasive argument in favor of complete containment and sealing of the Starshard convinces 
 the council of the potential dangers that the artifact poses. They agree to construct the most 
 secure vault in the galaxy, a planet entirely dedicated to housing and safeguarding the Starshard 
@@ -167,6 +223,12 @@ that the Starshard's power is safely contained for all eternity, and the galaxy 
 assured that it will remain protected from those who would seek to wield it recklessly.""")
 def chapter5baaa():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Descent into Darkness
 Your choice to continue mastering the forbidden techniques proves to be a double-edged sword. 
 As the years pass, you become the most powerful ninja in the galaxy, with unmatched skills in 
@@ -185,7 +247,14 @@ of forbidden techniques, a cautionary tale of the dangers of choosing power over
 ethics that define the cosmic ninja order.""")
 def chapter5baab():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The League of Protective Ninja
+
 With Master Shinobi's guidance, you continue to develop and harness your newfound powers for the 
 greater good. Your skills as a cosmic ninja grow exponentially, and your dedication to the values 
 of the cosmic ninja order remains unwavering.
@@ -207,7 +276,14 @@ brightly for all time.
     """)
 def chapter5baba():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Teacher's Legacy
+
 Your decision to continue your training within the academy is a testament to your unwavering 
 commitment to the cosmic ninja order's principles and values. As the years pass, you diligently 
 study and train, never becoming the strongest or most powerful ninja, but always remaining faithful 
@@ -227,6 +303,12 @@ ninjas you have inspired, ensuring that the galaxy will always have defenders wh
 principles of the cosmic ninja code.""")
 def chapter5babb():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Immortal Guardian
 Master Shinobi recognizes the gravity of your proposal to safeguard the forbidden scrolls, 
 knowing the immense power they contain. With great care and wisdom, he helps you develop a plan 
@@ -245,7 +327,14 @@ Your selfless commitment to this duty becomes a symbol of dedication and sacrifi
 cosmic ninja world, a testament to the lengths to which one can go to safeguard the greater good.""")
 def chapter5bbaa():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Heroic Incineration
+
 As you stand before the incinerator, unwavering in your determination to see the forbidden scrolls 
 destroyed, a group of cosmic ninjas who opposed their destruction make a desperate move. 
 They attempt to stop you from placing the scrolls into the flames, believing that their power 
@@ -265,7 +354,14 @@ the lengths one can go to protect the greater good. The forbidden scrolls are no
 and the galaxy remains safe from their potential dangers, thanks to your heroic actions.""")
 def chapter5bbab():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: Fugitive of Power
+
 As you stand before the incinerator, doubt creeps into your mind. The resistance from the forbidden 
 scrolls intensifies, and you begin to question whether destroying them is the right course of action. Could there be another way to handle this forbidden knowledge?
 In a last-minute decision, you halt the process, choosing not to incinerate the scrolls. 
@@ -286,7 +382,14 @@ ninja world, forever marked by your decision to defy convention and protect the 
 from destruction.""")
 def chapter5bbba():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Scholar's Legacy
+
 With unwavering determination, you fully commit to the research of the forbidden scrolls, seeking 
 to harness their power responsibly and for the greater good of the cosmic ninja world. 
 Over the years, you become a true scholar of the scrolls, unlocking their secrets and understanding 
@@ -308,7 +411,14 @@ ensuring that the power of the forbidden scrolls is harnessed responsibly and ne
 for evil.""")
 def chapter5bbbb():
     print("""
+    .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
+     .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+      .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Cataclysmic Unleashing
+
 As your research into the forbidden scrolls progresses, your concerns about the risks and potential 
 consequences intensify. You come to realize that the power contained within these scrolls is too 
 dangerous to be left unchecked.
