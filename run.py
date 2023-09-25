@@ -135,6 +135,27 @@ while True:
                                 chapter4.chapter4aba_option_b()
                                 print(new_line)
                                 chapter4aba_answer = input('What would you like to do? ENTER [a / b] >>')
+                                while True: # loop for chapter 4aba
+                                    if chapter4aba_answer in answer_a:
+                                        clear()
+                                        chapter5.chapter5abaa()
+                                        print(new_line)
+                                                                        
+                                        break #exit the loop for chapter 4aba
+                                    elif chapter4aba_answer in answer_b:
+                                        clear()
+                                        chapter5.chapter5abab()
+                                        print(new_line)
+                                                                        
+                                        break #exit the loop for chapter 4aba
+                                    else:
+                                        clear()
+                                        chapter4.chapter4aba()
+                                        chapter4.chapter4aba_option_a()
+                                        chapter4.chapter4aba_option_b()
+                                        print(new_line)
+                                        print("""Looks like you've entered the intergalactic labyrinth of choices. Don't worry, even cosmic ninjas sometimes take detours. Try your cosmic navigation skills again!""")
+                                        chapter4aba_answer = input('What would you like to do? ENTER [a / b] >>')
                                 break #exit the loop for chapter 3ab
                             elif chapter3ab_answer in answer_b:
                                 clear()
