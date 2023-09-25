@@ -84,7 +84,7 @@ while True:
                         print(new_line)
                         chapter3ab_answer = input('What would you like to do? ENTER [a / b] >>')
                         while True: # loop for chapter 3ab
-                            if chapter3aa_answer in answer_a:
+                            if chapter3ab_answer in answer_a:
                                 clear()
                                 chapter4.chapter4aba()
                                 chapter4.chapter4aba_option_a()
@@ -92,7 +92,7 @@ while True:
                                 print(new_line)
                                 chapter4aba_answer = input('What would you like to do? ENTER [a / b] >>')
                                 break #exit the loop for chapter 3ab
-                            elif chapter3aa_answer in answer_b:
+                            elif chapter3ab_answer in answer_b:
                                 clear()
                                 chapter4.chapter4abb()
                                 chapter4.chapter4abb_option_a()
