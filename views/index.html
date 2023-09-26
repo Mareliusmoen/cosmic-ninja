@@ -21,6 +21,19 @@
         ws.onerror = function (e) {
             console.log(e);
         };
+        // function to automatically scroll to the top when new content is loaded from run.py
+        function scrollToTop() {
+            term.scrollTo(0);
+        }
+
+        // register new data from python file and scroll automatically to the top when it's loaded
+        ws.onmessage = function (event) {
+            // printing text to output terminal
+            term.write(event.data);
+
+            // when all new data is printed, scroll to the top of text
+            scrollToTop();
+        };
         // Set focus in the terminal
         document.getElementsByClassName("xterm-helper-textarea")[0].focus();
     </script>
