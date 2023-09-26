@@ -24,10 +24,13 @@
                 }, 6); // number of ms the delay per character
             });
         }
-
+        // set the typewriter function to use
+        async function start() {
+            await typeText('Running startup command: python3 run.py');
+            term.writeln('');
         var ws = new WebSocket(location.protocol.replace('http', 'ws') + '//' + location.hostname + (location.port ? (
             ':' + location.port) : '') + '/');
-
+        
         ws.onopen = function () {
             new attach.attach(term, ws);
         };
@@ -37,5 +40,8 @@
         };
         // Set focus in the terminal
         document.getElementsByClassName("xterm-helper-textarea")[0].focus();
+    }
+    // make the text start writing to terminal
+        start();
     </script>
 </body>
