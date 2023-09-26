@@ -8,10 +8,8 @@
             rows: 24
         });
         term.open(document.getElementById('terminal'));
-
-        // tells what to be printed
-        var currentIndex = 0;
-        var textToPrint = 'Running startup command: python3 run.py';
+        term.writeln('Running startup command: python3 run.py');
+        term.writeln('');
         
         //function to print typewriter effect
         function printText() {
