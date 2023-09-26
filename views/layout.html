@@ -10,7 +10,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/xterm/3.14.5/addons/attach/attach.js"></script>
     <!-- Added web hosted favicon -->
     <link rel='icon' sizes="any"
-    href="https://cdn.gencraft.com/prod/user/b2f5cb13-c7f3-4839-a104-363eed95f88b/3c29229d-9880-4a49-a9b8-b70afa0154a6/images/image0_0.jpg?Expires=1703426910&Signature=HSp59GHbYU73Vp~V0rdl4EgwV7j3JbC7jBtbBPpmzJYSA5h0dgF~wMhdbAhySMVnjhmzgKhvmDE05iQrarF71zENoamWXkiEfjsY29QsmOeMaxbZ2Unh-IyeAe59p0PAQiCGgYr5M9GbWyRTL77i4mi02ShmdG1sphYcqzdLhfz8ugVH9xITzMscyIkDZTTGPeQunMTnoCF-i7IJWfQf~ufLnD-8qXFUguzc9BwK4JJcpFahWAMbUtEDExUxtD4~wKpQMdE5Ktk5JX7IN5j7KDD2uqAX59xfCGSGX2DI1IIYMtATRDUssAg-Y0ABd6IMaF4WXs8HN09QL7dl14KE2Q__&Key-Pair-Id=K3RDDB1TZ8BHT8" />
+        href="https://cdn.gencraft.com/prod/user/b2f5cb13-c7f3-4839-a104-363eed95f88b/3c29229d-9880-4a49-a9b8-b70afa0154a6/images/image0_0.jpg?Expires=1703426910&Signature=HSp59GHbYU73Vp~V0rdl4EgwV7j3JbC7jBtbBPpmzJYSA5h0dgF~wMhdbAhySMVnjhmzgKhvmDE05iQrarF71zENoamWXkiEfjsY29QsmOeMaxbZ2Unh-IyeAe59p0PAQiCGgYr5M9GbWyRTL77i4mi02ShmdG1sphYcqzdLhfz8ugVH9xITzMscyIkDZTTGPeQunMTnoCF-i7IJWfQf~ufLnD-8qXFUguzc9BwK4JJcpFahWAMbUtEDExUxtD4~wKpQMdE5Ktk5JX7IN5j7KDD2uqAX59xfCGSGX2DI1IIYMtATRDUssAg-Y0ABd6IMaF4WXs8HN09QL7dl14KE2Q__&Key-Pair-Id=K3RDDB1TZ8BHT8" />
     <title>The Cosmic Ninja Chronicles</title>
     <style>
         body {
@@ -18,6 +18,7 @@
             margin: 0;
             overflow: hidden;
         }
+
         /*center the terminal and button*/
         #main-container {
             align-items: center;
@@ -25,6 +26,29 @@
             flex-direction: column;
             height: 100vh;
             justify-content: center;
+        }
+
+        /* style for mute/unmute buttons*/
+        #mute-button {
+            height: 25px;
+            width: 25px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #00000033;
+            border-radius: 50%;
+            border: solid 1px #000000;
+        }
+
+        #unmute-button {
+            height: 25px;
+            width: 25px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #FF10F0;
+            border-radius: 50%;
+            border: solid 1px #000000;
         }
 
         /*style background image*/
@@ -193,9 +217,11 @@
         }
     </style>
 </head>
+
 <body id="background">
-<main id="main-container">@{body}</main>
+    <main id="main-container">@{body}</main>
 
 
 </body>
+
 </html>
