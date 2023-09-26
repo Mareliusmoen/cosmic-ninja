@@ -8,8 +8,22 @@
             rows: 24
         });
         term.open(document.getElementById('terminal'));
-        term.writeln('Running startup command: python3 run.py');
-        term.writeln('');
+        
+        // typewriter simulation function (print characters one-by-one)
+        function typeText(text) {
+            return new Promise((resolve) => {
+                let index = 0;
+                const typeInterval = setInterval(() => {
+                    if (index < text.length) {
+                        term.write(text[index]);
+                        index++;
+                    } else {
+                        clearInterval(typeInterval);
+                        resolve();
+                    }
+                }, 6); // number of ms the delay per character
+            });
+        }
 
         var ws = new WebSocket(location.protocol.replace('http', 'ws') + '//' + location.hostname + (location.port ? (
             ':' + location.port) : '') + '/');
