@@ -15,12 +15,12 @@ def welcome_logo():
 
 def introduction():
     print("""
-           /\                                                 /\
+           /\                                                 /\ 
  _         )( ______________________   ______________________ )(         _
 (_)///////(**)______________________> <______________________(**)\\\\\\\(_)
            )(                                                 )(
            \/                                                 \/
-           
+
 "Starshadows: The Cosmic Ninja Chronicles"
 
 In a galaxy far beyond our own, where stars burn brighter than the sharpest 
