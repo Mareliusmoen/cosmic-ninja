@@ -1,32 +1,104 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Cosmic Ninja Adventure
 
-Welcome,
+This python project….
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **March 14, 2023**
+## Demo
+![Shows the page on laptop, desktop, tablet and mobile screen](ADD IMAGE HERE)
+Link to the live site: ???
 
-## Reminders
+## User Stories
+This app is created for ??????
 
-- Your code must be placed in the `run.py` file
-- Your dependencies must be placed in the `requirements.txt` file
-- Do not edit any of the other files or your code may not deploy properly
+## Strategy
+???????
 
-## Creating the Heroku app
+## Wireframe/Flowchart
 
-When you create the app, you will need to add two buildpacks from the _Settings_ tab. The ordering is as follows:
 
-1. `heroku/python`
-2. `heroku/nodejs`
+### Welcome screen
+![wireframe of the welcome screen](assets/images/winequiz-welcome.png)
 
-You must then create a _Config Var_ called `PORT`. Set this to `8000`
+### Color scheme
+Pearl river #D9DDDC for background & charcoal #222021 for text & borders.
+For the correct- and wrong answer buttons aswell as unmute- and mute-butten the colors #81996750 & #ff9b9b50 are used.
 
-If you have credentials, such as in the Love Sandwiches project, you must create another _Config Var_ called `CREDS` and paste the JSON into the value field.
+## Technologies
+- HTML - To create a basic site
+- JavaScript - To create the Quiz itself
+- CSS - To style the site and quiz to make it accessible and nice to look at
+- Uizard - To create the wireframes
 
-Connect your GitHub repository and deploy as normal.
+## Excisting features
+????????
 
-## Constraints
+The app has:
+?????
 
-The deployment terminal is set to 80 columns by 24 rows. That means that each line of text needs to be 80 characters or less otherwise it will be wrapped onto a second line.
+### Screenshots
 
----
+## Features left to implement
 
-Happy coding!
+## Testing
+
+## Validator testing
+
+## Bugs
+
+## Unsolved bugs
+
+## Deployment
+## ***Final Deployment to Heroku:***  
+  
+The project was deployed to [Heroku](https://www.heroku.com) using the below procedure:-    
+  
+**Log in to Heroku** or create an account if required.
+**click** the button labeled **New** from the dashboard in the top right corner, just below the header.
+From the drop-down menu **select "Create new app"**.
+**Enter a unique app name**. I combined my GitHub user name and the game's name with a dash between them (dnlbowers-battleship) for this project.
+Once the web portal shows the green tick to confirm the name is original **select the relevant region.** In my case, I chose Europe as I am in Malta.
+ When happy with your choice of name and that the correct region is selected, **click** on the **"Create app" button**.
+This will bring you to the project "Deploy" tab. From here, navigate to the **settings tab** and scroll down to the **"Config Vars" section**. 
+**Click** the button labelled **"Reveal Config Vars"** and **enter** the **"key" as port**, the **"value" as 8000** and **click** the **"add"** button.
+Scroll down to the **buildpacks section of the settings page** and click the button labeled **" add buildpack," select "Python," and click "Save Changes"**.
+**Repeat step 11 but** this time **add "node.js" instead of python**. 
+   * ***IMPORTANT*** The buildpacks must be in the correct order. If node.js is listed first under this section, you can click on python and drag it upwards to change it to the first buildpack in the list.
+Scroll back to the top of the settings page, and **navigate to the "Deploy" tab.**
+From the deploy tab **select Github as the deployment method**.
+**Confirm** you want to **connect to GitHub**.
+**Search** for the **repository name** and **click** the **connect** button next to the intended repository.
+From the bottom of the deploy page **select your preferred deployment type** by follow one of the below steps:  
+Clicking either "Enable Automatic Deploys" for automatic deployment when you push updates to Github.  
+Select the correct branch for deployment from the drop-down menu and click the "Deploy Branch" button for manual deployment. 
+
+## Credits
+#### Deployment description in this readme.md file is from dnlbowers and his battleship apps readme.md file
+https://github.com/dnlbowers/battleships/tree/main
+#### multiple choice gives multiple choice again:
+https://www.youtube.com/watch?v=YPFss7hYBmg
+https://stackoverflow.com/questions/49455318/calling-multiple-functions-based-on-user-selection-in-python
+https://stackoverflow.com/questions/17166074/most-efficient-way-of-making-an-if-elif-elif-else-statement-when-the-else-is-don
+https://stackoverflow.com/questions/54608432/how-to-use-while-loops-with-multiple-if-elif-statements
+https://stackoverflow.com/questions/28443164/compound-if-elif-else-statements-python
+
+#### Making the ASCII logo for gamestart page:
+https://patorjk.com/software/taag/#p=display&h=1&v=1&c=vb&f=Star%20Wars&t=cosmic%0Aninja!%0A%0A%0A
+
+#### ASCII art from:
+https://ascii.co.uk/art/
+
+#### Background image generated with ai at:
+https://gencraft.com/
+#### Favicon created at free site:
+https://gencraft.com/
+#### Styling of the display from:
+https://github.com/dnlbowers/battleships/blob/main/views/layout.html
+
+#### make text appear as if written:
+https://stackoverflow.com/questions/60608275/how-can-i-print-text-so-it-looks-like-its-being-typed-out
+https://stackoverflow.com/questions/21590952/using-settimeout-to-print-a-string-char-by-char
+https://stackoverflow.com/questions/62605929/trying-to-write-character-by-character-with-delay-using-settimeout
+https://www.w3schools.com/jsref/met_win_settimeout.asp
+https://stackoverflow.com/questions/64691726/how-do-i-print-each-character-of-a-string-but-with-1s-of-delay-in-javascript 
+edit the order of the layout.html file:
+https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/open_event
+https://www.tabnine.com/code/javascript/functions/WebSocket
