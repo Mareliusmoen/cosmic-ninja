@@ -27,7 +27,9 @@ Would you instead become the lethal ninja living deep inside you ENTER [b]
 >>  """)
 while True: #welcome page with logo
     if welcome_answer in answer_a:
+        clear()
         welcome_text.backstory()
+        print(new_line)
         backstory_answer = input('Are you ready to play the game? ENTER [y]')
         while True: #backstory loop
             if backstory_answer in answer_yes:

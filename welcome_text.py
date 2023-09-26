@@ -59,6 +59,8 @@ to protect, and to conquer!""")
 
 def backstory():
     print("""
+    Backstory about this super duper cool nunchuck slingingly good story
+
 So the story behind this text based adventure game is my love for a really
 cheezy sci-fi story, and let's be honest who doesn't love a ninja with laser-
 weapons? Thats what I knew, everybody loves space travelling, Shuriken throwing,
