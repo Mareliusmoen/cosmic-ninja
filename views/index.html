@@ -8,7 +8,7 @@
             rows: 24
         });
         term.open(document.getElementById('terminal'));
-        var textToPrint = 'Running startup command: python3 run.py';
+        var textToPrint = 'Running startup command: python3 run.py\n\n';
         // tells what to be printed
         var currentIndex = 0;
 
@@ -17,7 +17,7 @@
             if (currentIndex < textToPrint.length) {
                 term.write(textToPrint.charAt(currentIndex));
                 currentIndex++;
-                setTimeout(printText, 2); // Delay of 2ms between characters
+                setTimeout(printText, 6); // 6ms between characters/letters
             }
         }
         // prints the defined text
