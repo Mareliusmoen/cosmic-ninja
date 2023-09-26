@@ -27,7 +27,17 @@ Would you instead become the lethal ninja living deep inside you ENTER [b]
 >>  """)
 while True: #welcome page with logo
     if welcome_answer in answer_a:
-
+        welcome_text.backstory()
+        backstory_answer = input('Are you ready to play the game? ENTER [y]')
+        while True: #backstory loop
+            if backstory_answer in answer_yes:
+                break #exit backstory loop
+            else:
+                print("""
+Uh-oh, it appears your ninja instincts are momentarily 
+eclipsed by the cosmic chaos. Take a deep breath, focus your energy, and try 
+again with the precision of a laser ninja-star!""")
+                backstory_answer = input('Are you ready to play the game? ENTER [y]')
         break # exit welcome page/logo loop
     elif welcome_answer in answer_b:
         clear()
@@ -41,6 +51,7 @@ precision of a laser ninja-star! Please enter 'a' or 'b'.""")
 Would you like to read more about why I made this app ENTER [a], 
 would you instead become the lethal ninja living deep inside you ENTER [b] 
 >>  """)
+clear()
 welcome_text.introduction()
 name = input('ENTER YOUR NINJA NAME >>  ')
 clear()
