@@ -33,8 +33,7 @@ the destiny of entire galaxies. As you step into this cosmic adventure, your
 path will be marked by choices that will define your legacy among the stars. 
 Will you emerge as a hero, a master of the cosmic arts, or will you succumb to 
 the temptations of power?
-Before we embark on this interstellar odyssey, what is your name, young ninja?
-""")
+Before we embark on this interstellar odyssey, what is your name, young ninja?""")
 
 def start_message(name):
     print(f"""
@@ -55,6 +54,5 @@ embark on this epic adventure through the cosmos. Your choices will echo through
 the void and ripple through the fabric of space and time. 
 Your destiny awaits among the starshadows.
 Prepare to journey beyond the stars, {name}, and may your cosmic ninja spirit 
-burn brighter than a supernova in the night sky. The galaxy is yours to explore, 
-to protect, and to conquer!
-""")
+burn brighter than a supernova in the night sky. The galaxy is yours to explore,
+to protect, and to conquer!""")

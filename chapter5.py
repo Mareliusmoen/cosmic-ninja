@@ -2,70 +2,77 @@ def chapter5aaaa():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Cosmic Catastrophe
 
-Before you can reach for it, a powerful voice echoes through the chamber. It is the spirit guardian 
-of the Starshard, a cosmic entity tasked with protecting the artifact. The guardian warns you of 
-the immense responsibility and peril that comes with possessing such power.
-With unwavering determination, you and Hiro disregard the warnings of the spirit guardian and 
-proceed to disable the protective wards guarding the Starshard. Its energy pulses with an 
-otherworldly glow as you reach out to claim its power.
-But as you touch the Starshard, its energy surges, overwhelming your senses. 
-The power within the crystal is too great for mortal beings to control. You and Hiro are consumed 
-by the Starshard's cosmic energies, your physical forms disintegrating into pure energy.
-The guardian's warnings echo in your minds as you become one with the Starshard, forever bound to 
-its immense power. You lose all sense of self and identity, becoming a cosmic force of destruction. 
-The Starshard, now with two cosmic entities merged into it, begins to wreak havoc on the galaxy.
-The once peaceful cosmic ninja order is shattered by the cataclysmic events unleashed by the 
-Starshard's uncontrollable power. Chaos reigns, and the galaxy falls into darkness and despair.
-Your legacy is one of tragedy and devastation, a grim reminder of the consequences of your actions. 
-The galaxy will never forget the day when two cosmic ninjas succumbed to the allure of the Starshard, and the cosmic order was forever altered.""")
+Before you can reach for it, a powerful voice echoes through the chamber. It is
+the spirit guardian of the Starshard, a cosmic entity tasked with protecting 
+the artifact. The guardian warns you of the immense responsibility and peril 
+that comes with possessing such power. With unwavering determination, you and 
+Hiro disregard the warnings of the spirit guardian and proceed to disable the 
+protective wards guarding the Starshard. Its energy pulses with an otherworldly
+glow as you reach out to claim its power.But as you touch the Starshard, its 
+energy surges, overwhelming your senses. The power within the crystal is too 
+great for mortal beings to control. You and Hiro are consumed by the Starshard's
+cosmic energies, your physical forms disintegrating into pure energy.
+The guardian's warnings echo in your minds as you become one with the Starshard,
+forever bound to its immense power. You lose all sense of self and identity, 
+becoming a cosmic force of destruction. The Starshard, now with two cosmic 
+entities merged into it, begins to wreak havoc on the galaxy. The once peaceful
+cosmic ninja order is shattered by the cataclysmic events unleashed by the 
+Starshard's uncontrollable power. Chaos reigns, and the galaxy falls into 
+darkness and despair. Your legacy is one of tragedy and devastation, a grim 
+reminder of the consequences of your actions. The galaxy will never forget the
+day when two cosmic ninjas succumbed to the allure of the Starshard, and the 
+cosmic order was forever altered.""")
 
 def chapter5aaab():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Eternal Guardian
 
-Your decision to report the discovery of the Starshard to Master Shinobi and the academy authorities 
-leads to a series of deliberations among the most respected cosmic ninja mentors and leaders. 
-They recognize the gravity of the situation and the potential consequences of wielding such power.
-After careful consideration, a unanimous decision is reached. You are chosen to become the eternal 
-guardian of the Starshard, entrusted with the solemn duty of protecting it from those who would seek 
-to misuse its cosmic energy.
-The Starshard is placed within a secure chamber deep within the academy, and you take up residence 
-as its eternal guardian. Your life becomes intricately intertwined with the artifact, and you 
-dedicate yourself to understanding its power and maintaining its cosmic balance.
-Years turn into centuries, and you remain steadfast in your role as the guardian of the Starshard. 
-You become a living legend within the cosmic ninja order, revered for your unwavering dedication and 
-selflessness. As the galaxy faces various threats and challenges, your connection to the Starshard 
-grants you unique insights and abilities to protect it. Your existence serves as a beacon of hope 
-and a reminder of the cosmic ninja's commitment to safeguarding the universe.
-In the end, you find peace and purpose in your eternal guardianship, knowing that your actions have 
-preserved the cosmic order and the delicate balance of the galaxy. Your legacy as the Starshard's 
-eternal guardian will be remembered for eons to come, a symbol of selflessness and devotion to the 
-cosmic ninja ideals.""")
+Your decision to report the discovery of the Starshard to Master Shinobi and 
+the academy authorities leads to a series of deliberations among the most 
+respected cosmic ninja mentors and leaders. They recognize the gravity of the 
+situation and the potential consequences of wielding such power.After careful 
+consideration, a unanimous decision is reached. You are chosen to become the 
+eternal guardian of the Starshard, entrusted with the solemn duty of protecting
+it from those who would seek to misuse its cosmic energy. The Starshard is 
+placed within a secure chamber deep within the academy, and you take up 
+residence as its eternal guardian. Your life becomes intricately intertwined 
+with the artifact, and you dedicate yourself to understanding its power and 
+maintaining its cosmic balance. Years turn into centuries, and you remain 
+steadfast in your role as the guardian of the Starshard. You become a living 
+legend within the cosmic ninja order, revered for your unwavering dedication 
+and selflessness. As the galaxy faces various threats and challenges, your 
+connection to the Starshard grants you unique insights and abilities to 
+protect it. Your existence serves as a beacon of hope and a reminder of the 
+cosmic ninja's commitment to safeguarding the universe. In the end, you find 
+peace and purpose in your eternal guardianship, knowing that your actions have 
+preserved the cosmic order and the delicate balance of the galaxy. Your legacy 
+as the Starshard's eternal guardian will be remembered for eons to come, 
+a symbol of selflessness and devotion to the cosmic ninja ideals.""")
 
 def chapter5aaba():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .  
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .  
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  . 
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Cosmic Divide
 
-Your unwavering support for the council's decision to secure and study the Starshard under the 
-academy's guidance sets a series of events into motion that will forever alter the cosmic ninja world.
+Your unwavering support for the council's decision to secure and study the 
+Starshard under the academy's guidance sets a series of events into motion that will forever alter the cosmic ninja world.
 In the beginning, the academy's research into the Starshard proceeds cautiously and methodically. 
 Cosmic ninjas work tirelessly to unlock the secrets of the artifact while ensuring its power remains 
 contained and controlled.

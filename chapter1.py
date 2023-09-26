@@ -21,15 +21,13 @@ skills, while others engage in intense combat simulations. The academy is alive
 with the energy of ambition.
 Master Shinobi, the headmaster of the academy, is a figure of great respect and 
 authority. His eyes have witnessed countless cosmic warriors rise and fall. 
-His wisdom is legendary, and his stern but fair guidance is sought after by all.
-""")
+His wisdom is legendary, and his stern but fair guidance is sought after by all.""")
 
 def chapter1_option_a():
     print("""
 OPTION A
 You approach Master Shinobi with determination, eager to introduce yourself and 
-seek his guidance on your journey to becoming a cosmic ninja.   
-""")
+seek his guidance on your journey to becoming a cosmic ninja.   """)
 
 def chapter1_option_b():
     print("""

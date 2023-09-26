@@ -107,8 +107,7 @@ academy instructors and mentors, earning you their respect and trust. They
 acknowledge the wisdom in your actions, understanding the potential dangersthat 
 could have arisen from the use of the forbidden techniques. In recognition of 
 your integrity and dedication to the academy's values, Master Shinobi himself 
-requests a meeting with you to discuss your future within the cosmic ninja order
-""")
+requests a meeting with you to discuss your future within the cosmic ninja order""")
 
 def chapter4bba():
     print("""
