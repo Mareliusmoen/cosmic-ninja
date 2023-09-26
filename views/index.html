@@ -1,50 +1,7 @@
 <body>
-    <!--Audio control buttons-->
-    <div class="audio-control">
-        <button id="mute-button" aria-label="mute button"><i class="fa-solid fa-volume-xmark"></i></button>
-        <button id="unmute-button" aria-label="unmute button"><i class="fa-solid fa-volume-high"></i></button>
-    </div>
- <!-- Add an audio element -->
- <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
-        src="https://w.soundcloud.com/player/?url=https://soundcloud.com/sega-16bit-music/street-fighter-theme-of-chun-li?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
-
-    <button onclick="window.location.reload()">Run Program</button>
-    <div id="terminal"></div>
-
+   
     <script>
-        const muteButton = document.getElementById('mute-button');
-        const unMuteButton = document.getElementById('unmute-button');
-
-        //When you press the 'Mute' or 'Unmute' button
-        muteButton.addEventListener('click', muteSound);
-        function muteColor(color) {
-            muteButton.style.background = color;
-        }
-        unMuteButton.addEventListener('click', unMuteSound);
-        function unMuteColor(color) {
-            unMuteButton.style.background = color;
-        }
-        var muteFlag = true;
-        function toggleMuteBoolean() {
-            console.log(muteFlag);
-            muteFlag = !muteFlag;
-            console.log(muteFlag);
-        }
-        //Mute / Unmute button color change
-        function muteSound() {
-            unMuteColor('#00000033');
-            muteColor('#FF10F0');
-            if (muteFlag === false) {
-                toggleMuteBoolean();
-            }
-        }
-        function unMuteSound() {
-            muteColor('#00000033');
-            unMuteColor('#FF10F0');
-            if (muteFlag === true) {
-                toggleMuteBoolean();
-            }
-        }
+       
         var term = new Terminal({
             cols: 80,
             rows: 24
