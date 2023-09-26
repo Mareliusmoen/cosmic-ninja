@@ -73,7 +73,8 @@ Select the correct branch for deployment from the drop-down menu and click the "
 ## Credits
 #### Deployment description in this readme.md file is from dnlbowers and his battleship apps readme.md file
 https://github.com/dnlbowers/battleships/tree/main
-#### multiple choice gives multiple choice again:
+
+#### multiple choice gives multiple choice again inspiration and the occational code snippet:
 https://www.youtube.com/watch?v=YPFss7hYBmg
 https://stackoverflow.com/questions/49455318/calling-multiple-functions-based-on-user-selection-in-python
 https://stackoverflow.com/questions/17166074/most-efficient-way-of-making-an-if-elif-elif-else-statement-when-the-else-is-don
@@ -86,19 +87,11 @@ https://patorjk.com/software/taag/#p=display&h=1&v=1&c=vb&f=Star%20Wars&t=cosmic
 #### ASCII art from:
 https://ascii.co.uk/art/
 
-#### Background image generated with ai at:
+#### Background image generated for free with ai by site:
 https://gencraft.com/
-#### Favicon created at free site:
-https://gencraft.com/
-#### Styling of the display from:
-https://github.com/dnlbowers/battleships/blob/main/views/layout.html
 
-#### make text appear as if written:
-https://stackoverflow.com/questions/60608275/how-can-i-print-text-so-it-looks-like-its-being-typed-out
-https://stackoverflow.com/questions/21590952/using-settimeout-to-print-a-string-char-by-char
-https://stackoverflow.com/questions/62605929/trying-to-write-character-by-character-with-delay-using-settimeout
-https://www.w3schools.com/jsref/met_win_settimeout.asp
-https://stackoverflow.com/questions/64691726/how-do-i-print-each-character-of-a-string-but-with-1s-of-delay-in-javascript 
-edit the order of the layout.html file:
-https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/open_event
-https://www.tabnine.com/code/javascript/functions/WebSocket
+#### Favicon generated for free by site:
+https://gencraft.com/
+
+#### Styling of the display (background, positioning of terminal and 'run button'from:
+https://github.com/dnlbowers/battleships/blob/main/views/layout.html
