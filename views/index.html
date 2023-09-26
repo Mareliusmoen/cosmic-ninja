@@ -7,34 +7,53 @@
             cols: 80,
             rows: 24
         });
-        term.open(document.getElementById('terminal'));
-        term.writeln('Running startup command: python3 run.py');
-        term.writeln('');
         
-        //function to print typewriter effect
-        function printText() {
-            if (currentIndex < textToPrint.length) {
-                term.write(textToPrint.charAt(currentIndex));
-                currentIndex++;
-                setTimeout(printText, 6); // 6ms between characters/letters
-            }
-        }
-        // prints the defined text
-        printText();
-
-        // stop it from automatically scrolling to the bottom of text
-        term.scrollToBottom = function () { };
+        term.open(document.getElementById('terminal'));
 
         var ws = new WebSocket(location.protocol.replace('http', 'ws') + '//' + location.hostname + (location.port ? (
             ':' + location.port) : '') + '/');
 
         ws.onopen = function () {
+            // connect websocket and terminal/consol
             new attach.attach(term, ws);
+
+            // print the decided message on program start
+            var initialMessage = 'Running startup command: python3 run.py\n\n';
+            var messageIndex = 0;
+
+            function printMessage() {
+                if (messageIndex < initialMessage.length) {
+                    term.write(initialMessage.charAt(messageIndex));
+                    messageIndex++;
+                    // sets 6ms between each letter to achieve typewriter effect
+                    setTimeout(printMessage, 6);
+                }
+            }
+
+            printMessage();
+        };
+
+        ws.onmessage = function (event) {
+            // print the data retrieved in py files to the terminal/console
+            var receivedData = event.data;
+            var dataIndex = 0;
+
+            function printReceivedData() {
+                if (dataIndex < receivedData.length) {
+                    term.write(receivedData.charAt(dataIndex));
+                    dataIndex++;
+                    // sets 6ms between each letter to achieve typewriter effect
+                    setTimeout(printReceivedData, 6);
+                }
+            }
+
+            printReceivedData();
         };
 
         ws.onerror = function (e) {
             console.log(e);
         };
+
         // Set focus in the terminal
         document.getElementsByClassName("xterm-helper-textarea")[0].focus();
     </script>
