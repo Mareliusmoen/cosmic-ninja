@@ -26,6 +26,9 @@ new_line = '\n'
 welcome_text.welcome_logo()
 print(new_line)
 welcome_answer = input("""
+If you want the full immersive ninja-life experience, hit play above this
+terminal to play a absolute classic ninja-fighter-theme-song. HAAIIIYYYYAA!!!
+
 Would you like to read more about why I made this app ENTER [a] 
 Would you instead become the lethal ninja living deep inside you ENTER [b] 
 >>  """)
