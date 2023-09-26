@@ -72,23 +72,28 @@ def chapter5aaba():
     Chapter 5: The Cosmic Divide
 
 Your unwavering support for the council's decision to secure and study the 
-Starshard under the academy's guidance sets a series of events into motion that will forever alter the cosmic ninja world.
-In the beginning, the academy's research into the Starshard proceeds cautiously and methodically. 
-Cosmic ninjas work tirelessly to unlock the secrets of the artifact while ensuring its power remains 
-contained and controlled.
-However, as time passes, disagreements within the academy council intensify. Some members believe that 
-the Starshard's cosmic powers should be harnessed to establish dominance over the galaxy, seeing it 
-as a means to ensure peace and prosperity under their rule. Others staunchly oppose any attempt to 
-use the Starshard, fearing the catastrophic consequences that could result from its unchecked power.
-The disagreements escalate into a bitter feud, dividing the cosmic ninja order into two factions. 
-Civil war erupts, and for centuries, the two sides wage a relentless battle for control of the 
-Starshard. One side seeks to use its cosmic powers to crush the rest of the galaxy and establish 
-themselves as its sole rulers, while the other side fights tirelessly to never use the shard and 
-protect it from all who wish to harness its power.
-The galaxy is torn apart by the conflict, and countless lives are lost in the struggle for dominance. The Starshard becomes a symbol of power and division, with neither side willing to compromise or back down.
-As the centuries pass, the cosmic ninja world remains locked in a seemingly endless cycle of war, 
-with no end in sight. The fate of the galaxy hangs in the balance, and the Starshard's potential for 
-both salvation and destruction continues to shape the destiny of all who seek its cosmic power.""")
+Starshard under the academy's guidance sets a series of events into motion that
+will forever alter the cosmic ninja world. In the beginning, the academy's 
+research into the Starshard proceeds cautiously and methodically. Cosmic ninjas
+work tirelessly to unlock the secrets of the artifact while ensuring its power 
+remains contained and controlled. However, as time passes, disagreements within
+the academy council intensify. Some members believe that the Starshard's cosmic
+powers should be harnessed to establish dominance over the galaxy, seeing it 
+as a means to ensure peace and prosperity under their rule. Others staunchly 
+oppose any attempt to use the Starshard, fearing the catastrophic consequences
+that could result from its unchecked power. The disagreements escalate into a 
+bitter feud, dividing the cosmic ninja order into two factions. Civil war 
+erupts, and for centuries, the two sides wage a relentless battle for control 
+of the Starshard. One side seeks to use its cosmic powers to crush the rest of
+the galaxy and establish themselves as its sole rulers, while the other side 
+fights tirelessly to never use the shard and protect it from all who wish to 
+harness its power. The galaxy is torn apart by the conflict, and countless 
+lives are lost in the struggle for dominance. The Starshard becomes a symbol 
+of power and division, with neither side willing to compromise or back down.
+As the centuries pass, the cosmic ninja world remains locked in a seemingly 
+endless cycle of war, with no end in sight. The fate of the galaxy hangs in the
+balance, and the Starshard's potential for both salvation and destruction 
+continues to shape the destiny of all who seek its cosmic power.""")
 
 def chapter5aabb():
     print("""
