@@ -8,40 +8,29 @@
             rows: 24
         });
         term.open(document.getElementById('terminal'));
-        
-        // typewriter simulation function (print characters one-by-one)
-        function typeText(text) {
-            return new Promise((resolve) => {
-                let index = 0;
-                const typeInterval = setInterval(() => {
-                    if (index < text.length) {
-                        term.write(text[index]);
-                        index++;
-                    } else {
-                        clearInterval(typeInterval);
-                        resolve();
-                    }
-                }, 6); // number of ms the delay per character
-            });
+        // typewriter like simulator for the text output in the player terminal
+        async function typeText(text) {
+            for (let i = 0; i < text.length; i++) {
+                term.write(text[i]);
+                await new Promise(resolve => setTimeout(resolve, 6)); // sets the delay per character to 6ms
+            }
         }
-        // set the typewriter function to use
-        async function start() {
+ // using the typewriter function on the text from run.py file
+ async function start() {
             await typeText('Running startup command: python3 run.py');
-            term.writeln('');
-        var ws = new WebSocket(location.protocol.replace('http', 'ws') + '//' + location.hostname + (location.port ? (
-            ':' + location.port) : '') + '/');
-        
-        ws.onopen = function () {
-            new attach.attach(term, ws);
-        };
+            var ws = new WebSocket(location.protocol.replace('http', 'ws') + '//' + location.hostname + (location.port ? (
+                ':' + location.port) : '') + '/');
+            ws.onopen = function () {
+                new attach.attach(term, ws);
+            };
+            ws.onerror = function (e) {
+                console.log(e);
+            };
+            // Set focus in the terminal
+            document.getElementsByClassName("xterm-helper-textarea")[0].focus();
+        }
 
-        ws.onerror = function (e) {
-            console.log(e);
-        };
-        // Set focus in the terminal
-        document.getElementsByClassName("xterm-helper-textarea")[0].focus();
-    }
-    // make the text start writing to terminal
-        start();
+        start(); // start the typewriter-imitation type function
     </script>
 </body>
+In this code, I've wrapped the text printing process in an async function called typeText, which types each character with a 6 ms delay using a loop and the setTimeout function. This ensures that the text is printed character by character with the specified delay.
