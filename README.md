@@ -31,6 +31,7 @@ This app is created for anyone with a special interest in any of its topics or t
 ## Wireframe/Flowchart
 ![Flowchart of the Cosmic Ninja Adventure Game](files/images/cosmic-ninja-flowchart.png)
 
+## Screenshots
 ### Welcome screen
 ![Screenshot of the welcome-screen in terminal](files/images/welcome-screen.png)
 
@@ -66,8 +67,6 @@ Here the user will read a short text about what I had in mind when I created the
 The app has:
 ?????
 
-### Screenshots
-
 ## Features left to implement
 
 ## Testing
@@ -77,6 +76,14 @@ The app has:
 ## Bugs
 
 ## Unsolved bugs
+## Problems encountered during the creation-process
+- Indentations are hard to keep track of as the while loop gets more and more if elif else with each chapter. **FIX:**
+- Some ASCII art needed to be tweaked because some of the combination of symbols have a coding attribute and messed with the code (especially backslash which makes indentations). **FIX:**
+- Did not define the chapters and chapter options as functions but jus declared them as variables, this made them print to console as soon as program started because of the import command. **FIX:**
+- Problems that the clear command did not work as intende had to change the code to make it work on different operatingsystems. **FIX:**
+- Text to long in some chapters to be read in terminal without scrolling, had to reset index.html file back to template default to try again. **FIX**
+- Struggled to manage a code for the characters to be printed one by one, this was very import for the user experience because certain chapters or text is longer than the 24 lines that are shown in the players terminal, and with out this method of printing there would be no way for the player to know intuitively to scroll up or down to read the entire text. **FIX:**
+- Music file will play in preview in vscode, but does not even load in the deployed browser. **FIX:**
 
 ## Deployment
 ## ***Final Deployment to Heroku:***  
