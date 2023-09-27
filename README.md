@@ -18,13 +18,18 @@ Link to the live site: https://cosmic-ninja-adventure-b7514defc13d.herokuapp.com
 ![Shows the page on laptop, desktop, tablet and mobile screen](files/images/ninja-screenshot.png)
 
 ## User Stories
-This app is created for ??????
+This app is created for anyone with a special interest in any of its topics or the text based adventure game genre, among them:
+- **Text based adventure game fans,** all of the people that miss the 'good old days' when you had to use your own imagination and nobody talked about game graphics (or if they did it was made up of letters, numbers, symbols and spaces). 
+- **Those seeking a trip down memory lane,** anyone who played a computer game in the 80s or early 90s with all it's charm, ingenuity and mindblowing storylines, when people smoked inside, moustaches were the coolest thing for any man (it still is, but whatever..) and everybody looked like George or Elaine from the Seinfeld tv show. For those who want to reminisce about a time without all the grown-up issues of 2023 (or maybe just less of them) and just submerge their mind in epic laser-katana-sword-swinging ninjas!
+- **For the new generation that never have to use their imagination anymore,** those that have no imagination because everything is in 4K, 3D with a splash of sorroundsound in their life. This is a great oppertunity to see the humble beginnings of what so many of us love today!
+- **For the Ninja-enthusiast,** those that dress up as a ninja for halloween every year withuot exception, those that jumps down from the 2nd floor instead of taking the stairs because the stairs are 'not very ninja'.
+- **For those that have litterally seen everything on the world-wide-web,** just those that feel like they have completed 99.9% of the internet and happend to come across this game.
 
 ## Strategy
 ???????
 
 ## Wireframe/Flowchart
-
+![Flowchart of the Cosmic Ninja Adventure Game](files/images/cosmic-ninja-flowchart.png)
 
 ### Welcome screen
 ![Screenshot of the welcome-screen in terminal](files/images/welcome-screen.png)
