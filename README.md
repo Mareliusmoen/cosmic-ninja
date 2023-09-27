@@ -1,10 +1,21 @@
 # Cosmic Ninja Adventure
 
-This python project….
+This python project is made to give the user a good laugh and hopefully remind them of a childhood filled with imagination, epic stories that filled our minds and took us on amazing adventures in everyday life.
+I guess you could say this story is a bit childish, but I believe for a text based adventure game
+we all have to find our inner child and use our imagination for it to be engaging since the visual and audiotory stimuli is not very present.
+The story itself is created by AI with Chatgpt (https://chat.openai.com/), I gave it my requirements for the story:
+- Ninjas wielding laser weapons.
+- It's set to space.
+- Devided into chapters and the player should get options at the end of each chapter, and depending on the choice made the storyline takes a new direction. Example:
+- Chapter 1 the player chooses option A.
+- The player is then shown chapter 2A because of his/her choice in chapter 1, and is the presented with two new options; A or B.
+- The player chooses option B.
+- Because of this choice the next chapter shown is 3AB, and so the story progresses.
+During the construction I asked the AI for the next chapter depending of the previous choices and added any new requirements that I felt like along the way, in the end there's 16 totally different endings to the game.
 
 ## Demo
-![Shows the page on laptop, desktop, tablet and mobile screen](ADD IMAGE HERE)
 Link to the live site: https://cosmic-ninja-adventure-b7514defc13d.herokuapp.com/ 
+![Shows the page on laptop, desktop, tablet and mobile screen](files/images/ninja-screenshot.png)
 
 ## User Stories
 This app is created for ??????
@@ -16,20 +27,36 @@ This app is created for ??????
 
 
 ### Welcome screen
-![wireframe of the welcome screen](assets/images/winequiz-welcome.png)
+![Screenshot of the welcome-screen in terminal](files/images/welcome-screen.png)
 
-### Color scheme
-Pearl river #D9DDDC for background & charcoal #222021 for text & borders.
-For the correct- and wrong answer buttons aswell as unmute- and mute-butten the colors #81996750 & #ff9b9b50 are used.
+### Backstory screen
+![Screenshot of the backstory-screen in terminal](files/images/backstory-screen.png)
+
+### Introduction and name choice screen
+![Screenshot of the introduction- and name choice-screen](files/images/introduction-name-choice-screen.png)
+
+### Wrong input screen
+![Screenshot of terminal when player inputs are incorrect example 1](files/images/wrong-input1.png)
+![Screenshot of terminal when player inputs are incorrect example 2](files/images/wrong-input2.png)
+
+### Chapter with options
+![Screenshot of the chapter and options screen](files/images/chapter-and-options-screen.png)
+
+### Background image and favicon image
+The back ground image is created by AI for free at https://gencraft.com/, the requirements  I gave the AI was "50 ninjas in space fighting with laser weapons".
+It gave me both the background image and the favicon image that is in the same style and color-scheme.
 
 ## Technologies
-- HTML - To create a basic site
-- JavaScript - To create the Quiz itself
-- CSS - To style the site and quiz to make it accessible and nice to look at
-- Uizard - To create the wireframes
+????
 
-## Excisting features
-????????
+## Features
+### 1st Welcome screen
+Here the user will se a ASCII art 'COSMIC NINJA', and have two choices:
+- Read the backstory of the app.
+- Start the game.
+
+#### Backstory screen
+Here the user will read a short text about what I had in mind when I created the app, and just a little bit of explaining how the story came about.
 
 The app has:
 ?????
