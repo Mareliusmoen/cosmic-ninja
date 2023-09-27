@@ -99,116 +99,127 @@ def chapter5aabb():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .  
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .  
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  . 
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Starshard's Secret
 
-Your impassioned plea for the complete containment and sealing of the Starshard prevails within the 
-academy council. They recognize the potential for untold destruction that the cosmic artifact 
-represents and agree to your proposal.
-The Starshard is sealed within a highly secure chamber deep within the academy. Its location is known 
-only to a select few, and elaborate protective measures ensure that it remains hidden and untouched.
-As the centuries pass, legends of the Starshard's existence and its immense cosmic power persist. 
-Tales of its hidden location spread throughout the galaxy, attracting the attention of thieves, 
-pirates, and evil ninjas who seek its power for their nefarious purposes.
-Countless individuals embark on perilous quests to locate the Starshard, but none succeed. 
-The artifact remains hidden in the most remote corner of the galaxy, an enigma that eludes discovery.
-Your decision to protect the galaxy from the Starshard's potential for destruction serves as a 
-beacon of hope. The artifact remains a cosmic mystery, its power safeguarded for the greater good. 
-As the ages pass, the legend of the Starshard becomes a cautionary tale, a reminder of the 
-consequences of unchecked ambition and the importance of responsibility and ethics in the 
-cosmic ninja world.""")
+Your impassioned plea for the complete containment and sealing of the Starshard
+prevails within the academy council. They recognize the potential for untold 
+destruction that the cosmic artifact represents and agree to your proposal.
+The Starshard is sealed within a highly secure chamber deep within the academy.
+Its location is known only to a select few, and elaborate protective measures 
+ensure that it remains hidden and untouched. As the centuries pass, legends of 
+the Starshard's existence and its immense cosmic power persist. Tales of its 
+hidden location spread throughout the galaxy, attracting the attention of 
+thieves, pirates, and evil ninjas who seek its power for their nefarious 
+purposes. Countless individuals embark on perilous quests to locate the 
+Starshard, but none succeed. The artifact remains hidden in the most remote 
+corner of the galaxy, an enigma that eludes discovery. Your decision to protect
+the galaxy from the Starshard's potential for destruction serves as a beacon of
+hope. The artifact remains a cosmic mystery, its power safeguarded for the 
+greater good. As the ages pass, the legend of the Starshard becomes a 
+cautionary tale, a reminder of the consequences of unchecked ambition and the 
+importance of responsibility and ethics in the cosmic ninja world.""")
 
 def chapter5abaa():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .  
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .  
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  . 
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: Betrayal in the Temple
 
-With unwavering determination, you and Hiro enter the temple to confront its guardians and claim the 
-Starshard, united by a common goal. As you venture deeper into the ancient temple, the air becomes 
-charged with anticipation.
-But as you approach the chamber where the Starshard is housed, Hiro's demeanor changes. 
-His eyes gleam with a malevolent intent, and a sinister grin creeps across his face.
-In a shocking turn of events, Hiro betrays you, revealing his true intentions. He desires the power 
-of the Starshard for himself and is willing to eliminate anyone who stands in his way, including you.
-An epic battle ensues within the temple's hallowed halls. Laser ninja weapons clash in a dazzling 
-display of skill and power. The echoes of your fierce combat reverberate through the ancient stone.
-In the end, the fight proves lethal, and Hiro falls, his life extinguished in the pursuit of 
-cosmic power. The Starshard remains within the temple, its cosmic energy pulsing ominously.
-The galaxy will forever remember the tragic tale of two cosmic ninjas turned adversaries, and the 
-Starshard's destiny remains a mystery, a testament to the dangers of ambition and betrayal in the 
-cosmic ninja world.""")
+With unwavering determination, you and Hiro enter the temple to confront its 
+guardians and claim the Starshard, united by a common goal. As you venture 
+deeper into the ancient temple, the air becomes charged with anticipation.
+But as you approach the chamber where the Starshard is housed, Hiro's demeanor
+changes. His eyes gleam with a malevolent intent, and a sinister grin creeps 
+across his face. In a shocking turn of events, Hiro betrays you, revealing his
+true intentions. He desires the power of the Starshard for himself and is 
+willing to eliminate anyone who stands in his way, including you. 
+An epic battle ensues within the temple's hallowed halls. Laser ninja weapons 
+clash in a dazzling display of skill and power. The echoes of your fierce 
+combat reverberate through the ancient stone. In the end, the fight proves 
+lethal, and Hiro falls, his life extinguished in the pursuit of cosmic power. 
+The Starshard remains within the temple, its cosmic energy pulsing ominously.
+The galaxy will forever remember the tragic tale of two cosmic ninjas turned 
+adversaries, and the Starshard's destiny remains a mystery, a testament to the
+dangers of ambition and betrayal in the cosmic ninja world.""")
 
 def chapter5abab():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .  
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  . 
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  . 
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Guardian's Judgment
 
-Overwhelmed by the gravity of your decision, you choose to delay your entry into the temple, 
-seeking clarity on how to proceed with the Starshard. As you stand outside the ancient temple, 
-contemplating the artifact's immense power, the air around you crackles with cosmic energy.
-Suddenly, a formidable presence materializes before you. It's the guardian spirit of the Starshard, 
-a cosmic entity charged with protecting the artifact from those who would seek to misuse its power. 
-The guardian regards you with a stern gaze, assessing your intentions.
-With blinding speed, the guardian launches into action, engaging you in an epic ninja battle. 
-Cosmic energy surges around you both as you clash with incredible skill and precision. 
-The fight is a mesmerizing display of martial prowess and cosmic power.
-But as the battle rages on, it becomes clear that the guardian is a force of unimaginable strength. 
-Its cosmic ninja powers are beyond anything you've ever encountered. In a final, devastating strike, 
-the guardian's energy overwhelms you, and you are defeated.
-As your vision fades and the guardian stands victorious, you realize the magnitude of your decision. 
-The Starshard remains protected, its power safeguarded from those who would misuse it. 
-Your journey ends here, a testament to the immense challenges and dangers of the cosmic ninja world.
-The galaxy will remember the tale of a cosmic ninja who dared to approach the Starshard, only to 
-be judged and defeated by its guardian. Your story serves as a warning of the consequences of seeking
-ultimate power without understanding the responsibilities it entails.""")
+Overwhelmed by the gravity of your decision, you choose to delay your entry 
+into the temple, seeking clarity on how to proceed with the Starshard. As you 
+stand outside the ancient temple, contemplating the artifact's immense power, 
+the air around you crackles with cosmic energy. Suddenly, a formidable presence
+materializes before you. It's the guardian spirit of the Starshard, a cosmic 
+entity charged with protecting the artifact from those who would seek to misuse
+its power. The guardian regards you with a stern gaze, assessing your 
+intentions. With blinding speed, the guardian launches into action, engaging 
+you in an epic ninja battle. Cosmic energy surges around you both as you clash
+with incredible skill and precision. The fight is a mesmerizing display of 
+martial prowess and cosmic power. But as the battle rages on, it becomes clear
+that the guardian is a force of unimaginable strength. Its cosmic ninja powers
+are beyond anything you've ever encountered. In a final, devastating strike, 
+the guardian's energy overwhelms you, and you are defeated. As your vision 
+fades and the guardian stands victorious, you realize the magnitude of your 
+decision. The Starshard remains protected, its power safeguarded from those 
+who would misuse it. Your journey ends here, a testament to the immense 
+challenges and dangers of the cosmic ninja world. The galaxy will remember the
+tale of a cosmic ninja who dared to approach the Starshard, only to be judged 
+and defeated by its guardian. Your story serves as a warning of the 
+consequences of seeking ultimate power without understanding the 
+responsibilities it entails.""")
 def chapter5abba():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .  
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .  
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  . 
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Sword of Eternity
 
-Decades pass as the academy diligently studies the Starshard, unlocking its secrets and harnessing 
-its cosmic power. You have devoted your life to this pursuit, understanding the potential for the 
-greater good that lies within the artifact.
-As time goes by, you make a groundbreaking discovery—an ancient cosmic technique that allows the 
-forging of a sword with the Starshard at its core. This sword possesses unparalleled cosmic energy 
-and the ability to cut through time itself.
-With great care and precision, you craft this extraordinary weapon, a masterpiece that fuses the 
-Starshard's essence with your expertise as a cosmic ninja. The sword shimmers with cosmic energy, 
-and its hilt is adorned with intricate symbols that represent the balance of power and responsibility.
-Armed with the Sword of Eternity, you become a legendary cosmic ninja, known throughout the galaxy 
-as the guardian of time itself. The sword allows you to protect the innocent, preserve the cosmic 
-order, and defend against threats that span the ages.
-Your legacy as the wielder of the Sword of Eternity echoes through the cosmic ninja world, a symbol 
-of the academy's commitment to harnessing power for the greater good. The galaxy remains safe, 
-knowing that there is a guardian who can cut through the fabric of time to defend it from any threat 
-that arises. As you wield the sword with honor and responsibility, you are the living embodiment 
-of the cosmic ninja ideals, ensuring that the legacy of the Starshard serves as a beacon of 
+Decades pass as the academy diligently studies the Starshard, unlocking its 
+secrets and harnessing its cosmic power. You have devoted your life to this 
+pursuit, understanding the potential for the greater good that lies within the 
+artifact. As time goes by, you make a groundbreaking discovery—an ancient 
+cosmic technique that allows the forging of a sword with the Starshard at its 
+core. This sword possesses unparalleled cosmic energy and the ability to cut 
+through time itself. With great care and precision, you craft this 
+extraordinary weapon, a masterpiece that fuses the Starshard's essence with 
+your expertise as a cosmic ninja. The sword shimmers with cosmic energy, and 
+its hilt is adorned with intricate symbols that represent the balance of power 
+and responsibility. Armed with the Sword of Eternity, you become a legendary 
+cosmic ninja, known throughout the galaxy as the guardian of time itself. 
+The sword allows you to protect the innocent, preserve the cosmic order, and 
+defend against threats that span the ages. Your legacy as the wielder of the 
+Sword of Eternity echoes through the cosmic ninja world, a symbol of the 
+academy's commitment to harnessing power for the greater good. The galaxy 
+remains safe, knowing that there is a guardian who can cut through the fabric 
+of time to defend it from any threat that arises. As you wield the sword with 
+honor and responsibility, you are the living embodiment of the cosmic ninja 
+ideals, ensuring that the legacy of the Starshard serves as a beacon of 
 hope and protection for all.""")
 def chapter5abbb():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .  
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .  
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .  
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Vault of Eternity
 
