@@ -126,11 +126,14 @@ https://patorjk.com/software/taag/#p=display&h=1&v=1&c=vb&f=Star%20Wars&t=cosmic
 #### ASCII art from:
 https://ascii.co.uk/art/
 
-#### Background image generated for free with ai by site:
+#### Background image generated for free by AI at site:
 https://gencraft.com/
 
-#### Favicon generated for free by site:
+#### Favicon generated for free by AI at site:
 https://gencraft.com/
 
 #### Styling of the display (background, positioning of terminal and 'run button'from:
 https://github.com/dnlbowers/battleships/blob/main/views/layout.html
+
+#### How to add the embedded Soundcloud adio player to HTML:
+https://help.soundcloud.com/hc/en-us/articles/115003568008-Embedding-a-track-or-playlist-#:~:text=Click%20on%20the%20embed%20tab,section%20of%20your%20site
