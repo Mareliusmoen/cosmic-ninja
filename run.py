@@ -1,6 +1,7 @@
 # All imports for the app
 import welcome_text
 import os
+import platform
 import chapter1
 import chapter2
 import chapter3
@@ -8,10 +9,11 @@ import chapter4
 import chapter5
 
 # make sure it clears on all operating systems
-
-
 def clear():
-    os.system('cls' if os.name == 'nt' else 'clear')
+    if platform.system() == 'Windows':
+        os.system('cls')
+    else:
+        os.system('clear')
 
 
 # to make sure that any way of writing your answer is accepted
