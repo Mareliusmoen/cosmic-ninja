@@ -223,238 +223,259 @@ def chapter5abbb():
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Vault of Eternity
 
-Your persuasive argument in favor of complete containment and sealing of the Starshard convinces 
-the council of the potential dangers that the artifact poses. They agree to construct the most 
-secure vault in the galaxy, a planet entirely dedicated to housing and safeguarding the Starshard 
-for all eternity.
-The construction of this vault planet is a monumental undertaking, spanning years and involving 
-the combined efforts of cosmic ninja engineers and experts in cosmic containment. 
-The result is a planet entirely composed of advanced cosmic materials, featuring impenetrable 
-barriers and defenses.
-As the Starshard is sealed within the vault, a unique phenomenon occurs. Translucent shadow ninja 
-spirits are drawn to the planet, becoming its eternal protectors. These spirits are imbued with the 
-essence of cosmic ninjas of old, guarding the Starshard with unyielding determination.
-The council itself cannot approach the vault planet without being met by the shadow ninja spirits,
-who are tasked with protecting the Starshard from any potential threat, even if it comes from within 
-the council's own ranks.
-The galaxy comes to know the legend of the Vault of Eternity, a place where the Starshard remains 
-hidden from all who would seek to misuse its cosmic power. Its existence serves as a testament to 
-the wisdom of containment and the unwavering dedication of the cosmic ninja order to protect the 
-galaxy from potential destruction.
-As you look upon the vault planet and the translucent shadow ninja spirits that guard it, you know 
-that the Starshard's power is safely contained for all eternity, and the galaxy can rest 
-assured that it will remain protected from those who would seek to wield it recklessly.""")
+Your persuasive argument in favor of complete containment and sealing of the 
+Starshard convinces the council of the potential dangers that the artifact 
+poses. They agree to construct the most secure vault in the galaxy, a planet 
+entirely dedicated to housing and safeguarding the Starshard for all eternity.
+The construction of this vault planet is a monumental undertaking, spanning 
+years and involving the combined efforts of cosmic ninja engineers and experts
+in cosmic containment. The result is a planet entirely composed of advanced 
+cosmic materials, featuring impenetrable barriers and defenses.
+As the Starshard is sealed within the vault, a unique phenomenon occurs. 
+Translucent shadow ninja spirits are drawn to the planet, becoming its eternal
+protectors. These spirits are imbued with the essence of cosmic ninjas of old,
+guarding the Starshard with unyielding determination. The council itself cannot
+approach the vault planet without being met by the shadow ninja spirits,
+who are tasked with protecting the Starshard from any potential threat, even if
+it comes from within the council's own ranks. The galaxy comes to know the 
+legend of the Vault of Eternity, a place where the Starshard remains hidden 
+from all who would seek to misuse its cosmic power. Its existence serves as a 
+testament to the wisdom of containment and the unwavering dedication of the 
+cosmic ninja order to protect the galaxy from potential destruction.
+As you look upon the vault planet and the translucent shadow ninja spirits that
+guard it, you know that the Starshard's power is safely contained for all 
+eternity, and the galaxy can rest assured that it will remain protected from 
+those who would seek to wield it recklessly.""")
 def chapter5baaa():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .  
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  . 
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  . 
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Descent into Darkness
-Your choice to continue mastering the forbidden techniques proves to be a double-edged sword. 
-As the years pass, you become the most powerful ninja in the galaxy, with unmatched skills in 
-shadow walking, death manipulation, and other dark arts. Your power is feared and respected, but 
-it comes at a great cost.
-The cosmic ninja order watches in concern as you become increasingly isolated and detached from 
-your fellow ninjas. Your pursuit of power and control consumes you, and you start using your 
-abilities for darker purposes, believing that your power can protect the galaxy from cosmic threats 
-by any means necessary.
-Your actions become increasingly ruthless, and your path diverges from the cosmic ninja code you 
-once swore to uphold. You are feared and reviled, and the galaxy dreads your very presence.
-In the end, you die alone, your life marked by a relentless quest for power and control. 
-Your legacy is one of isolation, fear, and the consequences of unchecked ambition.
-The galaxy mourns the loss of a once-promising cosmic ninja who succumbed to the seductive allure 
-of forbidden techniques, a cautionary tale of the dangers of choosing power over the values and 
-ethics that define the cosmic ninja order.""")
+Your choice to continue mastering the forbidden techniques proves to be a 
+double-edged sword. As the years pass, you become the most powerful ninja in 
+the galaxy, with unmatched skills in shadow walking, death manipulation, and 
+other dark arts. Your power is feared and respected, but it comes at a great 
+cost. The cosmic ninja order watches in concern as you become increasingly 
+isolated and detached from your fellow ninjas. Your pursuit of power and 
+control consumes you, and you start using your abilities for darker purposes, 
+believing that your power can protect the galaxy from cosmic threats by any 
+means necessary. Your actions become increasingly ruthless, and your path 
+diverges from the cosmic ninja code you once swore to uphold. You are feared 
+and reviled, and the galaxy dreads your very presence. In the end, you die 
+alone, your life marked by a relentless quest for power and control. 
+Your legacy is one of isolation, fear, and the consequences of unchecked 
+ambition. The galaxy mourns the loss of a once-promising cosmic ninja who 
+succumbed to the seductive allure of forbidden techniques, a cautionary tale of
+the dangers of choosing power over the values and ethics that define the cosmic
+ninja order.""")
 def chapter5baab():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  . 
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The League of Protective Ninja
 
-With Master Shinobi's guidance, you continue to develop and harness your newfound powers for the 
-greater good. Your skills as a cosmic ninja grow exponentially, and your dedication to the values 
-of the cosmic ninja order remains unwavering.
-After your graduation, you embark on a noble quest to create the League of Protective Ninja, 
-an organization dedicated to spreading throughout the galaxy and protecting people from injustices 
-of all kinds. The league's members are trained in the cosmic ninja arts and are bound by a strict 
-code of honor and ethics.
-As the League of Protective Ninja expands, it becomes a beacon of hope in the galaxy. 
-Its members intervene in conflicts, uphold justice, and defend the innocent from cosmic threats. 
-The league's reputation for fairness and unwavering commitment to the cosmic ninja values earns the 
-trust and respect of countless beings across the galaxy.
-Your leadership and Master Shinobi's wisdom guide the league to new heights, and its influence 
-spreads far and wide. The galaxy becomes a safer place, and the cosmic ninja order's legacy lives 
-on through the actions of the league.
-Your life is one of purpose and fulfillment, knowing that you have used your extraordinary powers 
-to protect and serve the greater good. The League of Protective Ninja stands as a testament to the 
-cosmic ninja order's commitment to safeguarding the galaxy, and your legacy as its founder shines 
-brightly for all time.
+With Master Shinobi's guidance, you continue to develop and harness your 
+newfound powers for the greater good. Your skills as a cosmic ninja grow 
+exponentially, and your dedication to the values of the cosmic ninja order 
+remains unwavering. After your graduation, you embark on a noble quest to 
+create the League of Protective Ninja, an organization dedicated to spreading 
+throughout the galaxy and protecting people from injustices of all kinds. 
+The league's members are trained in the cosmic ninja arts and are bound by a 
+strict code of honor and ethics. As the League of Protective Ninja expands, 
+it becomes a beacon of hope in the galaxy. Its members intervene in conflicts,
+uphold justice, and defend the innocent from cosmic threats. 
+The league's reputation for fairness and unwavering commitment to the cosmic 
+ninja values earns the trust and respect of countless beings across the galaxy.
+Your leadership and Master Shinobi's wisdom guide the league to new heights, 
+and its influence spreads far and wide. The galaxy becomes a safer place, and 
+the cosmic ninja order's legacy lives on through the actions of the league.
+Your life is one of purpose and fulfillment, knowing that you have used your 
+extraordinary powers to protect and serve the greater good. The League of 
+Protective Ninja stands as a testament to the cosmic ninja order's commitment 
+to safeguarding the galaxy, and your legacy as its founder shines brightly 
+for all time.
     """)
 def chapter5baba():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  . 
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  . 
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Teacher's Legacy
 
-Your decision to continue your training within the academy is a testament to your unwavering 
-commitment to the cosmic ninja order's principles and values. As the years pass, you diligently 
-study and train, never becoming the strongest or most powerful ninja, but always remaining faithful 
-to the code. Your dedication does not go unnoticed. Master Shinobi recognizes your steadfast 
-belief in the ninja code and your passion for preserving the order's traditions. He appoints you as 
-a teacher within the academy, where you inspire several generations of recruits with your 
-wisdom and guidance.
-As a teacher, you instill in your students the importance of honor, discipline, and compassion. 
-You teach them to use their cosmic ninja abilities responsibly and for the greater good of the galaxy. 
-Your firm belief in the ninja code becomes a cornerstone of their training.
-Over the years, your influence extends far beyond the academy's walls. The ninjas you have trained 
-go on to become respected protectors of the galaxy, upholding the values you have instilled in them.
-They carry your teachings forward, passing them down to future generations of cosmic ninjas.
-Your life is one of purpose and fulfillment, knowing that you have played a vital role in preserving 
-the cosmic ninja order's traditions and values. Your legacy lives on through the countless cosmic 
-ninjas you have inspired, ensuring that the galaxy will always have defenders who uphold the noble 
-principles of the cosmic ninja code.""")
+Your decision to continue your training within the academy is a testament to 
+your unwavering commitment to the cosmic ninja order's principles and values. 
+As the years pass, you diligently study and train, never becoming the strongest
+or most powerful ninja, but always remaining faithful to the code. 
+Your dedication does not go unnoticed. Master Shinobi recognizes your steadfast 
+belief in the ninja code and your passion for preserving the order's traditions.
+He appoints you as a teacher within the academy, where you inspire several 
+generations of recruits with your wisdom and guidance.
+As a teacher, you instill in your students the importance of honor, discipline,
+and compassion. You teach them to use their cosmic ninja abilities responsibly 
+and for the greater good of the galaxy. Your firm belief in the ninja code 
+becomes a cornerstone of their training. Over the years, your influence extends
+far beyond the academy's walls. The ninjas you have trained go on to become 
+respected protectors of the galaxy, upholding the values you have instilled 
+in them. They carry your teachings forward, passing them down to future 
+generations of cosmic ninjas. Your life is one of purpose and fulfillment, 
+knowing that you have played a vital role in preserving the cosmic ninja 
+order's traditions and values. Your legacy lives on through the countless 
+cosmic ninjas you have inspired, ensuring that the galaxy will always have 
+defenders who uphold the noble principles of the cosmic ninja code.""")
 def chapter5babb():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .  
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .  
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  . 
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Immortal Guardian
-Master Shinobi recognizes the gravity of your proposal to safeguard the forbidden scrolls, 
-knowing the immense power they contain. With great care and wisdom, he helps you develop a plan 
-to ensure their protection for all time.
-Using the ancient cosmic techniques from the scrolls, you and Master Shinobi embark on a journey 
-to an uninhabited planet, hidden far away from the prying eyes of the galaxy. There, you perform a 
-ritual that merges the essence of the scrolls with your own being, granting you immortality and the 
-power to protect them.
-As the guardian of the forbidden scrolls, you remain on the desolate planet for all foreseeable 
-future, watching over the scrolls and preventing anyone from accessing their forbidden knowledge. 
-Your existence becomes intertwined with the cosmic secrets contained within, and you dedicate your 
-immortal life to ensuring that their power remains out of reach for anyone who might seek to misuse it.
-The galaxy comes to know the legend of the Immortal Guardian, a cosmic ninja who sacrificed their 
-own freedom to protect the galaxy from the potential dangers of the forbidden scrolls. 
-Your selfless commitment to this duty becomes a symbol of dedication and sacrifice in the 
-cosmic ninja world, a testament to the lengths to which one can go to safeguard the greater good.""")
+Master Shinobi recognizes the gravity of your proposal to safeguard the 
+forbidden scrolls, knowing the immense power they contain. With great care and 
+wisdom, he helps you develop a plan to ensure their protection for all time.
+Using the ancient cosmic techniques from the scrolls, you and Master Shinobi 
+embark on a journey to an uninhabited planet, hidden far away from the prying 
+eyes of the galaxy. There, you perform a ritual that merges the essence of the 
+scrolls with your own being, granting you immortality and the power to 
+protect them. As the guardian of the forbidden scrolls, you remain on the 
+desolate planet for all foreseeable future, watching over the scrolls and 
+preventing anyone from accessing their forbidden knowledge. Your existence 
+becomes intertwined with the cosmic secrets contained within, and you dedicate 
+your immortal life to ensuring that their power remains out of reach for anyone
+who might seek to misuse it. The galaxy comes to know the legend of the 
+Immortal Guardian, a cosmic ninja who sacrificed their own freedom to protect 
+the galaxy from the potential dangers of the forbidden scrolls. Your selfless 
+commitment to this duty becomes a symbol of dedication and sacrifice in the 
+cosmic ninja world, a testament to the lengths to which one can go to safeguard
+the greater good.""")
 def chapter5bbaa():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  . 
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  . 
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  . 
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Heroic Incineration
 
-As you stand before the incinerator, unwavering in your determination to see the forbidden scrolls 
-destroyed, a group of cosmic ninjas who opposed their destruction make a desperate move. 
-They attempt to stop you from placing the scrolls into the flames, believing that their power 
-should be preserved.
-A fierce battle ensues, with laser ninja weapons clashing in a dazzling display of skill and 
-determination. The challenge is immense, but your resolve remains unshaken. You fight with unwavering 
-determination, knowing that the scrolls must be destroyed to protect the galaxy 
-from their potential danger.
-In the end, you emerge victorious, defeating those who sought to preserve the scrolls. 
-With the opposition vanquished, you proceed to cast the forbidden scrolls into the incinerator's 
-flames, watching as they are reduced to ashes.
-Your actions make you a hero of legend in the cosmic ninja world. You are celebrated for your 
-unwavering commitment to upholding the values of the cosmic ninja order, even in the face of 
-formidable opposition. The galaxy comes to know your name and the story of your heroic act.
-Your legacy becomes a symbol of dedication and sacrifice in the cosmic ninja world, a testament to 
-the lengths one can go to protect the greater good. The forbidden scrolls are no more, 
-and the galaxy remains safe from their potential dangers, thanks to your heroic actions.""")
+As you stand before the incinerator, unwavering in your determination to see 
+the forbidden scrolls destroyed, a group of cosmic ninjas who opposed their 
+destruction make a desperate move. They attempt to stop you from placing the 
+scrolls into the flames, believing that their power should be preserved.
+A fierce battle ensues, with laser ninja weapons clashing in a dazzling display
+of skill and determination. The challenge is immense, but your resolve remains 
+unshaken. You fight with unwavering determination, knowing that the scrolls 
+must be destroyed to protect the galaxy from their potential danger.
+In the end, you emerge victorious, defeating those who sought to preserve the 
+scrolls. With the opposition vanquished, you proceed to cast the forbidden 
+scrolls into the incinerator's flames, watching as they are reduced to ashes.
+Your actions make you a hero of legend in the cosmic ninja world. You are 
+celebrated for your unwavering commitment to upholding the values of the cosmic
+ninja order, even in the face of formidable opposition. The galaxy comes to 
+know your name and the story of your heroic act. Your legacy becomes a symbol 
+of dedication and sacrifice in the cosmic ninja world, a testament to the 
+lengths one can go to protect the greater good. The forbidden scrolls are no 
+more, and the galaxy remains safe from their potential dangers, thanks to your 
+heroic actions.""")
 def chapter5bbab():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  . 
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  . 
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  . 
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: Fugitive of Power
 
-As you stand before the incinerator, doubt creeps into your mind. The resistance from the forbidden 
-scrolls intensifies, and you begin to question whether destroying them is the right course of action. Could there be another way to handle this forbidden knowledge?
-In a last-minute decision, you halt the process, choosing not to incinerate the scrolls. 
-Instead, you decide to steal them, believing that there must be a way to handle their power 
-responsibly without resorting to destruction.
-With the stolen scrolls in your possession, you become a fugitive of the cosmic ninja civilization. 
-The order views you as a traitor, and your actions are seen as a betrayal of their values. 
-You are forced to live a life on the run, always looking over your shoulder, as the entire 
-ninja civilization hunts you down.
-Your life becomes a constant struggle, but the power of the forbidden scrolls gives you an edge. 
-You become a formidable cosmic ninja, harnessing their dark knowledge while trying to remain hidden 
-from those who seek to capture you.
-The galaxy comes to know your name as a renegade, a cosmic ninja who chose a different path, 
-one shrouded in secrecy and danger. Your story serves as a cautionary tale, a reminder of the 
-complexities of handling forbidden knowledge and the consequences of deviating from the cosmic ninja code.
-Your future remains uncertain, as you navigate a treacherous existence on the fringes of the cosmic 
-ninja world, forever marked by your decision to defy convention and protect the forbidden scrolls 
-from destruction.""")
+As you stand before the incinerator, doubt creeps into your mind. 
+The resistance from the forbidden scrolls intensifies, and you begin to 
+question whether destroying them is the right course of action. Could there be 
+another way to handle this forbidden knowledge? In a last-minute decision, you 
+halt the process, choosing not to incinerate the scrolls. 
+Instead, you decide to steal them, believing that there must be a way to handle
+their power responsibly without resorting to destruction.
+With the stolen scrolls in your possession, you become a fugitive of the cosmic
+ninja civilization. The order views you as a traitor, and your actions are seen
+as a betrayal of their values. You are forced to live a life on the run, always
+looking over your shoulder, as the entire ninja civilization hunts you down.
+Your life becomes a constant struggle, but the power of the forbidden scrolls 
+gives you an edge. You become a formidable cosmic ninja, harnessing their dark 
+knowledge while trying to remain hidden from those who seek to capture you.
+The galaxy comes to know your name as a renegade, a cosmic ninja who chose a 
+different path, one shrouded in secrecy and danger. Your story serves as a 
+cautionary tale, a reminder of the complexities of handling forbidden knowledge
+and the consequences of deviating from the cosmic ninja code.
+Your future remains uncertain, as you navigate a treacherous existence on the 
+fringes of the cosmic ninja world, forever marked by your decision to defy 
+convention and protect the forbidden scrolls from destruction.""")
 def chapter5bbba():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  . 
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  . 
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  . 
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Scholar's Legacy
 
-With unwavering determination, you fully commit to the research of the forbidden scrolls, seeking 
-to harness their power responsibly and for the greater good of the cosmic ninja world. 
-Over the years, you become a true scholar of the scrolls, unlocking their secrets and understanding 
-their potential.
-Rather than hoarding this knowledge or using it for personal gain, you choose a different path. 
-Your mission becomes clear: to spread the knowledge of the scrolls throughout the entire galaxy, 
-ensuring that no one can exploit their power for nefarious purposes.
-You become a respected teacher and mentor, training a new generation of cosmic ninjas in the 
-responsible use of the scrolls' knowledge. Your teachings emphasize the importance of balance, 
-discipline, and ethical use of power.
-As the scrolls' knowledge spreads, the cosmic ninja world undergoes a transformation. 
-Cosmic ninjas across the galaxy become more enlightened, wielding their powers responsibly and 
-for the greater good. The influence of the scrolls' knowledge creates a more just and harmonious galaxy.
-Your legacy is one of wisdom and enlightenment. You are celebrated as a scholar who used the 
-forbidden knowledge for the betterment of the cosmic ninja world. The galaxy knows your name and 
-honors your contributions, and your teachings continue to guide cosmic ninjas for generations to come.
-Your dedication to the greater good has left an indelible mark on the cosmic ninja order, 
-ensuring that the power of the forbidden scrolls is harnessed responsibly and never exploited 
-for evil.""")
+With unwavering determination, you fully commit to the research of the 
+forbidden scrolls, seeking to harness their power responsibly and for the 
+greater good of the cosmic ninja world. Over the years, you become a true 
+scholar of the scrolls, unlocking their secrets and understanding their 
+potential. Rather than hoarding this knowledge or using it for personal gain, 
+you choose a different path. Your mission becomes clear: to spread the 
+knowledge of the scrolls throughout the entire galaxy, ensuring that no one can
+exploit their power for nefarious purposes. You become a respected teacher and 
+mentor, training a new generation of cosmic ninjas in the responsible use of 
+the scrolls' knowledge. Your teachings emphasize the importance of balance, 
+discipline, and ethical use of power. As the scrolls' knowledge spreads, the 
+cosmic ninja world undergoes a transformation. Cosmic ninjas across the galaxy
+become more enlightened, wielding their powers responsibly and for the greater 
+good. The influence of the scrolls' knowledge creates a more just and 
+harmonious galaxy. Your legacy is one of wisdom and enlightenment. You are 
+celebrated as a scholar who used the forbidden knowledge for the betterment of 
+the cosmic ninja world. The galaxy knows your name and honors your 
+contributions, and your teachings continue to guide cosmic ninjas for 
+generations to come. Your dedication to the greater good has left an indelible 
+mark on the cosmic ninja order, ensuring that the power of the forbidden 
+scrolls is harnessed responsibly and never exploited for evil.""")
 def chapter5bbbb():
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
-    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  .   .
-    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .   .
-    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  .   .
+    .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  .   . *  .  *  . 
+    *  .   .  .  .  *  .  *  .   .  *  .  *  .   .  *  .  *  .  * *  .  *  .  
+    .   .  .  .  .  .  .  *  .   .  *  .  *  .   .  .  *  .  .   . *  .  *  . 
       .  .  .  *  .  *  .  *  .   .  .  .  .  .   .  *  .  *  . *  .  *  .   .
     Chapter 5: The Cataclysmic Unleashing
 
-As your research into the forbidden scrolls progresses, your concerns about the risks and potential 
-consequences intensify. You come to realize that the power contained within these scrolls is too 
-dangerous to be left unchecked.
-In a desperate bid to prevent the misuse of this dark knowledge, you make a fateful decision. 
-You attempt to tear the scrolls apart, hoping to destroy them once and for all. As you grasp the 
-scrolls and apply your cosmic energy, they begin to tear down the middle.
-However, as the scrolls split, an overwhelming surge of cosmic energy is released. 
-It engulfs you and the entire planet, creating a vortex of shadowy smoke that defies description. 
-The cataclysmic release of power consumes everything in its path, leaving nothing but chaos in its wake.
-The cosmic ninja world is forever changed by this catastrophic event. Your attempt to prevent the 
-scrolls' misuse inadvertently led to their release, unleashing a force of unimaginable power that 
-wreaks havoc on the galaxy.
-Your actions, though well-intentioned, have unforeseen consequences that will echo through the 
-cosmic ninja world for eternity. The vortex of shadowy smoke becomes a haunting reminder of the 
-dangers of forbidden knowledge, and the galaxy must now grapple with the aftermath of your 
-well-intentioned but ultimately disastrous decision.""")
+As your research into the forbidden scrolls progresses, your concerns about the
+risks and potential consequences intensify. You come to realize that the power 
+contained within these scrolls is too dangerous to be left unchecked.
+In a desperate bid to prevent the misuse of this dark knowledge, you make a 
+fateful decision. You attempt to tear the scrolls apart, hoping to destroy them
+once and for all. As you grasp the scrolls and apply your cosmic energy, they 
+begin to tear down the middle. However, as the scrolls split, an overwhelming 
+surge of cosmic energy is released. It engulfs you and the entire planet, 
+creating a vortex of shadowy smoke that defies description. The cataclysmic 
+release of power consumes everything in its path, leaving nothing but chaos in 
+its wake. The cosmic ninja world is forever changed by this catastrophic event.
+Your attempt to prevent the scrolls' misuse inadvertently led to their release,
+unleashing a force of unimaginable power that wreaks havoc on the galaxy.
+Your actions, though well-intentioned, have unforeseen consequences that will 
+echo through the cosmic ninja world for eternity. The vortex of shadowy smoke 
+becomes a haunting reminder of the dangers of forbidden knowledge, and the 
+galaxy must now grapple with the aftermath of your well-intentioned but 
+ultimately disastrous decision.""")
