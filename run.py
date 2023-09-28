@@ -10,6 +10,7 @@ import chapter5
 import wrong_input
 import queries
 
+
 # make sure it clears on all operating systems
 def clear():
     """
@@ -44,8 +45,8 @@ welcome_answer = input("""
 If you want the full immersive ninja-life experience, hit play above this
 terminal to play a absolute classic ninja-fighter-theme-song. HAAIIIYYYYAA!!!
 
-Would you like to read more about why I made this app ENTER [a] 
-Would you instead become the lethal ninja living deep inside you ENTER [b] 
+Would you like to read more about why I made this app ENTER [a]
+Would you instead become the lethal ninja living deep inside you ENTER [b]
 >>  """)
 while True:  # welcome page with logo
     if welcome_answer in answer_a:
@@ -67,15 +68,15 @@ while True:  # welcome page with logo
     else:
         wrong_input.wrng_input1()
         welcome_answer = input("""
-Would you like to read more about why I made this app ENTER [a], 
-would you instead become the lethal ninja living deep inside you ENTER [b] 
+Would you like to read more about why I made this app ENTER [a],
+would you instead become the lethal ninja living deep inside you ENTER [b]
 >>  """)
 clear()
 welcome_text.introduction()
-while True: # name-input loop
+while True:  # name-input loop
     name = input('ENTER YOUR NINJA NAME >>  ')
     if name.strip():
-        break # exit name-input loop
+        break  # exit name-input loop
     else:
         wrong_input.wrng_name()
 clear()
