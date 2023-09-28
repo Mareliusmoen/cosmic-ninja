@@ -12,6 +12,17 @@ import queries
 
 # make sure it clears on all operating systems
 def clear():
+    """
+    Clear the terminal.
+
+    This function provides a cross-platform
+    way to clear the screen based on the operating system. On Windows,
+    it uses the correct 'cls', while on any other systems, it uses 'clear'.
+
+    Note:
+        I have imported the 'os and 'platform library that this function need.
+
+    """
     if platform.system() == 'Windows':
         os.system('cls')
     else:

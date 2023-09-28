@@ -1,4 +1,14 @@
 def chapter2a():
+    """
+    Print chapter 2a to terminal.
+
+    This function prints the multiline text string representing chapter 2a.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
 ,_._._._._._._._._|__________________________________________________________,
 |_|_|_|_|_|_|_|_|_|_________________________________________________________/
@@ -19,6 +29,16 @@ This encounter becomes a defining moment in your journey, setting the stage for
 a rivalry that will shape your path as a cosmic ninja.""")
 
 def chapter2b():
+    """
+    Print chapter 2b to terminal.
+
+    This function prints the multiline text string representing chapter 2b.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
  ,_._._._._._._._._|__________________________________________________________,
  |_|_|_|_|_|_|_|_|_|_________________________________________________________/
@@ -36,6 +56,17 @@ to all students. The instructor tells you that such knowledge can be dangerous
 in the wrong hands and asks if you've seen anyone tampering with them.""")
 
 def chapter2a_option_a():
+    """
+    Print the players option a in chapter 2a to terminal.
+
+    This function prints the multiline text string representing the players
+    option a in chapter 2a.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION A
 You decide to embrace the rivalry with Hiro. You challenge Hiro to a series of 
@@ -44,6 +75,17 @@ further interactions with Hiro, where you'll uncover more about his character
 and skills, and perhaps even lead to a lethal rivalry""")
 
 def chapter2a_option_b():
+    """
+    Print the players option b in chapter 2a to terminal.
+
+    This function prints the multiline text string representing the players
+    option b in chapter 2a.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION B
 You believe that there must be a way to resolve your differences peacefully. 
@@ -54,12 +96,34 @@ exercises. This choice opens up a different path where you and Hiro become
 unlikely allies, facing challenges together.""")
 
 def chapter2b_option_a():
+    """
+    Print the players option a in chapter 2b to terminal.
+
+    This function prints the multiline text string representing the players
+    option a in chapter 2b.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION A
 You decide to study the forbidden scrolls in secret, curious about the knowledge
 they hold.""")
 
 def chapter2b_option_b():
+    """
+    Print the players option b in chapter 2b to terminal.
+
+    This function prints the multiline text string representing the players
+    option b in chapter 2b.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION B
 Feeling a sense of responsibility, you inform the instructor about the scrolls' 

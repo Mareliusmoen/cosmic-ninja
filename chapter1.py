@@ -1,4 +1,14 @@
 def chapter1(): 
+    """
+    Print chapter 1 to terminal.
+
+    This function prints the multiline text string representing chapter 1.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print(
     """
             \                                           ___/__________
@@ -24,6 +34,17 @@ authority. His eyes have witnessed countless cosmic warriors rise and fall.
 His wisdom is legendary, and his stern but fair guidance is sought after by all.""")
 
 def chapter1_option_a():
+    """
+    Print the players options in chapter 1 to terminal.
+
+    This function prints the multiline text string representing the players
+    options in chapter 1.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
 OPTION A
 You approach Master Shinobi with determination, eager to introduce yourself and 
