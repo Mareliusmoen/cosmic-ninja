@@ -35,11 +35,11 @@ answer_b = ["b", "B"]
 answer_yes = ["y", "Y", "YES", "yes", "Yes", "YEs", "yES"]
 answer_no = ["n", "N", "NO", "no", "No", "nO"]
 # to style the console output
-new_line = '\n'
+NEW_LINE = '\n'
 
 # game start
 welcome_text.welcome_logo()
-print(new_line)
+print(NEW_LINE)
 welcome_answer = input("""
 If you want the full immersive ninja-life experience, hit play above this
 terminal to play a absolute classic ninja-fighter-theme-song. HAAIIIYYYYAA!!!
@@ -51,7 +51,7 @@ while True:  # welcome page with logo
     if welcome_answer in answer_a:
         clear()
         welcome_text.backstory()
-        print(new_line)
+        print(NEW_LINE)
         backstory_answer = input('Are you ready to play the game? ENTER [y]')
         while True:  # backstory loop
             if backstory_answer in answer_yes:
@@ -80,7 +80,7 @@ while True: # name-input loop
         wrong_input.wrng_name()
 clear()
 welcome_text.start_message(name)
-print(new_line)
+print(NEW_LINE)
 first_answer = queries.start_y_or_n()
 
 # game loop
@@ -90,7 +90,7 @@ while True:
         chapter1.chapter1()
         chapter1.chapter1_option_a()
         chapter1.chapter1_option_b()
-        print(new_line)
+        print(NEW_LINE)
         chapter1_answer = queries.a_or_b()
         while True:  # loop for the choice in chapter 1
             if chapter1_answer in answer_a:
@@ -98,7 +98,7 @@ while True:
                 chapter2.chapter2a()
                 chapter2.chapter2a_option_a()
                 chapter2.chapter2a_option_b()
-                print(new_line)
+                print(NEW_LINE)
                 chapter2a_answer = queries.a_or_b()
                 while True:  # loop for chapter 2a
                     if chapter2a_answer in answer_a:
@@ -106,7 +106,7 @@ while True:
                         chapter3.chapter3aa()
                         chapter3.chapter3aa_option_a()
                         chapter3.chapter3aa_option_b()
-                        print(new_line)
+                        print(NEW_LINE)
                         chapter3aa_answer = queries.a_or_b()
                         while True:  # loop for chapter 3aa
                             if chapter3aa_answer in answer_a:
@@ -114,19 +114,19 @@ while True:
                                 chapter4.chapter4aaa()
                                 chapter4.chapter4aaa_option_a()
                                 chapter4.chapter4aaa_option_b()
-                                print(new_line)
+                                print(NEW_LINE)
                                 chapter4aaa_answer = queries.a_or_b()
                                 while True:  # loop for chapter 4aaa
                                     if chapter4aaa_answer in answer_a:
                                         clear()
                                         chapter5.chapter5aaaa()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4aaa
                                     elif chapter4aaa_answer in answer_b:
                                         clear()
                                         chapter5.chapter5aaab()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4aaa
                                     else:
@@ -134,7 +134,7 @@ while True:
                                         chapter4.chapter4aaa()
                                         chapter4.chapter4aaa_option_a()
                                         chapter4.chapter4aaa_option_b()
-                                        print(new_line)
+                                        print(NEW_LINE)
                                         wrong_input.wrng_input5()
                                         chapter4aaa_answer = queries.a_or_b()
 
@@ -144,19 +144,19 @@ while True:
                                 chapter4.chapter4aab()
                                 chapter4.chapter4aab_option_a()
                                 chapter4.chapter4aab_option_b()
-                                print(new_line)
+                                print(NEW_LINE)
                                 chapter4aab_answer = queries.a_or_b()
                                 while True:  # loop for chapter 4aab
                                     if chapter4aab_answer in answer_a:
                                         clear()
                                         chapter5.chapter5aaba()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4aab
                                     elif chapter4aab_answer in answer_b:
                                         clear()
                                         chapter5.chapter5aabb()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4aab
                                     else:
@@ -164,7 +164,7 @@ while True:
                                         chapter4.chapter4aab()
                                         chapter4.chapter4aab_option_a()
                                         chapter4.chapter4aab_option_b()
-                                        print(new_line)
+                                        print(NEW_LINE)
                                         wrong_input.wrng_input3()
                                         chapter4aab_answer = queries.a_or_b()
 
@@ -174,7 +174,7 @@ while True:
                                 chapter3.chapter3aa()
                                 chapter3.chapter3aa_option_a()
                                 chapter3.chapter3aa_option_b()
-                                print(new_line)
+                                print(NEW_LINE)
                                 wrong_input.wrng_input4()
                                 chapter3aa_answer = queries.a_or_b()
                         break  # exit the loop for chapter 2a
@@ -183,7 +183,7 @@ while True:
                         chapter3.chapter3ab()
                         chapter3.chapter3ab_option_a()
                         chapter3.chapter3ab_option_b()
-                        print(new_line)
+                        print(NEW_LINE)
                         chapter3ab_answer = queries.a_or_b()
                         while True:  # loop for chapter 3ab
                             if chapter3ab_answer in answer_a:
@@ -191,19 +191,19 @@ while True:
                                 chapter4.chapter4aba()
                                 chapter4.chapter4aba_option_a()
                                 chapter4.chapter4aba_option_b()
-                                print(new_line)
+                                print(NEW_LINE)
                                 chapter4aba_answer = queries.a_or_b()
                                 while True:  # loop for chapter 4aba
                                     if chapter4aba_answer in answer_a:
                                         clear()
                                         chapter5.chapter5abaa()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4aba
                                     elif chapter4aba_answer in answer_b:
                                         clear()
                                         chapter5.chapter5abab()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4aba
                                     else:
@@ -211,7 +211,7 @@ while True:
                                         chapter4.chapter4aba()
                                         chapter4.chapter4aba_option_a()
                                         chapter4.chapter4aba_option_b()
-                                        print(new_line)
+                                        print(NEW_LINE)
                                         wrong_input.wrng_input2()
                                         chapter4aba_answer = queries.a_or_b()
                                 break  # exit the loop for chapter 3ab
@@ -220,19 +220,19 @@ while True:
                                 chapter4.chapter4abb()
                                 chapter4.chapter4abb_option_a()
                                 chapter4.chapter4abb_option_b()
-                                print(new_line)
+                                print(NEW_LINE)
                                 chapter4abb_answer = queries.a_or_b()
                                 while True:  # loop for chapter 4abb
                                     if chapter4abb_answer in answer_a:
                                         clear()
                                         chapter5.chapter5abba()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4abb
                                     elif chapter4abb_answer in answer_b:
                                         clear()
                                         chapter5.chapter5abbb()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4abb
                                     else:
@@ -240,7 +240,7 @@ while True:
                                         chapter4.chapter4abb()
                                         chapter4.chapter4abb_option_a()
                                         chapter4.chapter4abb_option_b()
-                                        print(new_line)
+                                        print(NEW_LINE)
                                         wrong_input.wrng_input1()
                                         chapter4abb_answer = queries.a_or_b()
                                 break  # exit the loop for chapter 3ab
@@ -249,7 +249,7 @@ while True:
                                 chapter3.chapter3ab()
                                 chapter3.chapter3ab_option_a()
                                 chapter3.chapter3ab_option_b()
-                                print(new_line)
+                                print(NEW_LINE)
                                 wrong_input.wrng_input3()
                                 chapter3ab_answer = queries.a_or_b()
                         break  # exit the loop for chapter 2a
@@ -258,7 +258,7 @@ while True:
                         chapter2.chapter2a()
                         chapter2.chapter2a_option_a()
                         chapter2.chapter2a_option_b()
-                        print(new_line)
+                        print(NEW_LINE)
                         wrong_input.wrng_input2()
                         chapter2a_answer = queries.a_or_b()
                 break  # exit the loop for chapter1
@@ -267,7 +267,7 @@ while True:
                 chapter2.chapter2b()
                 chapter2.chapter2b_option_a()
                 chapter2.chapter2b_option_b()
-                print(new_line)
+                print(NEW_LINE)
                 chapter2b_answer = queries.a_or_b()
                 while True:  # loop for chapter 2b
                     if chapter2b_answer in answer_a:
@@ -275,7 +275,7 @@ while True:
                         chapter3.chapter3ba()
                         chapter3.chapter3ba_option_a()
                         chapter3.chapter3ba_option_b()
-                        print(new_line)
+                        print(NEW_LINE)
                         chapter3ba_answer = queries.a_or_b()
                         while True:  # loop for chapter 3ba
                             if chapter3ba_answer in answer_a:
@@ -283,19 +283,19 @@ while True:
                                 chapter4.chapter4baa()
                                 chapter4.chapter4baa_option_a()
                                 chapter4.chapter4baa_option_b()
-                                print(new_line)
+                                print(NEW_LINE)
                                 chapter4baa_answer = queries.a_or_b()
                                 while True:  # loop for chapter 4baa
                                     if chapter4baa_answer in answer_a:
                                         clear()
                                         chapter5.chapter5baaa()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4baa
                                     elif chapter4baa_answer in answer_b:
                                         clear()
                                         chapter5.chapter5baab()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4baa
                                     else:
@@ -303,7 +303,7 @@ while True:
                                         chapter4.chapter4baa()
                                         chapter4.chapter4baa_option_a()
                                         chapter4.chapter4baa_option_b()
-                                        print(new_line)
+                                        print(NEW_LINE)
                                         wrong_input.wrng_input2()
                                         chapter4baa_answer = queries.a_or_b()
                                 break  # exit the loop for chapter 3ba
@@ -312,19 +312,19 @@ while True:
                                 chapter4.chapter4bab()
                                 chapter4.chapter4bab_option_a()
                                 chapter4.chapter4bab_option_b()
-                                print(new_line)
+                                print(NEW_LINE)
                                 chapter4bab_answer = queries.a_or_b()
                                 while True:  # loop for chapter 4bab
                                     if chapter4bab_answer in answer_a:
                                         clear()
                                         chapter5.chapter5baba()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4bab
                                     elif chapter4bab_answer in answer_b:
                                         clear()
                                         chapter5.chapter5babb()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4bab
                                     else:
@@ -332,7 +332,7 @@ while True:
                                         chapter4.chapter4bab()
                                         chapter4.chapter4bab_option_a()
                                         chapter4.chapter4bab_option_b()
-                                        print(new_line)
+                                        print(NEW_LINE)
                                         wrong_input.wrng_input1()
                                         chapter4bab_answer = queries.a_or_b()
                                 break  # exit the loop for chapter 3ba
@@ -341,7 +341,7 @@ while True:
                                 chapter3.chapter3ba()
                                 chapter3.chapter3ba_option_a()
                                 chapter3.chapter3ba_option_b()
-                                print(new_line)
+                                print(NEW_LINE)
                                 wrong_input.wrng_input3()
                                 chapter3ba_answer = queries.a_or_b()
                         break  # exit the loop for chapter2b
@@ -350,7 +350,7 @@ while True:
                         chapter3.chapter3bb()
                         chapter3.chapter3bb_option_a()
                         chapter3.chapter3bb_option_b()
-                        print(new_line)
+                        print(NEW_LINE)
                         chapter3bb_answer = queries.a_or_b()
                         while True:  # loop for chapter 3bb
                             if chapter3bb_answer in answer_a:
@@ -358,19 +358,19 @@ while True:
                                 chapter4.chapter4bba()
                                 chapter4.chapter4bba_option_a()
                                 chapter4.chapter4bba_option_b()
-                                print(new_line)
+                                print(NEW_LINE)
                                 chapter4bba_answer = queries.a_or_b()
                                 while True:  # loop for chapter 4bba
                                     if chapter4bba_answer in answer_a:
                                         clear()
                                         chapter5.chapter5bbaa()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4bba
                                     elif chapter4bba_answer in answer_b:
                                         clear()
                                         chapter5.chapter5bbab()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4bba
                                     else:
@@ -378,7 +378,7 @@ while True:
                                         chapter4.chapter4bba()
                                         chapter4.chapter4bba_option_a()
                                         chapter4.chapter4bba_option_b()
-                                        print(new_line)
+                                        print(NEW_LINE)
                                         wrong_input.wrng_input5()
                                         chapter4bba_answer = queries.a_or_b()
                                 break  # exit the loop for chapter 3bb
@@ -387,19 +387,19 @@ while True:
                                 chapter4.chapter4bbb()
                                 chapter4.chapter4bbb_option_a()
                                 chapter4.chapter4bbb_option_b()
-                                print(new_line)
+                                print(NEW_LINE)
                                 chapter4bbb_answer = queries.a_or_b()
                                 while True:  # loop for chapter 4bbb
                                     if chapter4bbb_answer in answer_a:
                                         clear()
                                         chapter5.chapter5bbba()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4bbb
                                     elif chapter4bbb_answer in answer_b:
                                         clear()
                                         chapter5.chapter5bbbb()
-                                        print(new_line)
+                                        print(NEW_LINE)
 
                                         break  # exit the loop for chapter 4bbb
                                     else:
@@ -407,7 +407,7 @@ while True:
                                         chapter4.chapter4bbb()
                                         chapter4.chapter4bbb_option_a()
                                         chapter4.chapter4bbb_option_b()
-                                        print(new_line)
+                                        print(NEW_LINE)
                                         wrong_input.wrng_input2()
                                         chapter4bbb_answer = queries.a_or_b()
                                 break  # exit the loop for chapter 3bb
@@ -416,7 +416,7 @@ while True:
                                 chapter3.chapter3bb()
                                 chapter3.chapter3bb_option_a()
                                 chapter3.chapter3bb_option_b()
-                                print(new_line)
+                                print(NEW_LINE)
                                 wrong_input.wrng_input4()
                                 chapter3bb_answer = queries.a_or_b()
                         break  # exit the loop for chapter2b
@@ -425,7 +425,7 @@ while True:
                         chapter2.chapter2b()
                         chapter2.chapter2b_option_a()
                         chapter2.chapter2b_option_b()
-                        print(new_line)
+                        print(NEW_LINE)
                         wrong_input.wrng_input3()
                         chapter2b_answer = queries.a_or_b()
                 break  # exit the loop for chapter1
@@ -434,7 +434,7 @@ while True:
                 chapter1.chapter1()
                 chapter1.chapter1_option_a()
                 chapter1.chapter1_option_b()
-                print(new_line)
+                print(NEW_LINE)
                 wrong_input.wrng_input4()
                 chapter1_answer = queries.a_or_b()
         break
@@ -444,6 +444,6 @@ while True:
     else:
         clear()
         welcome_text.start_message(name)
-        print(new_line)
+        print(NEW_LINE)
         wrong_input.wrng_input5()
         first_answer = queries.start_y_or_n()
