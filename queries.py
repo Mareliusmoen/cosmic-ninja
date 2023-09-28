@@ -21,4 +21,3 @@ def a_or_b():
     of the code.
     """
     return input('What would you like to do? ENTER [a / b] >>  ')
-    

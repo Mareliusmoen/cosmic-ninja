@@ -117,3 +117,10 @@ you were a kid, running all over the place with sticks and in your imagination
 you were the most lethal, awesome and kick-ass NINJA-girl or NINJA-boy.
 Please enjoy, have a laugh and remember:
 EVERYBODY HAS A LETHAL SPACE-NINJA IN THEM""")
+
+def goodbye_text(name):
+    print(f"""
+Fairwell, {name}, your cosmic journey comes to a close for now.
+Should you ever wish to return to the path of the cosmic ninja, the universe
+will be here, ready to embrace your ninja spirit once more. Until then,
+may the stars guide your way!""")
