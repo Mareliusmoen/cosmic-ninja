@@ -1,4 +1,14 @@
 def chapter5aaaa():
+    """
+    Print chapter 5aaaa to terminal.
+
+    This function prints the multiline text string representing chapter 5aaaa.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
@@ -30,6 +40,16 @@ day when two cosmic ninjas succumbed to the allure of the Starshard, and the
 cosmic order was forever altered.""")
 
 def chapter5aaab():
+    """
+    Print chapter 5aaab to terminal.
+
+    This function prints the multiline text string representing chapter 5aaab.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
@@ -62,6 +82,16 @@ as the Starshard's eternal guardian will be remembered for eons to come,
 a symbol of selflessness and devotion to the cosmic ninja ideals.""")
 
 def chapter5aaba():
+    """
+    Print chapter 5aaba to terminal.
+
+    This function prints the multiline text string representing chapter 5aaba.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
@@ -96,6 +126,16 @@ balance, and the Starshard's potential for both salvation and destruction
 continues to shape the destiny of all who seek its cosmic power.""")
 
 def chapter5aabb():
+    """
+    Print chapter 5aabb to terminal.
+
+    This function prints the multiline text string representing chapter 5aabb.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
@@ -124,6 +164,16 @@ cautionary tale, a reminder of the consequences of unchecked ambition and the
 importance of responsibility and ethics in the cosmic ninja world.""")
 
 def chapter5abaa():
+    """
+    Print chapter 5abaa to terminal.
+
+    This function prints the multiline text string representing chapter 5abaa.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
@@ -151,6 +201,16 @@ adversaries, and the Starshard's destiny remains a mystery, a testament to the
 dangers of ambition and betrayal in the cosmic ninja world.""")
 
 def chapter5abab():
+    """
+    Print chapter 5abab to terminal.
+
+    This function prints the multiline text string representing chapter 5abab.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
@@ -183,6 +243,16 @@ and defeated by its guardian. Your story serves as a warning of the
 consequences of seeking ultimate power without understanding the 
 responsibilities it entails.""")
 def chapter5abba():
+    """
+    Print chapter 5abba to terminal.
+
+    This function prints the multiline text string representing chapter 5abba.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
@@ -214,6 +284,16 @@ honor and responsibility, you are the living embodiment of the cosmic ninja
 ideals, ensuring that the legacy of the Starshard serves as a beacon of 
 hope and protection for all.""")
 def chapter5abbb():
+    """
+    Print chapter 5abbb to terminal.
+
+    This function prints the multiline text string representing chapter 5abbb.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
@@ -247,6 +327,16 @@ guard it, you know that the Starshard's power is safely contained for all
 eternity, and the galaxy can rest assured that it will remain protected from 
 those who would seek to wield it recklessly.""")
 def chapter5baaa():
+    """
+    Print chapter 5baaa to terminal.
+
+    This function prints the multiline text string representing chapter 5baaa.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
@@ -273,6 +363,16 @@ succumbed to the seductive allure of forbidden techniques, a cautionary tale of
 the dangers of choosing power over the values and ethics that define the cosmic
 ninja order.""")
 def chapter5baab():
+    """
+    Print chapter 5baab to terminal.
+
+    This function prints the multiline text string representing chapter 5baab.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
@@ -304,6 +404,16 @@ to safeguarding the galaxy, and your legacy as its founder shines brightly
 for all time.
     """)
 def chapter5baba():
+    """
+    Print chapter 5baba to terminal.
+
+    This function prints the multiline text string representing chapter 5baba.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
@@ -334,6 +444,16 @@ order's traditions and values. Your legacy lives on through the countless
 cosmic ninjas you have inspired, ensuring that the galaxy will always have 
 defenders who uphold the noble principles of the cosmic ninja code.""")
 def chapter5babb():
+    """
+    Print chapter 5babb to terminal.
+
+    This function prints the multiline text string representing chapter 5babb.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
@@ -361,6 +481,16 @@ commitment to this duty becomes a symbol of dedication and sacrifice in the
 cosmic ninja world, a testament to the lengths to which one can go to safeguard
 the greater good.""")
 def chapter5bbaa():
+    """
+    Print chapter 5bbaa to terminal.
+
+    This function prints the multiline text string representing chapter 5bbaa.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
@@ -390,6 +520,16 @@ lengths one can go to protect the greater good. The forbidden scrolls are no
 more, and the galaxy remains safe from their potential dangers, thanks to your 
 heroic actions.""")
 def chapter5bbab():
+    """
+    Print chapter 5bbab to terminal.
+
+    This function prints the multiline text string representing chapter 5bbab.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
@@ -421,6 +561,16 @@ Your future remains uncertain, as you navigate a treacherous existence on the
 fringes of the cosmic ninja world, forever marked by your decision to defy 
 convention and protect the forbidden scrolls from destruction.""")
 def chapter5bbba():
+    """
+    Print chapter 5bbba to terminal.
+
+    This function prints the multiline text string representing chapter 5bbba.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
@@ -452,6 +602,16 @@ generations to come. Your dedication to the greater good has left an indelible
 mark on the cosmic ninja order, ensuring that the power of the forbidden 
 scrolls is harnessed responsibly and never exploited for evil.""")
 def chapter5bbbb():
+    """
+    Print chapter 5bbbb to terminal.
+
+    This function prints the multiline text string representing chapter 5bbbb.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     .   .  *  .  .  *  .  *  .   .  .  *  .   .  *  .  *  .   . *  .  *  .   .
      .  *  .   .  .  .  .  .   .  *  .  *  .   .  .  .  .  . *  .  *  .   .
