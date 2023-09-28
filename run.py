@@ -7,6 +7,7 @@ import chapter2
 import chapter3
 import chapter4
 import chapter5
+import wrong_input
 
 # make sure it clears on all operating systems
 def clear():
@@ -44,10 +45,7 @@ while True:  # welcome page with logo
             if backstory_answer in answer_yes:
                 break  # exit backstory loop
             else:
-                print("""
-Uh-oh, it appears your ninja instincts are momentarily 
-eclipsed by the cosmic chaos. Take a deep breath, focus your energy, and try 
-again with the precision of a laser ninja-star!""")
+                wrong_input.wrng_input2()
                 backstory_answer = input(
                     'Are you ready to play the game? ENTER [y]')
         break  # exit welcome page/logo loop
@@ -55,10 +53,7 @@ again with the precision of a laser ninja-star!""")
         clear()
         break  # exit welcome page/logo loop
     else:
-        print("""
-Uh-oh, it appears your ninja instincts are momentarily eclipsed by the 
-cosmic chaos. Take a deep breath, focus your energy, and try again with the 
-precision of a laser ninja-star! Please enter 'a' or 'b'.""")
+        wrong_input.wrng_input1()
         welcome_answer = input("""
 Would you like to read more about why I made this app ENTER [a], 
 would you instead become the lethal ninja living deep inside you ENTER [b] 
@@ -128,8 +123,7 @@ while True:
                                         chapter4.chapter4aaa_option_a()
                                         chapter4.chapter4aaa_option_b()
                                         print(new_line)
-                                        print(
-                                            """Looks like you've entered the intergalactic labyrinth of choices. Don't worry, even cosmic ninjas sometimes take detours. Try your cosmic navigation skills again!""")
+                                        wrong_input.wrng_input5()
                                         chapter4aaa_answer = input(
                                             'What would you like to do? ENTER [a / b] >>  ')
 
@@ -161,8 +155,7 @@ while True:
                                         chapter4.chapter4aab_option_a()
                                         chapter4.chapter4aab_option_b()
                                         print(new_line)
-                                        print(
-                                            """Looks like you've entered the intergalactic labyrinth of choices. Don't worry, even cosmic ninjas sometimes take detours. Try your cosmic navigation skills again!""")
+                                        wrong_input.wrng_input3()
                                         chapter4aab_answer = input(
                                             'What would you like to do? ENTER [a / b] >>  ')
 
@@ -173,8 +166,7 @@ while True:
                                 chapter3.chapter3aa_option_a()
                                 chapter3.chapter3aa_option_b()
                                 print(new_line)
-                                print(
-                                    """Looks like you've entered the intergalactic labyrinth of choices. Don't worry, even cosmic ninjas sometimes take detours. Try your cosmic navigation skills again!""")
+                                wrong_input.wrng_input4()
                                 chapter3aa_answer = input(
                                     'What would you like to do? ENTER [a / b] >>  ')
                         break  # exit the loop for chapter 2a
@@ -214,8 +206,7 @@ while True:
                                         chapter4.chapter4aba_option_a()
                                         chapter4.chapter4aba_option_b()
                                         print(new_line)
-                                        print(
-                                            """Looks like you've entered the intergalactic labyrinth of choices. Don't worry, even cosmic ninjas sometimes take detours. Try your cosmic navigation skills again!""")
+                                        wrong_input.wrng_input2()
                                         chapter4aba_answer = input(
                                             'What would you like to do? ENTER [a / b] >>  ')
                                 break  # exit the loop for chapter 3ab
@@ -246,8 +237,7 @@ while True:
                                         chapter4.chapter4abb_option_a()
                                         chapter4.chapter4abb_option_b()
                                         print(new_line)
-                                        print(
-                                            """Looks like you've entered the intergalactic labyrinth of choices. Don't worry, even cosmic ninjas sometimes take detours. Try your cosmic navigation skills again!""")
+                                        wrong_input.wrng_input1()
                                         chapter4abb_answer = input(
                                             'What would you like to do? ENTER [a / b] >>  ')
                                 break  # exit the loop for chapter 3ab
@@ -257,8 +247,7 @@ while True:
                                 chapter3.chapter3ab_option_a()
                                 chapter3.chapter3ab_option_b()
                                 print(new_line)
-                                print(
-                                    """Looks like you've entered the intergalactic labyrinth of choices. Don't worry, even cosmic ninjas sometimes take detours. Try your cosmic navigation skills again!""")
+                                wrong_input.wrng_input3()
                                 chapter3ab_answer = input(
                                     'What would you like to do? ENTER [a / b] >>  ')
                         break  # exit the loop for chapter 2a
@@ -268,8 +257,7 @@ while True:
                         chapter2.chapter2a_option_a()
                         chapter2.chapter2a_option_b()
                         print(new_line)
-                        print(
-                            """Epic cosmic blunder! It happens to the best of us. Go ahead, rewrite your cosmic destiny with a keystroke!""")
+                        wrong_input.wrng_input2()
                         chapter2a_answer = input(
                             'What would you like to do? ENTER [a / b] >>  ')
                 break  # exit the loop for chapter1
@@ -318,8 +306,7 @@ while True:
                                         chapter4.chapter4baa_option_a()
                                         chapter4.chapter4baa_option_b()
                                         print(new_line)
-                                        print(
-                                            """Looks like you've entered the intergalactic labyrinth of choices. Don't worry, even cosmic ninjas sometimes take detours. Try your cosmic navigation skills again!""")
+                                        wrong_input.wrng_input2()
                                         chapter4baa_answer = input(
                                             'What would you like to do? ENTER [a / b] >>  ')
                                 break  # exit the loop for chapter 3ba
@@ -350,8 +337,7 @@ while True:
                                         chapter4.chapter4bab_option_a()
                                         chapter4.chapter4bab_option_b()
                                         print(new_line)
-                                        print(
-                                            """Looks like you've entered the intergalactic labyrinth of choices. Don't worry, even cosmic ninjas sometimes take detours. Try your cosmic navigation skills again!""")
+                                        wrong_input.wrng_input1()
                                         chapter4bab_answer = input(
                                             'What would you like to do? ENTER [a / b] >>  ')
                                 break  # exit the loop for chapter 3ba
@@ -361,8 +347,7 @@ while True:
                                 chapter3.chapter3ba_option_a()
                                 chapter3.chapter3ba_option_b()
                                 print(new_line)
-                                print(
-                                    """Looks like you've entered the intergalactic labyrinth of choices. Don't worry, even cosmic ninjas sometimes take detours. Try your cosmic navigation skills again!""")
+                                wrong_input.wrng_input3()
                                 chapter3ba_answer = input(
                                     'What would you like to do? ENTER [a / b] >>  ')
                         break  # exit the loop for chapter2b
@@ -402,8 +387,7 @@ while True:
                                         chapter4.chapter4bba_option_a()
                                         chapter4.chapter4bba_option_b()
                                         print(new_line)
-                                        print(
-                                            """Looks like you've entered the intergalactic labyrinth of choices. Don't worry, even cosmic ninjas sometimes take detours. Try your cosmic navigation skills again!""")
+                                        wrong_input.wrng_input5()
                                         chapter4bba_answer = input(
                                             'What would you like to do? ENTER [a / b] >>  ')
                                 break  # exit the loop for chapter 3bb
@@ -434,8 +418,7 @@ while True:
                                         chapter4.chapter4bbb_option_a()
                                         chapter4.chapter4bbb_option_b()
                                         print(new_line)
-                                        print(
-                                            """Looks like you've entered the intergalactic labyrinth of choices. Don't worry, even cosmic ninjas sometimes take detours. Try your cosmic navigation skills again!""")
+                                        wrong_input.wrng_input2()
                                         chapter4bbb_answer = input(
                                             'What would you like to do? ENTER [a / b] >>  ')
                                 break  # exit the loop for chapter 3bb
@@ -445,8 +428,7 @@ while True:
                                 chapter3.chapter3bb_option_a()
                                 chapter3.chapter3bb_option_b()
                                 print(new_line)
-                                print(
-                                    """Hold on a moment, it appears your cosmic ninja keyboard skills need a calibration. Try anew and aim for the accuracy of a laser-guided shuriken!""")
+                                wrong_input.wrng_input4()
                                 chapter3bb_answer = input(
                                     'What would you like to do? ENTER [a / b] >>  ')
                         break  # exit the loop for chapter2b
@@ -456,8 +438,7 @@ while True:
                         chapter2.chapter2b_option_a()
                         chapter2.chapter2b_option_b()
                         print(new_line)
-                        print("""Hold on a moment, it appears your cosmic ninja keyboard skills need a calibration. 
-                        Try anew and aim for the accuracy of a laser-guided shuriken!""")
+                        wrong_input.wrng_input3()
                         chapter2b_answer = input(
                             'What would you like to do? ENTER [a / b] >>  ')
                 break  # exit the loop for chapter1
@@ -467,8 +448,7 @@ while True:
                 chapter1.chapter1_option_a()
                 chapter1.chapter1_option_b()
                 print(new_line)
-                print("""Uh-oh, it appears your ninja instincts are momentarily eclipsed by the cosmic chaos. 
-                Take a deep breath, focus your energy, and try again with the precision of a laser ninja-star! Please enter 'a' or 'b'.""")
+                wrong_input.wrng_input4()
                 chapter1_answer = input(
                     'What would you like to do? ENTER [a / b] >>  ')
         break
@@ -479,8 +459,6 @@ while True:
         clear()
         welcome_text.start_message(name)
         print(new_line)
-        print("""Oops! It seems like you've entered a cosmic hiccup in the space-time continuum. 
-        Give it another shot and remember, even cosmic ninjas make mistakes now and then! 
-        Please enter 'yes' or 'no'.""")
+        wrong_input.wrng_input5()
         first_answer = input(
             'Would you like to start your adventure? ENTER [yes / no]: >>  ')
