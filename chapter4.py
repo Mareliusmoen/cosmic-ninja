@@ -1,4 +1,14 @@
 def chapter4aaa():
+    """
+    Print chapter 4aaa to terminal.
+
+    This function prints the multiline text string representing chapter 4aaa.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
             /\ 
 /vvvvvvvvvvvv \--------------------------------------,
@@ -18,6 +28,16 @@ As you explore its ancient ruins, you stumble upon a chamber filled with
 intricate mechanisms and protective wards guarding the artifact.""")
 
 def chapter4aab():
+    """
+    Print chapter 4aab to terminal.
+
+    This function prints the multiline text string representing chapter 4aab.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
             /\ 
 /vvvvvvvvvvvv \--------------------------------------,
@@ -35,6 +55,16 @@ filled with tension, as they weigh the potential benefits and risks of
 possessing such an extraordinary artifact.""")
 
 def chapter4aba():
+    """
+    Print chapter 4aba to terminal.
+
+    This function prints the multiline text string representing chapter 4aba.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
             /\ 
 /vvvvvvvvvvvv \--------------------------------------,
@@ -55,6 +85,16 @@ As you explore the planet's hauntingly beautiful but perilous terrain, you come
 across an ancient temple that seems to be the artifact's resting place.""")
 
 def chapter4abb():
+    """
+    Print chapter 4abb to terminal.
+
+    This function prints the multiline text string representing chapter 4abb.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
             /\ 
 /vvvvvvvvvvvv \--------------------------------------,
@@ -73,6 +113,16 @@ charged with anticipation. The council members, including Master Shinobi,listen
 carefully as you share your knowledge and concerns regarding the Starshard.""")
 
 def chapter4baa():
+    """
+    Print chapter 4baa to terminal.
+
+    This function prints the multiline text string representing chapter 4baa.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
             /\ 
 /vvvvvvvvvvvv \--------------------------------------,
@@ -93,6 +143,16 @@ consequences of your choices. He acknowledges your remarkable progress but
 expresses concern about the potential dangers of wielding such power.""")
 
 def chapter4bab():
+    """
+    Print chapter 4bab to terminal.
+
+    This function prints the multiline text string representing chapter 4bab.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
             /\ 
 /vvvvvvvvvvvv \--------------------------------------,
@@ -110,6 +170,16 @@ your integrity and dedication to the academy's values, Master Shinobi himself
 requests a meeting with you to discuss your future within the cosmic ninja order""")
 
 def chapter4bba():
+    """
+    Print chapter 4bba to terminal.
+
+    This function prints the multiline text string representing chapter 4bba.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
             /\ 
 /vvvvvvvvvvvv \--------------------------------------,
@@ -130,6 +200,16 @@ the scrolls, pushing back those in attendance. The forbidden knowledge within
 the scrolls fights against its own demise, attempting to resist the obliteration""")
 
 def chapter4bbb():
+    """
+    Print chapter 4bbb to terminal.
+
+    This function prints the multiline text string representing chapter 4bbb.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
             /\ 
 /vvvvvvvvvvvv \--------------------------------------,
@@ -152,12 +232,34 @@ do not fall into the wrong hands.""")
 
 
 def chapter4aaa_option_a():
+    """
+    Print the players option a in chapter 4aaa to terminal.
+
+    This function prints the multiline text string representing the players
+    option a in chapter 4aaa.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION A
 You and Hiro decide to attempt to disable the protective wards and claim the 
 Starshard for yourselves, believing that you are the best cosmic ninjas to 
 ensure its safekeeping.""")
 def chapter4aaa_option_b():
+    """
+    Print the players option b in chapter 4aaa to terminal.
+
+    This function prints the multiline text string representing the players
+    option b in chapter 4aaa.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION B
 Feeling the immense power and responsibility of the Starshard, you choose to 
@@ -165,23 +267,67 @@ report your discovery to Master Shinobi and the academy authorities, seeking
 their guidance on how to handle this extraordinary cosmic artifact.""")
 
 def chapter4aab_option_a():
+    """
+    Print the players option a in chapter 4aab to terminal.
+
+    This function prints the multiline text string representing the players
+    option a in chapter 4aab.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION A
 You choose to support the council's decision to secure and study the Starshard 
 under the academy's guidance, believing that its power could be harnessed for 
 the greater good.""")
 def chapter4aab_option_b():
+    """
+    Print the players option b in chapter 4aab to terminal.
+
+    This function prints the multiline text string representing the players
+    option b in chapter 4aab.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION B
 You advocate for the complete containment and sealing of the Starshard, arguing
 that its potential for destruction far outweighs any benefits.""")
 
 def chapter4aba_option_a():
+    """
+    Print the players option a in chapter 4aba to terminal.
+
+    This function prints the multiline text string representing the players
+    option a in chapter 4aba.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION A
 You and Hiro decide to enter the temple and face its guardians, determined to 
 claim the Starshard and protect it from potential threats.""")
 def chapter4aba_option_b():
+    """
+    Print the players option b in chapter 4aba to terminal.
+
+    This function prints the multiline text string representing the players
+    option b in chapter 4aba.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION B
 Overwhelmed by the responsibility and potential consequences of possessing the 
@@ -189,24 +335,68 @@ Starshard, you choose to delay your entry into the temple and consider your next
 steps carefully.""")
 
 def chapter4abb_option_a():
+    """
+    Print the players option a in chapter 4abb to terminal.
+
+    This function prints the multiline text string representing the players
+    option a in chapter 4abb.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION A
 You choose to support the council's decision to secure and study the Starshard 
 under the academy's guidance, believing that its power could be harnessed for 
 the greater good.""")
 def chapter4abb_option_b():
+    """
+    Print the players option b in chapter 4abb to terminal.
+
+    This function prints the multiline text string representing the players
+    option b in chapter 4abb.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION B
 You advocate for the complete containment and sealing of the Starshard, arguing
 that its potential for destruction far outweighs any benefits.""")
 
 def chapter4baa_option_a():
+    """
+    Print the players option a in chapter 4baa to terminal.
+
+    This function prints the multiline text string representing the players
+    option a in chapter 4baa.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION A
 You choose to continue down the path of mastering the forbidden techniques, 
 believing that your unparalleled skill can protect the galaxy from 
 cosmic threats.""")
 def chapter4baa_option_b():
+    """
+    Print the players option b in chapter 4baa to terminal.
+
+    This function prints the multiline text string representing the players
+    option b in chapter 4baa.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION B
 In response to Master Shinobi's concerns, you request his guidance on how to 
@@ -214,23 +404,68 @@ use your newfound powers for the greater good and to uphold the values of the
 cosmic ninja order.""")
 
 def chapter4bab_option_a():
+    """
+    Print the players option a in chapter 4bab to terminal.
+
+    This function prints the multiline text string representing the players
+    option a in chapter 4bab.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION A
 During the meeting with Master Shinobi, you express your desire to continue 
 your training within the academy, emphasizing your commitment to upholding its 
 principles and values.""")
 def chapter4bab_option_b():
+    """
+    Print the players option b in chapter 4bab to terminal.
+
+    This function prints the multiline text string representing the players
+    option b in chapter 4bab.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION B
 You propose a plan to help safeguard the forbidden scrolls, ensuring that they 
-remain inaccessible to anyone who might seek their power for nefarious purposes.""")
+remain inaccessible to anyone who might seek their power for nefarious purposes.
+""")
 
 def chapter4bba_option_a():
+    """
+    Print the players option a in chapter 4bba to terminal.
+
+    This function prints the multiline text string representing the players
+    option a in chapter 4bba.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION A
 You steadfastly stand your ground, determined to see the destruction through to
 the end, regardless of the challenges it presents.""")
 def chapter4bba_option_b():
+    """
+    Print the players option b in chapter 4bba to terminal.
+
+    This function prints the multiline text string representing the players
+    option b in chapter 4bba.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION B
 As the resistance from the scrolls intensifies, you begin to doubt whether this
@@ -238,11 +473,33 @@ is the right course of action. You may choose to halt the process, believing
 there might be another way to handle the forbidden knowledge.""")
 
 def chapter4bbb_option_a():
+    """
+    Print the players option a in chapter 4bbb to terminal.
+
+    This function prints the multiline text string representing the players
+    option a in chapter 4bbb.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION A
 You fully commit to the research of the forbidden scrolls, determined to harness
 their power responsibly and for the greater good of the cosmic ninja world.""")
 def chapter4bbb_option_b():
+    """
+    Print the players option b in chapter 4bbb to terminal.
+
+    This function prints the multiline text string representing the players
+    option b in chapter 4bbb.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
     OPTION B
 As the research progresses, you become increasingly concerned about the risks 
