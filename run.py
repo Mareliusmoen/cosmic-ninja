@@ -61,7 +61,12 @@ would you instead become the lethal ninja living deep inside you ENTER [b]
 >>  """)
 clear()
 welcome_text.introduction()
-name = input('ENTER YOUR NINJA NAME >>  ')
+while True: # name-input loop
+    name = input('ENTER YOUR NINJA NAME >>  ')
+    if name.strip():
+        break # exit name-input loop
+    else:
+        wrong_input.wrng_name()
 clear()
 welcome_text.start_message(name)
 print(new_line)

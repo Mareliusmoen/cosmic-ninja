@@ -23,3 +23,7 @@ def wrng_input5():
     print("""
 Whoopsie-daisy! Your cosmic command got lost in the astral shuffle. Give it 
 another whirl, and may the cosmic winds be in your favor!""")
+
+def wrng_name():
+    print("That's not a kick-ass ninja name! I know you" 
+    " can do better than that, try again...")
