@@ -1,7 +1,7 @@
 # All imports for the app
-import welcome_text
 import os
 import platform
+import welcome_text
 import chapter1
 import chapter2
 import chapter3

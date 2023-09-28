@@ -31,11 +31,15 @@ This app is created for anyone with a special interest in any of its topics or t
 ## Wireframe/Flowchart
 ![Flowchart of the Cosmic Ninja Adventure Game](files/images/cosmic-ninja-flowchart.png)
 
-## Screenshots
+## Features
 ### Welcome screen
+Here the user will se a ASCII art 'COSMIC NINJA', and have two choices:
+- Read the backstory of the app.
+- Start the game.
 ![Screenshot of the welcome-screen in terminal](files/images/welcome-screen.png)
 
 ### Backstory screen
+Here the user will read a short text about what I had in mind when I created the app, and just a little bit of explaining how the story came about.
 ![Screenshot of the backstory-screen in terminal](files/images/backstory-screen.png)
 
 ### Introduction and name choice screen
@@ -53,26 +57,32 @@ The back ground image is created by AI for free at https://gencraft.com/, the re
 It gave me both the background image and the favicon image that is in the same style and color-scheme.
 
 ## Technologies
-????
+### Coding languages
+- **Python,** used for the terminal application.
+- **HTML,** with some inline styling.
+- **JavaScript,** in the template from Code Institute to run the terminal app.
 
-## Features
-### 1st Welcome screen
-Here the user will se a ASCII art 'COSMIC NINJA', and have two choices:
-- Read the backstory of the app.
-- Start the game.
+### Libraries and packages
+- **'os' and 'platform',** for the clear function to work on all operating-
+systems.
 
-#### Backstory screen
-Here the user will read a short text about what I had in mind when I created the app, and just a little bit of explaining how the story came about.
-
-The app has:
-?????
+### Other tools
+- **LucidCharts,** to create the flowchart.
+- **GitHub,** to host the application source code.
+- **VSCode,** to create/edit the source code.
+- **Heroku,** to host the application.
 
 ## Features left to implement
 
 ## Testing
+### Automated testing with Code Institutes Python Linter
+The only errors that occurs are related to the ASCII art that uses symbols,
+ letters and spaces to create the art.
+
+### Manual testing
 
 ## Validator testing
-
+?????
 ## Bugs
 
 ## Unsolved bugs
