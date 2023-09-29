@@ -37,7 +37,10 @@ Starshard's uncontrollable power. Chaos reigns, and the galaxy falls into
 darkness and despair. Your legacy is one of tragedy and devastation, a grim
 reminder of the consequences of your actions. The galaxy will never forget the
 day when two cosmic ninjas succumbed to the allure of the Starshard, and the
-cosmic order was forever altered.""")
+cosmic order was forever altered.
+
+                                THE END
+\n""")
 
 
 def chapter5aaab():
@@ -80,7 +83,10 @@ cosmic ninja's commitment to safeguarding the universe. In the end, you find
 peace and purpose in your eternal guardianship, knowing that your actions have
 preserved the cosmic order and the delicate balance of the galaxy. Your legacy
 as the Starshard's eternal guardian will be remembered for eons to come,
-a symbol of selflessness and devotion to the cosmic ninja ideals.""")
+a symbol of selflessness and devotion to the cosmic ninja ideals.
+
+                                THE END
+\n""")
 
 
 def chapter5aaba():
@@ -125,7 +131,10 @@ of power and division, with neither side willing to compromise or back down.
 As the centuries pass, the cosmic ninja world remains locked in a seemingly
 endless cycle of war, with no end in sight. The fate of the galaxy hangs in the
 balance, and the Starshard's potential for both salvation and destruction
-continues to shape the destiny of all who seek its cosmic power.""")
+continues to shape the destiny of all who seek its cosmic power.
+
+                                THE END
+\n""")
 
 
 def chapter5aabb():
@@ -164,7 +173,10 @@ the galaxy from the Starshard's potential for destruction serves as a beacon of
 hope. The artifact remains a cosmic mystery, its power safeguarded for the
 greater good. As the ages pass, the legend of the Starshard becomes a
 cautionary tale, a reminder of the consequences of unchecked ambition and the
-importance of responsibility and ethics in the cosmic ninja world.""")
+importance of responsibility and ethics in the cosmic ninja world.
+
+                                THE END
+\n""")
 
 
 def chapter5abaa():
@@ -202,7 +214,10 @@ lethal, and Hiro falls, his life extinguished in the pursuit of cosmic power.
 The Starshard remains within the temple, its cosmic energy pulsing ominously.
 The galaxy will forever remember the tragic tale of two cosmic ninjas turned
 adversaries, and the Starshard's destiny remains a mystery, a testament to the
-dangers of ambition and betrayal in the cosmic ninja world.""")
+dangers of ambition and betrayal in the cosmic ninja world.
+
+                                THE END
+\n""")
 
 
 def chapter5abab():
@@ -246,7 +261,10 @@ challenges and dangers of the cosmic ninja world. The galaxy will remember the
 tale of a cosmic ninja who dared to approach the Starshard, only to be judged
 and defeated by its guardian. Your story serves as a warning of the
 consequences of seeking ultimate power without understanding the
-responsibilities it entails.""")
+responsibilities it entails.
+
+                                THE END
+\n""")
 
 
 def chapter5abba():
@@ -289,7 +307,10 @@ remains safe, knowing that there is a guardian who can cut through the fabric
 of time to defend it from any threat that arises. As you wield the sword with
 honor and responsibility, you are the living embodiment of the cosmic ninja
 ideals, ensuring that the legacy of the Starshard serves as a beacon of
-hope and protection for all.""")
+hope and protection for all.
+
+                                THE END
+\n""")
 
 
 def chapter5abbb():
@@ -334,7 +355,10 @@ cosmic ninja order to protect the galaxy from potential destruction.
 As you look upon the vault planet and the translucent shadow ninja spirits that
 guard it, you know that the Starshard's power is safely contained for all
 eternity, and the galaxy can rest assured that it will remain protected from
-those who would seek to wield it recklessly.""")
+those who would seek to wield it recklessly.
+
+                                THE END
+\n""")
 
 
 def chapter5baaa():
@@ -373,7 +397,10 @@ Your legacy is one of isolation, fear, and the consequences of unchecked
 ambition. The galaxy mourns the loss of a once-promising cosmic ninja who
 succumbed to the seductive allure of forbidden techniques, a cautionary tale of
 the dangers of choosing power over the values and ethics that define the cosmic
-ninja order.""")
+ninja order.
+
+                                THE END
+\n""")
 
 
 def chapter5baab():
@@ -416,7 +443,9 @@ extraordinary powers to protect and serve the greater good. The League of
 Protective Ninja stands as a testament to the cosmic ninja order's commitment
 to safeguarding the galaxy, and your legacy as its founder shines brightly
 for all time.
-    """)
+
+                                THE END
+\n""")
 
 
 def chapter5baba():
@@ -458,7 +487,10 @@ generations of cosmic ninjas. Your life is one of purpose and fulfillment,
 knowing that you have played a vital role in preserving the cosmic ninja
 order's traditions and values. Your legacy lives on through the countless
 cosmic ninjas you have inspired, ensuring that the galaxy will always have
-defenders who uphold the noble principles of the cosmic ninja code.""")
+defenders who uphold the noble principles of the cosmic ninja code.
+
+                                THE END
+\n""")
 
 
 def chapter5babb():
@@ -498,7 +530,10 @@ Immortal Guardian, a cosmic ninja who sacrificed their own freedom to protect
 the galaxy from the potential dangers of the forbidden scrolls. Your selfless
 commitment to this duty becomes a symbol of dedication and sacrifice in the
 cosmic ninja world, a testament to the lengths to which one can go to safeguard
-the greater good.""")
+the greater good.
+
+                                THE END
+\n""")
 
 
 def chapter5bbaa():
@@ -539,7 +574,10 @@ know your name and the story of your heroic act. Your legacy becomes a symbol
 of dedication and sacrifice in the cosmic ninja world, a testament to the
 lengths one can go to protect the greater good. The forbidden scrolls are no
 more, and the galaxy remains safe from their potential dangers, thanks to your
-heroic actions.""")
+heroic actions.
+
+                                THE END
+\n""")
 
 
 def chapter5bbab():
@@ -582,7 +620,10 @@ cautionary tale, a reminder of the complexities of handling forbidden knowledge
 and the consequences of deviating from the cosmic ninja code.
 Your future remains uncertain, as you navigate a treacherous existence on the
 fringes of the cosmic ninja world, forever marked by your decision to defy
-convention and protect the forbidden scrolls from destruction.""")
+convention and protect the forbidden scrolls from destruction.
+
+                                THE END
+\n""")
 
 
 def chapter5bbba():
@@ -625,7 +666,10 @@ the cosmic ninja world. The galaxy knows your name and honors your
 contributions, and your teachings continue to guide cosmic ninjas for
 generations to come. Your dedication to the greater good has left an indelible
 mark on the cosmic ninja order, ensuring that the power of the forbidden
-scrolls is harnessed responsibly and never exploited for evil.""")
+scrolls is harnessed responsibly and never exploited for evil.
+
+                                THE END
+\n""")
 
 
 def chapter5bbbb():
@@ -665,4 +709,7 @@ Your actions, though well-intentioned, have unforeseen consequences that will
 echo through the cosmic ninja world for eternity. The vortex of shadowy smoke
 becomes a haunting reminder of the dangers of forbidden knowledge, and the
 galaxy must now grapple with the aftermath of your well-intentioned but
-ultimately disastrous decision.""")
+ultimately disastrous decision.
+
+                                THE END
+\n""")
