@@ -1,3 +1,15 @@
+"""
+    This file containes the functions that print chapter 1 and its connected
+    options to terminal.
+
+    These functions prints the multiline text string representing chapter 1
+    and its connected options.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+"""
 def chapter1():
     """
     Print chapter 1 to terminal.

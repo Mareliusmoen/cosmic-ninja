@@ -1,3 +1,16 @@
+"""
+    This file containes the functions that print chapter 4 and its connected
+    options to terminal.
+
+    These functions prints the multiline text string representing
+    the chapter 4 that is chosen based on your previous descicions,
+    and that chapter 4s connected options.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+"""
 def chapter4aaa():
     """
     Print chapter 4aaa to terminal.

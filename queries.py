@@ -1,3 +1,16 @@
+"""
+    This file contains all the functions for that allows the player to input
+    their choice during the game, and returns that input.
+
+    This file contains all the functions that is called when the player should
+    get the oppertunity to input their answer and then it returns that
+    answer to be used for the code to determined what should happen next.
+
+    Note:
+        For these function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+"""
 def start_y_or_n():
     """
     Ask player if they're ready to play, and adds input.

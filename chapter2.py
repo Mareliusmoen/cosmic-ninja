@@ -1,3 +1,16 @@
+"""
+    This file containes the functions that print chapter 2 and its connected
+    options to terminal.
+
+    These functions prints the multiline text string representing
+    the chapter 2 that is chosen based on your previous descicions,
+    and that chapter 2s connected options.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+"""
 def chapter2a():
     """
     Print chapter 2a to terminal.

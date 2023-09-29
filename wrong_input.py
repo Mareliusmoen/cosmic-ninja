@@ -1,3 +1,15 @@
+"""
+    This file contains all the functions for wrong inputs.
+
+    This file contains all the functions that is called when the player enters
+    an incorrect input, there are several different ones to give the app
+    a fun appeal even when the player makes mistakes.
+
+    Note:
+        For these function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+"""
 def wrng_input1():
     """
     Print wrong input message nr 1 to terminal.

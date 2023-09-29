@@ -1,3 +1,16 @@
+"""
+    This file contains all the functions for text in the welcome part aswell
+    as the game over part.
+
+    This file contains all the functions that is called when the player starts
+    the game and are in the first stages before the story itself begins,
+    as well as the final function to be called at the game's end.
+
+    Note:
+        For these function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+"""
 def welcome_logo():
     """
     Print the welcome page logo to terminal.

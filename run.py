@@ -1,3 +1,12 @@
+"""
+    This file containes the code that will run the game in the output
+    terminal.
+
+    This file contains all the imports from other libraries and files, as well
+    as base functions and variables to be used in all the base code, and
+    off course the base code for the game itself.
+
+"""
 # All imports for the app
 import os
 import platform
@@ -31,10 +40,10 @@ def clear():
 
 
 # to make sure that any way of writing your answer is accepted
-answer_a = ["a", "A"]
-answer_b = ["b", "B"]
-answer_yes = ["y", "Y", "YES", "yes", "Yes", "YEs", "yES"]
-answer_no = ["n", "N", "NO", "no", "No", "nO"]
+ANSWER_A = ["a", "A"]
+ANSWER_B = ["b", "B"]
+ANSWER_YES = ["y", "Y", "YES", "yes", "Yes", "YEs", "yES"]
+ANSWER_NO = ["n", "N", "NO", "no", "No", "nO"]
 # to style the console output
 NEW_LINE = '\n'
 
@@ -63,21 +72,21 @@ def main():
     Would you instead become the lethal ninja living deep inside you ENTER [b]
     >>  """)
     while True:  # welcome page with logo
-        if welcome_answer in answer_a:
+        if welcome_answer in ANSWER_A:
             clear()
             welcome_text.backstory()
             print(NEW_LINE)
             backstory_answer = \
                 input('Are you ready to play the game? ENTER [y]')
             while True:  # backstory loop
-                if backstory_answer in answer_yes:
+                if backstory_answer in ANSWER_YES:
                     break  # exit backstory loop
                 else:
                     wrong_input.wrng_input2()
                     backstory_answer = input(
                         'Are you ready to play the game? ENTER [y]')
             break  # exit welcome page/logo loop
-        elif welcome_answer in answer_b:
+        elif welcome_answer in ANSWER_B:
             clear()
             break  # exit welcome page/logo loop
         else:
@@ -101,7 +110,7 @@ def main():
 
     # game loop
     while True:
-        if first_answer in answer_yes:
+        if first_answer in ANSWER_YES:
             clear()
             chapter1.chapter1()
             chapter1.chapter1_option_a()
@@ -109,7 +118,7 @@ def main():
             print(NEW_LINE)
             chapter1_answer = queries.a_or_b()
             while True:  # loop for the choice in chapter 1
-                if chapter1_answer in answer_a:
+                if chapter1_answer in ANSWER_A:
                     clear()
                     chapter2.chapter2a()
                     chapter2.chapter2a_option_a()
@@ -117,7 +126,7 @@ def main():
                     print(NEW_LINE)
                     chapter2a_answer = queries.a_or_b()
                     while True:  # loop for chapter 2a
-                        if chapter2a_answer in answer_a:
+                        if chapter2a_answer in ANSWER_A:
                             clear()
                             chapter3.chapter3aa()
                             chapter3.chapter3aa_option_a()
@@ -125,7 +134,7 @@ def main():
                             print(NEW_LINE)
                             chapter3aa_answer = queries.a_or_b()
                             while True:  # loop for chapter 3aa
-                                if chapter3aa_answer in answer_a:
+                                if chapter3aa_answer in ANSWER_A:
                                     clear()
                                     chapter4.chapter4aaa()
                                     chapter4.chapter4aaa_option_a()
@@ -133,13 +142,13 @@ def main():
                                     print(NEW_LINE)
                                     chapter4aaa_answer = queries.a_or_b()
                                     while True:  # loop for chapter 4aaa
-                                        if chapter4aaa_answer in answer_a:
+                                        if chapter4aaa_answer in ANSWER_A:
                                             clear()
                                             chapter5.chapter5aaaa()
                                             print(NEW_LINE)
                                             # exit the loop for chapter 4aaa
                                             break
-                                        elif chapter4aaa_answer in answer_b:
+                                        elif chapter4aaa_answer in ANSWER_B:
                                             clear()
                                             chapter5.chapter5aaab()
                                             print(NEW_LINE)
@@ -156,7 +165,7 @@ def main():
                                                 queries.a_or_b()
 
                                     break  # exit the loop for chapter 3aa
-                                elif chapter3aa_answer in answer_b:
+                                elif chapter3aa_answer in ANSWER_B:
                                     clear()
                                     chapter4.chapter4aab()
                                     chapter4.chapter4aab_option_a()
@@ -164,13 +173,13 @@ def main():
                                     print(NEW_LINE)
                                     chapter4aab_answer = queries.a_or_b()
                                     while True:  # loop for chapter 4aab
-                                        if chapter4aab_answer in answer_a:
+                                        if chapter4aab_answer in ANSWER_A:
                                             clear()
                                             chapter5.chapter5aaba()
                                             print(NEW_LINE)
                                             # exit the loop for chapter 4aab
                                             break
-                                        elif chapter4aab_answer in answer_b:
+                                        elif chapter4aab_answer in ANSWER_B:
                                             clear()
                                             chapter5.chapter5aabb()
                                             print(NEW_LINE)
@@ -196,7 +205,7 @@ def main():
                                     wrong_input.wrng_input4()
                                     chapter3aa_answer = queries.a_or_b()
                             break  # exit the loop for chapter 2a
-                        elif chapter2a_answer in answer_b:
+                        elif chapter2a_answer in ANSWER_B:
                             clear()
                             chapter3.chapter3ab()
                             chapter3.chapter3ab_option_a()
@@ -204,7 +213,7 @@ def main():
                             print(NEW_LINE)
                             chapter3ab_answer = queries.a_or_b()
                             while True:  # loop for chapter 3ab
-                                if chapter3ab_answer in answer_a:
+                                if chapter3ab_answer in ANSWER_A:
                                     clear()
                                     chapter4.chapter4aba()
                                     chapter4.chapter4aba_option_a()
@@ -212,13 +221,13 @@ def main():
                                     print(NEW_LINE)
                                     chapter4aba_answer = queries.a_or_b()
                                     while True:  # loop for chapter 4aba
-                                        if chapter4aba_answer in answer_a:
+                                        if chapter4aba_answer in ANSWER_A:
                                             clear()
                                             chapter5.chapter5abaa()
                                             print(NEW_LINE)
                                             # exit the loop for chapter 4aba
                                             break
-                                        elif chapter4aba_answer in answer_b:
+                                        elif chapter4aba_answer in ANSWER_B:
                                             clear()
                                             chapter5.chapter5abab()
                                             print(NEW_LINE)
@@ -234,7 +243,7 @@ def main():
                                             chapter4aba_answer = \
                                                 queries.a_or_b()
                                     break  # exit the loop for chapter 3ab
-                                elif chapter3ab_answer in answer_b:
+                                elif chapter3ab_answer in ANSWER_B:
                                     clear()
                                     chapter4.chapter4abb()
                                     chapter4.chapter4abb_option_a()
@@ -242,13 +251,13 @@ def main():
                                     print(NEW_LINE)
                                     chapter4abb_answer = queries.a_or_b()
                                     while True:  # loop for chapter 4abb
-                                        if chapter4abb_answer in answer_a:
+                                        if chapter4abb_answer in ANSWER_A:
                                             clear()
                                             chapter5.chapter5abba()
                                             print(NEW_LINE)
                                             # exit the loop for chapter 4abb
                                             break
-                                        elif chapter4abb_answer in answer_b:
+                                        elif chapter4abb_answer in ANSWER_B:
                                             clear()
                                             chapter5.chapter5abbb()
                                             print(NEW_LINE)
@@ -282,7 +291,7 @@ def main():
                             wrong_input.wrng_input2()
                             chapter2a_answer = queries.a_or_b()
                     break  # exit the loop for chapter1
-                elif chapter1_answer in answer_b:
+                elif chapter1_answer in ANSWER_B:
                     clear()
                     chapter2.chapter2b()
                     chapter2.chapter2b_option_a()
@@ -290,7 +299,7 @@ def main():
                     print(NEW_LINE)
                     chapter2b_answer = queries.a_or_b()
                     while True:  # loop for chapter 2b
-                        if chapter2b_answer in answer_a:
+                        if chapter2b_answer in ANSWER_A:
                             clear()
                             chapter3.chapter3ba()
                             chapter3.chapter3ba_option_a()
@@ -298,7 +307,7 @@ def main():
                             print(NEW_LINE)
                             chapter3ba_answer = queries.a_or_b()
                             while True:  # loop for chapter 3ba
-                                if chapter3ba_answer in answer_a:
+                                if chapter3ba_answer in ANSWER_A:
                                     clear()
                                     chapter4.chapter4baa()
                                     chapter4.chapter4baa_option_a()
@@ -306,13 +315,13 @@ def main():
                                     print(NEW_LINE)
                                     chapter4baa_answer = queries.a_or_b()
                                     while True:  # loop for chapter 4baa
-                                        if chapter4baa_answer in answer_a:
+                                        if chapter4baa_answer in ANSWER_A:
                                             clear()
                                             chapter5.chapter5baaa()
                                             print(NEW_LINE)
                                             # exit the loop for chapter 4baa
                                             break
-                                        elif chapter4baa_answer in answer_b:
+                                        elif chapter4baa_answer in ANSWER_B:
                                             clear()
                                             chapter5.chapter5baab()
                                             print(NEW_LINE)
@@ -328,7 +337,7 @@ def main():
                                             chapter4baa_answer = \
                                                 queries.a_or_b()
                                     break  # exit the loop for chapter 3ba
-                                elif chapter3ba_answer in answer_b:
+                                elif chapter3ba_answer in ANSWER_B:
                                     clear()
                                     chapter4.chapter4bab()
                                     chapter4.chapter4bab_option_a()
@@ -336,13 +345,13 @@ def main():
                                     print(NEW_LINE)
                                     chapter4bab_answer = queries.a_or_b()
                                     while True:  # loop for chapter 4bab
-                                        if chapter4bab_answer in answer_a:
+                                        if chapter4bab_answer in ANSWER_A:
                                             clear()
                                             chapter5.chapter5baba()
                                             print(NEW_LINE)
                                             # exit the loop for chapter 4bab
                                             break
-                                        elif chapter4bab_answer in answer_b:
+                                        elif chapter4bab_answer in ANSWER_B:
                                             clear()
                                             chapter5.chapter5babb()
                                             print(NEW_LINE)
@@ -367,7 +376,7 @@ def main():
                                     wrong_input.wrng_input3()
                                     chapter3ba_answer = queries.a_or_b()
                             break  # exit the loop for chapter2b
-                        elif chapter2b_answer in answer_b:
+                        elif chapter2b_answer in ANSWER_B:
                             clear()
                             chapter3.chapter3bb()
                             chapter3.chapter3bb_option_a()
@@ -375,7 +384,7 @@ def main():
                             print(NEW_LINE)
                             chapter3bb_answer = queries.a_or_b()
                             while True:  # loop for chapter 3bb
-                                if chapter3bb_answer in answer_a:
+                                if chapter3bb_answer in ANSWER_A:
                                     clear()
                                     chapter4.chapter4bba()
                                     chapter4.chapter4bba_option_a()
@@ -383,13 +392,13 @@ def main():
                                     print(NEW_LINE)
                                     chapter4bba_answer = queries.a_or_b()
                                     while True:  # loop for chapter 4bba
-                                        if chapter4bba_answer in answer_a:
+                                        if chapter4bba_answer in ANSWER_A:
                                             clear()
                                             chapter5.chapter5bbaa()
                                             print(NEW_LINE)
                                             # exit the loop for chapter 4bba
                                             break
-                                        elif chapter4bba_answer in answer_b:
+                                        elif chapter4bba_answer in ANSWER_B:
                                             clear()
                                             chapter5.chapter5bbab()
                                             print(NEW_LINE)
@@ -405,7 +414,7 @@ def main():
                                             chapter4bba_answer = \
                                                 queries.a_or_b()
                                     break  # exit the loop for chapter 3bb
-                                elif chapter3bb_answer in answer_b:
+                                elif chapter3bb_answer in ANSWER_B:
                                     clear()
                                     chapter4.chapter4bbb()
                                     chapter4.chapter4bbb_option_a()
@@ -413,13 +422,13 @@ def main():
                                     print(NEW_LINE)
                                     chapter4bbb_answer = queries.a_or_b()
                                     while True:  # loop for chapter 4bbb
-                                        if chapter4bbb_answer in answer_a:
+                                        if chapter4bbb_answer in ANSWER_A:
                                             clear()
                                             chapter5.chapter5bbba()
                                             print(NEW_LINE)
                                             # exit the loop for chapter 4bbb
                                             break
-                                        elif chapter4bbb_answer in answer_b:
+                                        elif chapter4bbb_answer in ANSWER_B:
                                             clear()
                                             chapter5.chapter5bbbb()
                                             print(NEW_LINE)
@@ -462,7 +471,7 @@ def main():
                     wrong_input.wrng_input4()
                     chapter1_answer = queries.a_or_b()
             break
-        elif first_answer in answer_no:
+        elif first_answer in ANSWER_NO:
             print("Alright, maybe next time. Farewell, cosmic ninja!")
             break
         else:
@@ -472,17 +481,17 @@ def main():
             wrong_input.wrng_input5()
             first_answer = queries.start_y_or_n()
     while True:
-        if first_answer in answer_no:
+        if first_answer in ANSWER_NO:
             print("Alright, maybe next time. Farewell, cosmic ninja!")
             break
         else:
             play_again = input(f"""
 {name}, do you want to play again? (yes/no): """).strip().lower()
-            if play_again in answer_yes:
+            if play_again in ANSWER_YES:
                 # Reset the game
                 clear()
                 main()  # restart the game
-            elif play_again in answer_no:
+            elif play_again in ANSWER_NO:
                 clear()
                 welcome_text.goodbye_text(name)
                 break
