@@ -92,9 +92,9 @@ systems.
 
 ## Testing
 
-### Automated testing with Code Institutes Python Linter
+### Automated testing with Code Institutes Python Linter and autopep8 formatter in VSCode
 The only errors that occurs are related to the ASCII art that uses symbols,
- letters and spaces to create the art.
+letters and spaces to create the art.
 
 ### Manual testing
 | **Testing description**                              | **Expected action**                                                                                                                                      | **Actual output**                                                                                                                                        | **Result** |
@@ -155,7 +155,8 @@ The project was deployed to [Heroku](https://www.heroku.com) using the below pro
    - Select the correct branch for deployment from the drop-down menu and click the "Deploy Branch" button for manual deployment. 
 
 ## NOTE
-Please note that some trailing white spaces and 'invalid… ' errors will show up in pep8 linter because of the ASCII art at the beginning of each chapter string.
+- Please note that some trailing white spaces and 'invalid… ' errors will show up in pep8 linter because of the ASCII art at the beginning of each chapter string.
+- Please note I didnt know how to preview my total project (with html and styling) except for deploying, so some comits are trial and error for extra features I wanted in the project connected to the HTML and styling of that HTML to be fixed as I went along. 
 
 ## Acknowledgments
 - Deployment description in this readme.md file is from dnlbowers and his battleship apps readme.md file; https://github.com/dnlbowers/battleships/tree/main
