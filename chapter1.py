@@ -54,6 +54,17 @@ seek his guidance on your journey to becoming a cosmic ninja.""")
 
 
 def chapter1_option_b():
+    """
+    Print the players options in chapter 1 to terminal.
+
+    This function prints the multiline text string representing the players
+    options in chapter 1.
+
+    Note:
+        For this function to work in run.py file, I've imported this file
+        to make the files functions available to call in run.py.
+
+    """
     print("""
 OPTION B
 You decide to blend into the crowd and observe the various training sessions,
