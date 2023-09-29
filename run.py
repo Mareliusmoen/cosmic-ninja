@@ -482,7 +482,7 @@ def main():
             first_answer = queries.start_y_or_n()
     while True:
         if first_answer in ANSWER_NO:
-            print("Alright, maybe next time. Farewell, cosmic ninja!")
+            print("We'll miss you!")
             break
         else:
             play_again = input(f"""
