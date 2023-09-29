@@ -174,3 +174,5 @@ The project was deployed to [Heroku](https://www.heroku.com) using the below pro
 
 - How to add the embedded Soundcloud adio player to HTML: https://help.soundcloud.com/hc/en-us/articles/115003568008-Embedding-a-track-or-playlist-#:~:text=Click%20on%20the%20embed%20tab,section%20of%20your%20site
 -And the music itself from SoundCloud: https://soundcloud.com/sega-16bit-music/street-fighter-theme-of-chun-li
+
+-**The most important of all,** my good friend AI from Chatgpt that made up this cosmic universe and helped me tell the stories of this young ninja. Link to AI's homepage: https://chat.openai.com/
