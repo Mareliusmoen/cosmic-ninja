@@ -21,7 +21,7 @@ def clear():
     it uses the correct 'cls', while on any other systems, it uses 'clear'.
 
     Note:
-        I have imported the 'os and 'platform library that this function need.
+    I have imported the 'os and 'platform library that this function need.
 
     """
     if platform.system() == 'Windows':
@@ -38,13 +38,26 @@ answer_no = ["n", "N", "NO", "no", "No", "nO"]
 # to style the console output
 NEW_LINE = '\n'
 
+
 def main():
+    """
+    Defines the function that contains the entire game.
+
+    This function runs the whole game and calls the correct chapter based
+    on the players choice.
+
+    Note:
+    For this function function to work properly, all chapters and text strings.
+    needs to be import from the different .py files.
+    """
     # game start
     welcome_text.welcome_logo()
     print(NEW_LINE)
-    welcome_answer = input("""
+    welcome_answer = \
+        input("""
     If you want the full immersive ninja-life experience, hit play above this
-    terminal to play a absolute classic ninja-fighter-theme-song. HAAIIIYYYYAA!!!
+    terminal to play a absolute classic ninja-fighter-theme-song.
+    HAAIIIYYYYAA!!!
 
     Would you like to read more about why I made this app ENTER [a]
     Would you instead become the lethal ninja living deep inside you ENTER [b]
@@ -54,7 +67,8 @@ def main():
             clear()
             welcome_text.backstory()
             print(NEW_LINE)
-            backstory_answer = input('Are you ready to play the game? ENTER [y]')
+            backstory_answer = \
+                input('Are you ready to play the game? ENTER [y]')
             while True:  # backstory loop
                 if backstory_answer in answer_yes:
                     break  # exit backstory loop
@@ -123,14 +137,14 @@ def main():
                                             clear()
                                             chapter5.chapter5aaaa()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4aaa
+                                            # exit the loop for chapter 4aaa
+                                            break
                                         elif chapter4aaa_answer in answer_b:
                                             clear()
                                             chapter5.chapter5aaab()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4aaa
+                                            # exit the loop for chapter 4aaa
+                                            break
                                         else:
                                             clear()
                                             chapter4.chapter4aaa()
@@ -138,7 +152,8 @@ def main():
                                             chapter4.chapter4aaa_option_b()
                                             print(NEW_LINE)
                                             wrong_input.wrng_input5()
-                                            chapter4aaa_answer = queries.a_or_b()
+                                            chapter4aaa_answer = \
+                                                queries.a_or_b()
 
                                     break  # exit the loop for chapter 3aa
                                 elif chapter3aa_answer in answer_b:
@@ -153,14 +168,14 @@ def main():
                                             clear()
                                             chapter5.chapter5aaba()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4aab
+                                            # exit the loop for chapter 4aab
+                                            break
                                         elif chapter4aab_answer in answer_b:
                                             clear()
                                             chapter5.chapter5aabb()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4aab
+                                            # exit the loop for chapter 4aab
+                                            break
                                         else:
                                             clear()
                                             chapter4.chapter4aab()
@@ -168,7 +183,8 @@ def main():
                                             chapter4.chapter4aab_option_b()
                                             print(NEW_LINE)
                                             wrong_input.wrng_input3()
-                                            chapter4aab_answer = queries.a_or_b()
+                                            chapter4aab_answer = \
+                                                queries.a_or_b()
 
                                     break  # exit the loop for chapter 3aa
                                 else:
@@ -200,14 +216,14 @@ def main():
                                             clear()
                                             chapter5.chapter5abaa()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4aba
+                                            # exit the loop for chapter 4aba
+                                            break
                                         elif chapter4aba_answer in answer_b:
                                             clear()
                                             chapter5.chapter5abab()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4aba
+                                            # exit the loop for chapter 4aba
+                                            break
                                         else:
                                             clear()
                                             chapter4.chapter4aba()
@@ -215,7 +231,8 @@ def main():
                                             chapter4.chapter4aba_option_b()
                                             print(NEW_LINE)
                                             wrong_input.wrng_input2()
-                                            chapter4aba_answer = queries.a_or_b()
+                                            chapter4aba_answer = \
+                                                queries.a_or_b()
                                     break  # exit the loop for chapter 3ab
                                 elif chapter3ab_answer in answer_b:
                                     clear()
@@ -229,14 +246,14 @@ def main():
                                             clear()
                                             chapter5.chapter5abba()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4abb
+                                            # exit the loop for chapter 4abb
+                                            break
                                         elif chapter4abb_answer in answer_b:
                                             clear()
                                             chapter5.chapter5abbb()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4abb
+                                            # exit the loop for chapter 4abb
+                                            break
                                         else:
                                             clear()
                                             chapter4.chapter4abb()
@@ -244,7 +261,8 @@ def main():
                                             chapter4.chapter4abb_option_b()
                                             print(NEW_LINE)
                                             wrong_input.wrng_input1()
-                                            chapter4abb_answer = queries.a_or_b()
+                                            chapter4abb_answer = \
+                                                queries.a_or_b()
                                     break  # exit the loop for chapter 3ab
                                 else:
                                     clear()
@@ -292,14 +310,14 @@ def main():
                                             clear()
                                             chapter5.chapter5baaa()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4baa
+                                            # exit the loop for chapter 4baa
+                                            break
                                         elif chapter4baa_answer in answer_b:
                                             clear()
                                             chapter5.chapter5baab()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4baa
+                                            # exit the loop for chapter 4baa
+                                            break
                                         else:
                                             clear()
                                             chapter4.chapter4baa()
@@ -307,7 +325,8 @@ def main():
                                             chapter4.chapter4baa_option_b()
                                             print(NEW_LINE)
                                             wrong_input.wrng_input2()
-                                            chapter4baa_answer = queries.a_or_b()
+                                            chapter4baa_answer = \
+                                                queries.a_or_b()
                                     break  # exit the loop for chapter 3ba
                                 elif chapter3ba_answer in answer_b:
                                     clear()
@@ -321,14 +340,14 @@ def main():
                                             clear()
                                             chapter5.chapter5baba()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4bab
+                                            # exit the loop for chapter 4bab
+                                            break
                                         elif chapter4bab_answer in answer_b:
                                             clear()
                                             chapter5.chapter5babb()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4bab
+                                            # exit the loop for chapter 4bab
+                                            break
                                         else:
                                             clear()
                                             chapter4.chapter4bab()
@@ -336,7 +355,8 @@ def main():
                                             chapter4.chapter4bab_option_b()
                                             print(NEW_LINE)
                                             wrong_input.wrng_input1()
-                                            chapter4bab_answer = queries.a_or_b()
+                                            chapter4bab_answer = \
+                                                queries.a_or_b()
                                     break  # exit the loop for chapter 3ba
                                 else:
                                     clear()
@@ -367,14 +387,14 @@ def main():
                                             clear()
                                             chapter5.chapter5bbaa()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4bba
+                                            # exit the loop for chapter 4bba
+                                            break
                                         elif chapter4bba_answer in answer_b:
                                             clear()
                                             chapter5.chapter5bbab()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4bba
+                                            # exit the loop for chapter 4bba
+                                            break
                                         else:
                                             clear()
                                             chapter4.chapter4bba()
@@ -382,7 +402,8 @@ def main():
                                             chapter4.chapter4bba_option_b()
                                             print(NEW_LINE)
                                             wrong_input.wrng_input5()
-                                            chapter4bba_answer = queries.a_or_b()
+                                            chapter4bba_answer = \
+                                                queries.a_or_b()
                                     break  # exit the loop for chapter 3bb
                                 elif chapter3bb_answer in answer_b:
                                     clear()
@@ -396,14 +417,14 @@ def main():
                                             clear()
                                             chapter5.chapter5bbba()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4bbb
+                                            # exit the loop for chapter 4bbb
+                                            break
                                         elif chapter4bbb_answer in answer_b:
                                             clear()
                                             chapter5.chapter5bbbb()
                                             print(NEW_LINE)
-
-                                            break  # exit the loop for chapter 4bbb
+                                            # exit the loop for chapter 4bbb
+                                            break
                                         else:
                                             clear()
                                             chapter4.chapter4bbb()
@@ -411,7 +432,8 @@ def main():
                                             chapter4.chapter4bbb_option_b()
                                             print(NEW_LINE)
                                             wrong_input.wrng_input2()
-                                            chapter4bbb_answer = queries.a_or_b()
+                                            chapter4bbb_answer = \
+                                                queries.a_or_b()
                                     break  # exit the loop for chapter 3bb
                                 else:
                                     clear()
@@ -450,22 +472,23 @@ def main():
             wrong_input.wrng_input5()
             first_answer = queries.start_y_or_n()
     while True:
-            if first_answer in answer_no:
-                print("Alright, maybe next time. Farewell, cosmic ninja!")
+        if first_answer in answer_no:
+            print("Alright, maybe next time. Farewell, cosmic ninja!")
+            break
+        else:
+            play_again = input(f"""
+{name}, do you want to play again? (yes/no): """).strip().lower()
+            if play_again in answer_yes:
+                # Reset the game
+                clear()
+                main()  # restart the game
+            elif play_again in answer_no:
+                clear()
+                welcome_text.goodbye_text(name)
                 break
             else:
-                play_again = input(f"""
-{name}, do you want to play again? (yes/no): """).strip().lower()
-                if play_again in answer_yes:
-                    # Reset the game
-                    clear()
-                    main()  # restart the game
-                elif play_again in answer_no:
-                    clear()
-                    welcome_text.goodbye_text(name)
-                    break
-                else:
-                    wrong_input.wrng_input2()
+                wrong_input.wrng_input2()
+
 
 if __name__ == "__main__":
     main()
