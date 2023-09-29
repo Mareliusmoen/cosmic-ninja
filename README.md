@@ -71,6 +71,7 @@ It gave me both the background image and the favicon image that is in the same s
 It's very straight forward once the game is running, follow the on-screen instructions to navigate the story, make your own choices, and change the galaxy's destiny while you shape your own destiny as a cosmic ninja.
 
 ## Technologies
+
 ### Coding languages
 - **Python,** used for the terminal application.
 - **HTML,** with some inline styling.
@@ -88,7 +89,9 @@ systems.
 
 ## Features left to implement
 - Typewriter effect for text to output terminal, want to implement this effect so it looks like the story is being written as you play the game.
+
 ## Testing
+
 ### Automated testing with Code Institutes Python Linter
 The only errors that occurs are related to the ASCII art that uses symbols,
  letters and spaces to create the art.
@@ -110,6 +113,7 @@ The only errors that occurs are related to the ASCII art that uses symbols,
 | Play again If you chose to play again                | clear chapter 5, print logo + + 'read backstory' and 'start game options'. And the game loop has started again                                           | clear chapter 5, print logo + + 'read backstory' and 'start game options'. And the game loop has started again                                           | Confirmed  |
 | Incorrect input when  given options in every chapter | Print 'wrong input' message, and reprint input choices.                                                                                                  | Print 'wrong input' message, and reprint input choices.                                                                                                  | Confirmed  |
 | Trying to input empty text in name selector          | Show 'wrong name' name message, and ask for a new input                                                                                                  | Show 'wrong name' name message, and ask for a new input                                                                                                  | Confirmed  |
+
 ## Bugs
 ### Problems encountered during the creation-process
 - Indentations are hard to keep track of as the while loop gets more and more if elif else with each chapter. **FIX:** Refactor the code and make functions in other .py files to make the overall code easier to read.
@@ -119,6 +123,7 @@ The only errors that occurs are related to the ASCII art that uses symbols,
 - Text to long in some chapters to be read in terminal without scrolling, had to reset index.html file back to template default to try again. **FIX** Added extra lines for the output terminal in the HTML file to prevent the need for scrolling within the output terminal. (depending on screensize the user might need to scroll on the webpage itself).
 - Struggled to manage a code for the characters to be printed one by one, this was very import for the user experience because certain chapters or text is longer than the 24 lines that are shown in the players terminal, and with out this method of printing there would be no way for the player to know intuitively to scroll up or down to read the entire text. **FIX:** Unsolved and is added to future features.
 - Music file will play in preview in vscode, but does not even load in the deployed browser. **FIX:** Added SoundClouds embedded music player.
+- Problem with functions in queries.py not working as intended when called in run.py. **FIX:** add ‘return’ in front of input to make the function return the value so the rest of the code can interact with it.
 
 ## Unsolved bugs
 - Background image is not fully responsive for all screensizes, but this is due the template from Code Institute used for this project (as it is a python-project) and not the code I added to it.
@@ -148,6 +153,9 @@ The project was deployed to [Heroku](https://www.heroku.com) using the below pro
 - From the bottom of the deploy page **select your preferred deployment type** by follow one of the below steps:  
    - Clicking either "Enable Automatic Deploys" for automatic deployment when you push updates to Github.  
    - Select the correct branch for deployment from the drop-down menu and click the "Deploy Branch" button for manual deployment. 
+
+## NOTE
+Please note that some trailing white spaces and 'invalid… ' errors will show up in pep8 linter because of the ASCII art at the beginning of each chapter string.
 
 ## Acknowledgments
 - Deployment description in this readme.md file is from dnlbowers and his battleship apps readme.md file; https://github.com/dnlbowers/battleships/tree/main
