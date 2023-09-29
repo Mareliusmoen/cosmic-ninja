@@ -117,7 +117,9 @@ The only errors that occurs are related to the ASCII art that uses symbols,
 - Music file will play in preview in vscode, but does not even load in the deployed browser. **FIX:** Added SoundClouds embedded music player.
 
 ## Unsolved bugs
+- Background image is not fully responsive for all screensizes, but this is due the template from Code Institute used for this project (as it is a python-project) and not the code I added to it.
 
+No other bugs found during testing.
 ## Deployment
 ### ***Final Deployment to Heroku:***  
   
