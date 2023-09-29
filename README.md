@@ -66,6 +66,10 @@ Here the user will read a short text about what I had in mind when I created the
 The back ground image is created by AI for free at https://gencraft.com/, the requirements  I gave the AI was "50 ninjas in space fighting with laser weapons".
 It gave me both the background image and the favicon image that is in the same style and color-scheme.
 
+## How to Play
+
+It's very straight forward once the game is running, follow the on-screen instructions to navigate the story, make your own choices, and change the galaxy's destiny while you shape your own destiny as a cosmic ninja.
+
 ## Technologies
 ### Coding languages
 - **Python,** used for the terminal application.
