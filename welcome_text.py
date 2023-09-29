@@ -120,7 +120,37 @@ EVERYBODY HAS A LETHAL SPACE-NINJA IN THEM""")
 
 def goodbye_text(name):
     print(f"""
+           ______
+         .´      `.
+   /.   /          \ 
+   `.`.:            :
+   _.:'|   ,--------| 
+   `-·´|  | v     v :
+       :  \_.---`-._|
+    __  \           ;
+ ·-´\_\  :         /
+     \_\ :  ` . _.´
+      \ (        :
+ __.---´          `--._
+´                      '
+
 Fairwell, {name}, your cosmic journey comes to a close for now.
 Should you ever wish to return to the path of the cosmic ninja, the universe
 will be here, ready to embrace your ninja spirit once more. Until then,
-may the stars guide your way!""")
+may the stars guide your way!
+
+o               .        ___---___                    .
+       .              .--\        --.     .     .         .
+                    ./.;_.\     __/~ \.
+                   /;  / `-'  __\    . \ 
+ .        .       / ,--'     / .   .;   \        |
+                 | .|       /       __   |      -O-       .
+                |__/    __ |  . ;   \ | . |      |
+                |      /  \ \     . ;| \__|
+   .    o       |      \  .~ \___,--'     |           .
+                 |     | . ; ~~~~\_    __|
+    |             \    \   .  .  ; \  /_/   .
+   -O-        .    \   /         . |  ~/                  .
+    |    .          ~\ \   .      /  /~          o
+  .                   ~--___ ; ___--~       
+                 .          ---         .         """)
