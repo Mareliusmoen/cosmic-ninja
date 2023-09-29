@@ -472,6 +472,7 @@ def main():
                     chapter1_answer = queries.a_or_b()
             break
         elif first_answer in ANSWER_NO:
+            print(NEW_LINE)
             print("Alright, maybe next time. Farewell, cosmic ninja!")
             break
         else:
