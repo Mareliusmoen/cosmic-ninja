@@ -107,9 +107,7 @@ The only errors that occurs are related to the ASCII art that uses symbols,
 | Incorrect input when  given options in every chapter | Print 'wrong input' message, and reprint input choices.                                                                                                  | Print 'wrong input' message, and reprint input choices.                                                                                                  | Confirmed  |
 | Trying to input empty text in name selector          | Show 'wrong name' name message, and ask for a new input                                                                                                  | Show 'wrong name' name message, and ask for a new input                                                                                                  | Confirmed  |
 ## Bugs
-
-## Unsolved bugs
-## Problems encountered during the creation-process
+### Problems encountered during the creation-process
 - Indentations are hard to keep track of as the while loop gets more and more if elif else with each chapter. **FIX:** Refactor the code and make functions in other .py files to make the overall code easier to read.
 - Some ASCII art needed to be tweaked because some of the combination of symbols have a coding attribute and messed with the code (especially backslash which makes indentations). **FIX:** Add spaces after backslashes to prevent them from indenting is one example.
 - Did not define the chapters and chapter options as functions but jus declared them as variables, this made them print to console as soon as program started because of the import command. **FIX:** Change all chapter-variables to chapter functions in their appropriate .py files and then call them in the run.py code.
@@ -118,8 +116,10 @@ The only errors that occurs are related to the ASCII art that uses symbols,
 - Struggled to manage a code for the characters to be printed one by one, this was very import for the user experience because certain chapters or text is longer than the 24 lines that are shown in the players terminal, and with out this method of printing there would be no way for the player to know intuitively to scroll up or down to read the entire text. **FIX:** Unsolved and is added to future features.
 - Music file will play in preview in vscode, but does not even load in the deployed browser. **FIX:** Added SoundClouds embedded music player.
 
+## Unsolved bugs
+
 ## Deployment
-## ***Final Deployment to Heroku:***  
+### ***Final Deployment to Heroku:***  
   
 The project was deployed to [Heroku](https://www.heroku.com) using the below procedure:-    
   
@@ -164,6 +164,7 @@ The project was deployed to [Heroku](https://www.heroku.com) using the below pro
 
 - Favicon generated for free by AI at site: https://gencraft.com/
 
-- Styling of the display (background, positioning of terminal and 'run button'from: https://github.com/dnlbowers/battleships/blob/main/views/layout.html
+- Styling of the display background, positioning of terminal and 'run button'from: https://github.com/dnlbowers/battleships/blob/main/views/layout.html
 
 - How to add the embedded Soundcloud adio player to HTML: https://help.soundcloud.com/hc/en-us/articles/115003568008-Embedding-a-track-or-playlist-#:~:text=Click%20on%20the%20embed%20tab,section%20of%20your%20site
+-And the music itself from SoundCloud: https://soundcloud.com/sega-16bit-music/street-fighter-theme-of-chun-li
