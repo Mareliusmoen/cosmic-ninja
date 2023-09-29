@@ -29,7 +29,7 @@ This app is created for anyone with a special interest in any of its topics or t
 ???????
 
 ## Wireframe/Flowchart
-![Flowchart of the Cosmic Ninja Adventure Game](files/images/cosmic-ninja-flowchart.png)
+![Flowchart of the Cosmic Ninja Adventure Game](files/images/cosmic-ninja-flow-2.png)
 
 ## Features
 ### Welcome screen
