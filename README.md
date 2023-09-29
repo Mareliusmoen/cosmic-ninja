@@ -83,25 +83,40 @@ systems.
 - **Heroku,** to host the application.
 
 ## Features left to implement
-
+- Typewriter effect for text to output terminal, want to implement this effect so it looks like the story is being written as you play the game.
 ## Testing
 ### Automated testing with Code Institutes Python Linter
 The only errors that occurs are related to the ASCII art that uses symbols,
  letters and spaces to create the art.
 
 ### Manual testing
-
+| **Testing description**                              | **Expected action**                                                                                                                                      | **Actual output**                                                                                                                                        | **Result** |
+|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Game app start                                       | Shows logo + 'read backstory' and 'start game options'                                                                                                   | Shows logo + 'read backstory' and 'start game options'                                                                                                   | Confirmed  |
+| Choose to read backstory                             | Show 'backstory' text and option to 'start game'                                                                                                         | Show 'backstory' text and option to 'start game'                                                                                                         | Confirmed  |
+| from backstory to start the introduction             | clear the backstory and load introduction text                                                                                                           | clear the backstory and load introduction text                                                                                                           | Confirmed  |
+| Enter you name in the input field                    | See introduction text input  printed to terminal                                                                                                         | See introduction text input  printed to terminal                                                                                                         | Confirmed  |
+| Loading welcome screen                               | When name is entered and pressed 'enter', clear introduction text and print welcome text (that includes the name you entered) + option to start the game | When name is entered and pressed 'enter', clear introduction text and print welcome text (that includes the name you entered) + option to start the game | Confirmed  |
+| Start the game                                       | When entering to start the game it clears the welcome text, prints chapter 1 with 2 options                                                              | When entering to start the game it clears the welcome text, prints chapter 1 with 2 options                                                              | Confirmed  |
+| Chapter 2                                            | Clears chapter 1, prints the  correct chapter 2 depending  on which option you chose  in the previous chapter                                            | Clears chapter 1, prints the  correct chapter 2 depending  on which option you chose  in the previous chapter                                            | confirmed  |
+| Chapter 3                                            | Clears chapter 2, prints the correct chapter 3 (and the connected 2 options) depending on previous choices of the  options presented to you              | Clears chapter 2, prints the correct chapter 3 (and the connected 2 options) depending on previous choices of the  options presented to you              | Confirmed  |
+| Chapter 4                                            | Clears chapter 3, prints the correct chapter 4 (and the connected 2 options) depending on previous choices of the  options presented to you              | Clears chapter 3, prints the correct chapter 4 (and the connected 2 options) depending on previous choices of the  options presented to you              | Confirmed  |
+| Chapter 5 (last chapter)                             | Clears chapter 4, prints the correct chapter 5 depending on previous choices of the  options presented to you. + 'play again' option                     | Clears chapter 4, prints the correct chapter 5 depending on previous choices of the  options presented to you. + 'play again' option                     | Confirmed  |
+| Quit game If you chose not to play again             | clear chapter 5, print 'thank you for playing' message and exit the game                                                                                 | clear chapter 5, print 'thank you for playing' message and exit the game                                                                                 | Confirmed  |
+| Play again If you chose to play again                | clear chapter 5, print logo + + 'read backstory' and 'start game options'. And the game loop has started again                                           | clear chapter 5, print logo + + 'read backstory' and 'start game options'. And the game loop has started again                                           | Confirmed  |
+| Incorrect input when  given options in every chapter | Print 'wrong input' message, and reprint input choices.                                                                                                  | Print 'wrong input' message, and reprint input choices.                                                                                                  | Confirmed  |
+| Trying to input empty text in name selector          | Show 'wrong name' name message, and ask for a new input                                                                                                  | Show 'wrong name' name message, and ask for a new input                                                                                                  | Confirmed  |
 ## Bugs
 
 ## Unsolved bugs
 ## Problems encountered during the creation-process
-- Indentations are hard to keep track of as the while loop gets more and more if elif else with each chapter. **FIX:**
-- Some ASCII art needed to be tweaked because some of the combination of symbols have a coding attribute and messed with the code (especially backslash which makes indentations). **FIX:**
-- Did not define the chapters and chapter options as functions but jus declared them as variables, this made them print to console as soon as program started because of the import command. **FIX:**
-- Problems that the clear command did not work as intende had to change the code to make it work on different operatingsystems. **FIX:**
-- Text to long in some chapters to be read in terminal without scrolling, had to reset index.html file back to template default to try again. **FIX**
-- Struggled to manage a code for the characters to be printed one by one, this was very import for the user experience because certain chapters or text is longer than the 24 lines that are shown in the players terminal, and with out this method of printing there would be no way for the player to know intuitively to scroll up or down to read the entire text. **FIX:**
-- Music file will play in preview in vscode, but does not even load in the deployed browser. **FIX:**
+- Indentations are hard to keep track of as the while loop gets more and more if elif else with each chapter. **FIX:** Refactor the code and make functions in other .py files to make the overall code easier to read.
+- Some ASCII art needed to be tweaked because some of the combination of symbols have a coding attribute and messed with the code (especially backslash which makes indentations). **FIX:** Add spaces after backslashes to prevent them from indenting is one example.
+- Did not define the chapters and chapter options as functions but jus declared them as variables, this made them print to console as soon as program started because of the import command. **FIX:** Change all chapter-variables to chapter functions in their appropriate .py files and then call them in the run.py code.
+- Problems that the clear command did not work as intende had to change the code to make it work on different operatingsystems. **FIX:** Seems like a macOs problem as it worked correctly on Linux, added more lines to the output terminal in the finished project to prevent scrolling and then the clear command removes all printed text (before when scroll was needed for longer text, only what was visible in the terminal when the clear() command ran was removed).
+- Text to long in some chapters to be read in terminal without scrolling, had to reset index.html file back to template default to try again. **FIX** Added extra lines for the output terminal in the HTML file to prevent the need for scrolling within the output terminal. (depending on screensize the user might need to scroll on the webpage itself).
+- Struggled to manage a code for the characters to be printed one by one, this was very import for the user experience because certain chapters or text is longer than the 24 lines that are shown in the players terminal, and with out this method of printing there would be no way for the player to know intuitively to scroll up or down to read the entire text. **FIX:** Unsolved and is added to future features.
+- Music file will play in preview in vscode, but does not even load in the deployed browser. **FIX:** Added SoundClouds embedded music player.
 
 ## Deployment
 ## ***Final Deployment to Heroku:***  
@@ -128,8 +143,11 @@ The project was deployed to [Heroku](https://www.heroku.com) using the below pro
    - Clicking either "Enable Automatic Deploys" for automatic deployment when you push updates to Github.  
    - Select the correct branch for deployment from the drop-down menu and click the "Deploy Branch" button for manual deployment. 
 
-## Credits
+## Acknowledgments
 - Deployment description in this readme.md file is from dnlbowers and his battleship apps readme.md file; https://github.com/dnlbowers/battleships/tree/main
+
+- Manual testing table created with:
+   - Table generator at https://www.tablesgenerator.com/markdown_tables#
 
 - Multiple choice gives multiple choice again inspiration and the occational code snippet:
    - https://www.youtube.com/watch?v=YPFss7hYBmg
